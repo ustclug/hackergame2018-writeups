@@ -134,3 +134,5 @@ int main(int argc, char **argv) {
 102#108#97#103#123#102#105#114#101#95#119#97#116#101#114#95#110#117#99#108#101#97#114#125
 ```
 显然表示的是一串 ASCII 码，处理后即可得 `flag{fire_water_nuclear}`.
+
+zzh：这题最后一步和去年我出的 [熟悉的声音](https://volltin.gitbooks.io/hackergame2017-writeup/shu-xi-de-shen-yin.html) 一题也太像了吧
