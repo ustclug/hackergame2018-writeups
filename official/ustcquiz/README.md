@@ -27,3 +27,5 @@
 5. 我校 Linux 用户协会在大约三年前曾经举办过一次小聚，其主题是《白帽子大赛，黑客不神秘》，请问这次小聚使用的教室编号是？
 
 直接搜索“白帽子大赛，黑客不神秘”即可，可以找到若干年前 Google Groups 上的[活动公告](https://groups.google.com/forum/#!topic/ustc_lug/356R2-WRaI0)。
+
+zzh：加引号搜索或者加上 LUG 等关键词，也可以在 [LUG活动](https://lug.ustc.edu.cn/wiki/lug/events/start) 上找到答案
