@@ -1,0 +1,402 @@
+.CODE
+
+.OFFSET C21
+LABEL:
+    RNop
+    RNop
+    Jmp
+
+HLT:
+    Hlt
+
+OUT:
+    Out/Nop
+    Jmp
+
+IN:
+    In/Nop
+    Jmp
+
+MOVD:
+    MovD/Nop
+    Jmp
+
+ROT:
+    Rot/Nop
+    Jmp
+
+NOP:
+    Jmp
+    Nop
+OUTPUT1:
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Jmp
+
+OPR:
+    Opr/Nop
+    Jmp
+
+PROC:
+    Rot/Nop
+RPROC:
+    RNop
+    RNop
+    RNop
+    RNop
+    RNop
+    Jmp
+
+COUNT2:
+    Nop/MovD
+    Jmp
+
+COUNT5:
+    Nop/Nop/Nop/Nop/MovD
+    Jmp
+
+COUNT9:
+    Nop/Nop/Nop/Nop/Nop/Nop/Nop/Nop/MovD
+    Jmp
+OUTPUT2:
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Rot
+    Out
+    Jmp
+
+FLAG_resetvphase1:
+    Nop/MovD
+    Jmp
+
+FLAG_resetvphase2:
+    Nop/MovD
+    Jmp
+
+FLAG_storev:
+    Nop/MovD
+    Jmp
+
+FLAG_crazyv:
+    Nop/MovD
+    Jmp
+
+FLAG_rotv:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_y_1:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_y_2:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_y_3:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_0:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_1:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_2:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_3:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_4:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_5:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_6:
+    Nop/MovD
+    Jmp
+
+FLAG_crazy_c2_7:
+    Nop/MovD
+    Jmp
+
+.DATA
+reset_check_variables:
+    R_FLAG_resetvphase1
+    ROT C1 R_ROT
+    U_OPR tv1
+resettv1phase2:
+    R_FLAG_resetvphase2
+    U_OPR tv1
+store_v1:
+    R_FLAG_storev
+    R_FLAG_crazyv
+    U_OPR tv1
+tv1:
+    C1
+    R_OPR
+    FLAG_crazyv after_oprtv1 R_FLAG_crazyv
+    FLAG_resetvphase1 resettv1phase2 R_FLAG_resetvphase1
+    FLAG_resetvphase2 resetv1phase1
+
+resetv1phase1:
+    R_FLAG_resetvphase1
+    U_OPR v1
+resetv1phase2:
+    R_FLAG_resetvphase2
+    U_OPR v1
+after_oprtv1:
+    U_OPR v1
+rot_v1:
+    R_FLAG_rotv
+    U_ROT v1
+v1:
+    C1
+    FLAG_rotv after_v1_rot R_FLAG_rotv
+    R_OPR
+    FLAG_resetvphase1 resetv1phase2 R_FLAG_resetvphase1
+    R_MOVD
+    FLAG_resetvphase2 reset_v2 R_FLAG_resetvphase2
+    FLAG_storev after_v1_store
+
+reset_v2:
+    R_FLAG_resetvphase1
+    U_OPR tv2
+resettv2phase2:
+    R_FLAG_resetvphase2
+    U_OPR tv2
+store_v2:
+    R_FLAG_storev
+    R_FLAG_crazyv
+    U_OPR tv2
+tv2:
+    C1
+    R_OPR
+    FLAG_crazyv after_oprtv2 R_FLAG_crazyv
+    FLAG_resetvphase1 resettv2phase2 R_FLAG_resetvphase1
+    FLAG_resetvphase2 resetv2phase1 
+
+resetv2phase1:
+    R_FLAG_resetvphase1
+    U_OPR v2
+resetv2phase2:
+    R_FLAG_resetvphase2
+    U_OPR v2
+crazy_v2:
+    R_FLAG_crazyv
+    U_OPR v2
+after_oprtv2:
+    U_OPR v2
+v2:
+    C1
+    U_NOP not_from_return
+    U_NOP correct
+    U_NOP wrong
+not_from_return:
+    R_OPR
+    FLAG_resetvphase1 resetv2phase2 R_FLAG_resetvphase1
+    FLAG_resetvphase2 after_reset_check_variables R_FLAG_resetvphase2
+    R_MOVD
+    FLAG_storev after_v2_store R_FLAG_storev
+    FLAG_crazyv after_v2_crazy
+wrong:
+    OUTPUT2 261 ?- 342 ?- 333 ?- 330 ?- 309 ?- 99 ?-
+    HLT
+c2_executed:
+    ROT C0 R_ROT
+    OPR C21 R_OPR
+    R_FLAG_crazy_c2_4
+    MOVD
+    crazy_v2
+ENTRY:
+    OUTPUT1 225 ?- 303 ?- 363 ?- 174 ?- 96 ?-
+    MOVD
+    reset_check_variables
+after_crazy_c2_0:
+    ROT C2 R_ROT
+    R_FLAG_crazy_c2_1
+    MOVD
+    crazy_v2
+after_crazy_c2_1:
+    MOVD
+    rot_v1
+after_v1_rot:
+    R_ROT
+    R_MOVD
+    R_FLAG_crazy_c2_2
+    MOVD
+    crazy_v2
+after_crazy_c2_2:
+    ROT C1 R_ROT
+    R_FLAG_crazy_c2_3
+    MOVD
+    crazy_v2
+after_crazy_c2_3:
+    COUNT5
+    c2_count_step1
+    MOVD
+    do_check_c2
+correct:
+    ROT 306 R_ROT
+    OUT ?- R_OUT
+    ROT 324 R_ROT
+    OUT ?- R_OUT
+    ROT 360 R_ROT
+    OUT ?- R_OUT
+    ROT 309 R_ROT
+    OUT ?- R_OUT
+    ROT 369 R_ROT
+    OUT ?- R_OUT
+    ROT 231 R_ROT
+    OUT ?- R_OUT
+    ROT 291 R_ROT
+    OUT ?- R_OUT
+    ROT 324 R_ROT
+    OUT ?- R_OUT
+    ROT 294 R_ROT
+    OUT ?- R_OUT
+    ROT 333 R_ROT
+    OUT ?- R_OUT
+    ROT 324 R_ROT
+    OUT ?- R_OUT
+    ROT 309 R_ROT
+    OUT ?- R_OUT
+    ROT 303 R_ROT
+    OUT ?- R_OUT
+    ROT 285 R_ROT
+    OUT ?- R_OUT
+    ROT 315 R_ROT
+    OUT ?- R_OUT
+    ROT 153 R_ROT
+    OUT ?- R_OUT
+    ROT 285 R_ROT
+    OUT ?- R_OUT
+    ROT 207 R_ROT
+    OUT ?- R_OUT
+    ROT 270 R_ROT
+    OUT ?- R_OUT
+    ROT 375 R_ROT
+    OUT ?- R_OUT
+    HLT
+do_check_c2:
+    R_MOVD
+    ROT C1 R_ROT
+    R_FLAG_crazy_c2_0
+    MOVD
+    crazy_v2
+c2_count_step1:
+    COUNT2
+    c2_executed
+    MOVD
+    do_check_c2
+
+after_crazy_c2_4:
+    ROT C0 R_ROT
+    R_FLAG_crazy_c2_5
+    MOVD
+    crazy_v2
+
+after_crazy_c2_5:
+    ROT C0 R_ROT
+    OPR C21 R_OPR
+    R_FLAG_crazy_c2_6
+    MOVD
+    crazy_v2
+
+after_crazy_c2_6:
+    ROT C1 R_ROT
+    OPR 2 R_OPR
+    R_FLAG_crazy_c2_7
+    MOVD
+    crazy_v2
+
+after_crazy_c2_7:
+    MOVD
+    v2
+
+crazy_for_y:
+    R_MOVD
+    R_FLAG_crazy_y_1
+    ROT C2 R_ROT
+    MOVD
+    crazy_v2
+
+after_crazy_y_1:
+    R_FLAG_crazy_y_2
+    ROT C0 R_ROT
+    MOVD
+    crazy_v2
+
+after_crazy_y_2:
+    R_FLAG_crazy_y_3
+    ROT C1 R_ROT
+    OPR 0t0002000202 R_OPR
+    MOVD
+    crazy_v2
+
+after_v2_crazy:
+    FLAG_crazy_y_1 after_crazy_y_1 R_FLAG_crazy_y_1
+    FLAG_crazy_y_2 after_crazy_y_2 R_FLAG_crazy_y_2
+    FLAG_crazy_y_3 after_crazy_y R_FLAG_crazy_y_3
+    FLAG_crazy_c2_0 after_crazy_c2_0 R_FLAG_crazy_c2_0
+    FLAG_crazy_c2_1 after_crazy_c2_1 R_FLAG_crazy_c2_1
+    FLAG_crazy_c2_2 after_crazy_c2_2 R_FLAG_crazy_c2_2
+    FLAG_crazy_c2_3 after_crazy_c2_3 R_FLAG_crazy_c2_3
+    FLAG_crazy_c2_4 after_crazy_c2_4 R_FLAG_crazy_c2_4
+    FLAG_crazy_c2_5 after_crazy_c2_5 R_FLAG_crazy_c2_5
+    FLAG_crazy_c2_6 after_crazy_c2_6 R_FLAG_crazy_c2_6
+    FLAG_crazy_c2_7 after_crazy_c2_7
+
+after_reset_check_variables:
+    IN ?- R_IN
+    U_OPR crzx
+proc:
+    U_PROC crzx
+crzx:
+    C1
+    R_OPR
+    MOVD proc
+    MOVD proc
+    RPROC ?- ?- ?- ?- ?-
+    COUNT9
+    store_v2
+    MOVD after_reset_check_variables
+    MOVD after_reset_check_variables
+
+after_v2_store:
+    MOVD
+    crazy_for_y
+
+after_crazy_y:
+    MOVD
+    store_v1
+
+after_v1_store:
+    MOVD
+    do_check_c2
+
