@@ -48,7 +48,7 @@
 
 - [王的特权 (permission)](official/permission/README.md)
 
-- [她的礼物 (her_gfit)](official/her_gfit/README.md)
+- [她的礼物 (her_gift)](official/her_gift/README.md)
 
 - [困惑的 flxg 小程序 (confused_flxg)](official/confused_flxg/README.md)
 
