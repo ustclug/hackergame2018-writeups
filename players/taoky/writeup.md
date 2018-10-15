@@ -75,7 +75,7 @@ Uuencoding 编码的结构是这样的：
 
 （对我来讲）悲痛欲绝的是，想找到这个不太正常的实现并不难。
 
-![emotion_feeling_hurt](/Users/tao/Documents/hackergame2018-writeup/imgs/emotion_feeling_hurt.png)
+![emotion_feeling_hurt](imgs/emotion_feeling_hurt.png)
 
 *（图文无关 \* 2）*
 
