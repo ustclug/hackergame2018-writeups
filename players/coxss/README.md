@@ -1,4 +1,4 @@
-# Hackergame 2018（中科大 CTF）write up
+# Hackergame 2018（中国科学技术大学第五届信息安全大赛）write up
 by Coxxs (twitter.com@Coxxs.21d0)
 
 一个对新手很友好的 CTF，一个很有趣的 CTF，也是让我烧了几天脑的 CTF..
