@@ -4,6 +4,8 @@
 
 该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up （players 目录）。
 
+若大家对官方题解有任何疑问或改进建议，欢迎 [提 issue](https://github.com/ustclug/hackergame2018-writeups/issues/new)
+
 **还没有详细题解的题目会在这几天陆续补充，请耐心等待！**
 
 **比赛平台存档地址：[https://hack2018.lug.ustc.edu.cn/](https://hack2018.lug.ustc.edu.cn/)**
