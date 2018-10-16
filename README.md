@@ -2,9 +2,11 @@
 
 本文档收集整理了中国科学技术大学第五届信息安全大赛的官方与非官方题解。
 
-该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up。
+该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up （players 目录）。
 
 **还没有详细题解的题目会在这几天陆续补充，请耐心等待！**
+
+**比赛平台存档地址：[https://hack2018.lug.ustc.edu.cn/](https://hack2018.lug.ustc.edu.cn/)**
 
 ## 目录
 
@@ -64,12 +66,16 @@
 
 ### 来自选手
 
-- [Coxxs](players/coxss/README.md) （黑曜石浏览器、猫咪银行、家里有矿、加密算法和解密算法、CWK的试炼-神庙设计图, Get! ）
+- [Coxxs](players/coxss/README.md) （[blog](https://coxxs.me/879)）（黑曜石浏览器、猫咪银行、家里有矿、加密算法和解密算法、CWK的试炼-神庙设计图, Get! ）
 
 - [soha](https://soha.moe/post/ustc-ctf-2018-writeup.html) （签到题、猫咪问答、游园会的集章卡片、Word 文档、黑曜石浏览器、我是谁、猫咪克星、回到过去、猫咪电路、猫咪和键盘、她的诗、猫咪遥控器、她的礼物、秘籍残篇-滑稽Art、猫咪银行、数理基础扎实的发烧友、加密算法和解密算法、王的特权、C 语言作业、FLXG 的秘密-来自未来的漂流瓶、困惑的 flxg 小程序）
+
+- [邓龙](players/dl/README.md) （本次比赛校内第一）（黑曜石浏览器、回到过去、我是谁、她的诗、她的礼物、C 语言作业、猫咪克星、猫咪电路、加密算法和解密算法、困惑的 flxg 小程序、数理基础扎实的发烧友）
 
 ## 其他资源
 
 - [中国科学技术大学第四届信息安全大赛题解](https://volltin.gitbooks.io/hackergame2017-writeup/)
 - [知乎：参加中国科学技术大学第五届信息安全大赛（Hackergame 2018）是怎样一种体验](https://www.zhihu.com/question/297850153)
 
+## 版权声明
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
