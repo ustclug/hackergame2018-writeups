@@ -28,6 +28,6 @@
 
 直接搜索“白帽子大赛，黑客不神秘”即可，可以找到若干年前 Google Groups 上的[活动公告](https://groups.google.com/forum/#!topic/ustc_lug/356R2-WRaI0)。
 
-最后得到 flag：`flag{G00G1E-is-always-YOUR-FRIEND}`
+zzh 补充：加引号搜索或者加上 LUG 等关键词，也可以在 [LUG活动](https://lug.ustc.edu.cn/wiki/lug/events/start) 上找到答案
 
-zzh：加引号搜索或者加上 LUG 等关键词，也可以在 [LUG活动](https://lug.ustc.edu.cn/wiki/lug/events/start) 上找到答案
+最后得到 flag：`flag{G00G1E-is-always-YOUR-FRIEND}`
