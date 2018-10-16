@@ -68,6 +68,8 @@
 
 ## 尾声
 
+zzh 评「对抗深渊 (adversarial)」：当你在凝视深渊的时候，深渊也正在凝视着你
+
 ## 其他资源
 
 - [中国科学技术大学第四届信息安全大赛题解](https://volltin.gitbooks.io/hackergame2017-writeup/)
