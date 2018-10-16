@@ -115,7 +115,7 @@ y = x * C
 
 自己试着写了一下，貌似错了……（马上就要acm了连这种代码都写不对）
 
-继续查找相关资料，Google上找到一篇课件http://math.ecnu.edu.cn/~jypan/Teaching/SciComp/lect04A.pdf，知道这种密码叫Hill加密，然后在某乎上找到一份python代码https://www.zhihu.com/question/32675322，有些小错误，改改试着一跑，的确有模意义逆矩阵，成了。
+继续查找相关资料，Google上找到一篇课件 http://math.ecnu.edu.cn/~jypan/Teaching/SciComp/lect04A.pdf ，知道这种密码叫Hill加密，然后在某乎上找到一份python代码 https://www.zhihu.com/question/32675322 ，有些小错误，改改试着一跑，的确有模意义逆矩阵，成了。
 
 对了，由于最后MOD 64，直接当模数是64就行，自然溢出MOD 256正好是64的倍数，可以无视。
 
