@@ -24,7 +24,7 @@ https://www.matthias-ernst.eu/malbolgereverse.html
 
 其实这道题的关键就在于弄清楚条件判断是如何实现的。Malbolge 语言没有条件跳转语句，所以只能通过跳转表模拟。弄清楚这一点的话剩下的就是时间问题了。
 
-所以通过搜索，能找到 Cat halts on EOF 这个程序的源码。甚至可以找到 https://github.com/zb3/malbolge-tools/blob/master/samples/src/q.hell。
+所以通过搜索，能找到 Cat halts on EOF 这个程序的源码。甚至可以找到 https://github.com/zb3/malbolge-tools/blob/master/samples/src/q.hell 。
 
 通过 HELL IDE 反汇编，可以看到这份代码与本题之间的相似程度非常之高。实际上，许多 Malbolge 程序处理 if 判断的方法基本都是同一份代码。
 
