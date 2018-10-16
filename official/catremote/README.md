@@ -52,7 +52,7 @@ UDLR 分别代表：上（UP）下（DOWN）左（LEFT）右（RIGHT）。
 </body>
 ```
 
-即可得到路径：
+把上面的代码保存为 remote.html，用浏览器打开即可得到路径：
 
 ![image-20181016114941390](images/image-20181016114941390.png)
 
