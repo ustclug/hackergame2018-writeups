@@ -86,7 +86,7 @@ bin中没有参数还能输出的程序不多，某天晚上就想到了vi。本
 
 本来想手动翻译化简，太难了……
 
-精心搜索后在https://zhuanlan.zhihu.com/p/42721066中发现一个工具https://www.nayuki.io/page/optimizing-brainfuck-compiler，将brainfuck翻译且用神奇的算法化简成C语言。
+精心搜索后在 https://zhuanlan.zhihu.com/p/42721066 中发现一个工具 https://www.nayuki.io/page/optimizing-brainfuck-compiler ，将brainfuck翻译且用神奇的算法化简成C语言。
 
 化简后的程序看上去就是把读入的数的某些倍数加到答案某位上，手动画了第一个数字，发现是矩阵乘法嘛。分析一下，大概是以下形式
 
