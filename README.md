@@ -64,7 +64,7 @@
 
 ### 来自选手
 
-- [Coxxs](players/coxss/README.md) （黑曜石浏览器、猫咪银行、家里有矿、加密算法和解密算法、CWK的试炼-神庙设计图, Get! ）
+- [Coxxs](players/coxss/README.md) （[blog](https://coxxs.me/879)）（黑曜石浏览器、猫咪银行、家里有矿、加密算法和解密算法、CWK的试炼-神庙设计图, Get! ）
 
 - [soha](https://soha.moe/post/ustc-ctf-2018-writeup.html) （签到题、猫咪问答、游园会的集章卡片、Word 文档、黑曜石浏览器、我是谁、猫咪克星、回到过去、猫咪电路、猫咪和键盘、她的诗、猫咪遥控器、她的礼物、秘籍残篇-滑稽Art、猫咪银行、数理基础扎实的发烧友、加密算法和解密算法、王的特权、C 语言作业、FLXG 的秘密-来自未来的漂流瓶、困惑的 flxg 小程序）
 
