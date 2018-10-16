@@ -80,6 +80,8 @@
 
 - [ProfFan](players/ProfFan/README.md) **（总榜第 5）**（游园会的集章卡片、数理基础扎实的发烧友、对抗深渊、加密算法和解密算法）
 
+- [cvhc](players/cvhc/README.md) **（总榜第 6）**（猫咪遥控器、猫咪电路、家里有矿、C 语言作业、加密算法和解密算法、王的特权、对抗深渊）
+
 ## 其他资源
 
 - [中国科学技术大学第四届信息安全大赛题解](https://volltin.gitbooks.io/hackergame2017-writeup/)
