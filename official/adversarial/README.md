@@ -83,7 +83,7 @@ def preprocess_image(arr):
     return convert2tensor(image).reshape(1, 1, 30 ,30)
 ```
 
-`resample=Image.NEAREST` 其实是非常强的提示了，因为这种缩放的方法是取原图 20 \* 20 的 block 的中心像素 (因为原图是600\*600) 构成 30 \* 30 的输入图像。这个 30 \* 30 的小图才是我们真正的对抗样本。之后注意把这 30 \* 30 的小图放大后 patch 到大图上面。
+`resample=Image.NEAREST` 其实是非常强的提示了，因为这种缩放的方法是取原图 20 \* 20 的 block 的中心像素构成大小为 30 \* 30 的输入图像。这个 30 \* 30 的小图才是我们真正的对抗样本。之后注意把这 30 \* 30 的小图放大后 patch 到大图上面。
 
 （我原来准备不改 resample 直接用 bilinear 缩放来着，需要选手逆向 bilinear，但是考虑到可能会进一步加大题目难度，就改用了简单的 NEAREST）。NEAREST 是直接的下采样过程，对自然图像会造成严重的混叠（Shannon 采样定理），所以现实中一般不直接使用。
 
