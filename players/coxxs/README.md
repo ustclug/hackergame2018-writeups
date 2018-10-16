@@ -1,5 +1,5 @@
 # Hackergame 2018（中国科学技术大学第五届信息安全大赛）write up
-by Coxxs (twitter.com@Coxxs.21d0)
+by Coxxs
 
 一个对新手很友好的 CTF，一个很有趣的 CTF，也是让我烧了几天脑的 CTF..
 
@@ -78,7 +78,7 @@ FLAG 碎片售价 20 CTB，根本不够。
 
 简单分析题目，玩家可以请求服务器下发一个 Suffix，在 60 秒内，玩家需要找出两个不同的 nonce，使得：
 
-```
+```javascript
 PopCount(~(Hash(nonce1 + suffix) ^ Hash(nonce2 + suffix))) >= n
 
 // 其中 ^ 为按位异或，~ 为按位取反，PopCount 为求比特位 1 的个数, suffix 为 [a-zA-Z0-9] 内的字符
@@ -125,7 +125,7 @@ MD5 长度 16 字节，也就是 128 个比特位。128 个比特位能撞上 10
 
 *拼一把*是什么操作？就是去开高 CPU 主频的 VPS 一直一直跑.. = =##
 
-```
+```python
 import hashlib, os, gmpy2, sys, requests, base64
 
 def calcSet(hash1, hash2):
@@ -194,7 +194,7 @@ SHA256 也就是 256 个比特位。256 个比特位要撞上 199 个。如果�
 
 由于 Bitcoin 的工作量证明方法要求每个区块 Hash 值都包含大量的 0，因此这部分自然就是相同的。不妨随意拿两个区块 Hash 来看看：
 
-```
+```javascript
 # https://www.blockchain.com/btc/block-height/544535
 000000000000000000096d4052ed11b1db52675ea486feb047b708493c97c709
 
@@ -210,7 +210,7 @@ SHA256 也就是 256 个比特位。256 个比特位要撞上 199 个。如果�
 
 （Python 字节处理不太熟，用了 PHP，速度比较慢）
 
-```
+```php
 <?php
 
 $data = '';
@@ -294,7 +294,7 @@ function getBitCount($value) {
 主办方很贴心的给了整整一个网页的说明..
 
 GitHub 上随便找了一个 BrainFuck 的反编译器，将代码理解并整理后，获得下面一份代码。
-```
+```javascript
 function encrypt(input) {
   if (/^[\w-]{40}$/.test(input)) {
     let index = -1, output = ''
@@ -436,7 +436,7 @@ cwebp trial.png -o trial_2.webp -lossless
 
 然后写个程序提取出黑框中的数据。
 
-```
+```javascript
 var getPixels = require("get-pixels")
 const fs = require('fs')
  
@@ -481,6 +481,4 @@ getPixels("trial_2.png", function(err, pixels) {
 
 虽然不是非常标准的 CTF（Web 和 Pwnable 很少，Misc 比较多），但却是很有趣的 CTF。在思考与解题的过程中，也学到了不少新东西。
 
-**Coxxs**
-
-(本文也将在比赛结束后发布在 [coxxs.me](https://coxxs.me))
+[原文](https://coxxs.me/879)
