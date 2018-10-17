@@ -1,0 +1,3553 @@
+IDA2
+w5e
+2Q|
+)RF\ 
+B-tree v2
+gM
+@ 
+0 
+0 
+ih
+A#D
+@.
+@/X
+@N$ F40E560.var_58
+VN$ F40F530.var_AC
+N$ F401540.var_28.
+@p
+@iX
+@.
+@Kd
+A#
+@N.memcpy.
+TS
+LOADDATACODE.init.plt.text.fini.rodataCONST.eh_frame_hdr.eh_frame.init_array.fini_array.got.got.plt.data.bssBSSextern.
+(S
+A$@A$@
+@pA
+AS
+$; ELF Initialization Function Table
+N$ patches
+I:*
+fW
+G7
+}l\
+<,
+3"
+k\L
+iY
+^N
+>/
+eK/
+|i
+C6)
+iE!
+mI%
+vW=
+|[:
+uV
+}Y5
+`0
+e0
+D `
+V%p
+`@
+`0
+r T
+@ 
++ 
+@D
+@D@
+0@0eD`8
+0@0D
+@DD
+`@`|D|
+VDy
+%p@%pDv
+#@#Ds@
+@Dp
+@@@`Dm
+0@0Dj0
+`@`DgP
+@Ed 
+@!D^
+`@`10@0!D\
+ @ D@b
+@+
+p@p
+`@`
+P@P
+@@@
+0@0
+ @ 
+@@
+D`
+$A
+@6
+8A$8
+0A$0
+(A$(
+ A$ 
+A$
+A$
+A$
+A$A$
+(N$ funcsV
+AA
+N$ fileregions.term_procstartS
+@.init_procN$ entry points@
+@@
+N$ tryblks$
+A$
+A#P
+A 0
+A x 
+A 
+ApAp
+@@
+ @ 
+A$
+A#P
+A 0
+A x 
+A 
+ApAp
+@@
+ @ 
+A$
+A#PA 0x
+A x 
+A 
+AA
+AA
+ApApA
+@@ @ 
+A$
+A#P
+A 0
+A x 
+A 
+ApAp
+@@
+ @ 
+A$
+A#P
+A 0
+A x 
+A 
+ApAp
+@@
+ @ 
+A$
+A#P
+A 0
+A x 
+A 
+A.
+ucQ
+YG5
+`N<
+^L:
+c+Q*<)'('&%$#"!w aK5q[E/
+jT>(
+N$ F401540.var_30N$ F401540.var_38N$ F401540.var_78N$ F401540.var_74N$ F401540.var_70N$ F401540.var_6CN$ F401540.var_68N$ F401540.var_64N$ F401540.var_60N$ F401540.var_5CN$ F401540.var_58N$ F401540.smg_1N$ F401540.var_50N$ F401540.var_48N$ F401540.var_40N$ F401540.var_39N$ F401540.var_3AN$ F401430.var_30N$ F401430.var_2CN$ F401430.var_28N$ F401430.var_24N$ F401430.var_20N$ F401430.var_1CN$ F401430.var_18N$ F401430.var_14N$ F401430.var_10N$ F401430.var_CN$ F401430.var_8N$ F401260.var_4CN$ F401260.var_48N$ F401260.var_3CN$ F401260.var_38N$ F401260.var_2CN$ F401260.var_28N$ F401260.var_24N$ F401260.var_20N$ F401260.var_1CN$ F401260.var_18N$ F401260.var_11N$ F401260.var_12N$ F4011E0.var_10N$ F4011E0.var_CN$ F4011E0.var_8N$ F40F8A4. rN$ F40F8A4
+@N$ F40F8A0. rN$ F40F8A0
+N$ F40F530. sN$ F40F530. rN$ F40F530
+@[
+ Z
+ Y
+ X
+ W
+ V
+ U
+ T
+ S
+ R
+ N
+Q[ P
+0O
+0(
+N$ F40ECE0. sN$ F40ECE0. rN$ F40ECE0
+M
+@#M L
+0K
+5PJ
+0I E
+ D
+ C
+ B
+ A
+ @
+ ?
+ >
+ =
+ <
+ ;
+ :
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ 0
+ HG
+ .
+5P-
+0F(
+~N$ F40E560. s}N$ F40E560. rN$ F40E560
+|M
+c@+ *
+ )
+ (
+ '
+ &
+ %
+ $
+ #
+ "
+ !
+  
+ ,
+5P
+ ~ }
+{N$ F40E500. szN$ F40E500. rN$ F40E500
+yM
+0{
+xN$ F402570. swN$ F402570. rN$ F402570
+vM
+c@ 
+5P 
+5P
+0x w
+uN$ F4023A0. stN$ F4023A0. rN$ F4023A0
+sM
+@ 
+5P
+ u
+rN$ F4019A0. sqN$ F4019A0. rN$ F4019A0
+pM
+@) 
+r(q
+oN$ F401540. snN$ F401540. rN$ F401540
+mM
+]@
+0 
+0on
+lN$ F401430. skN$ F401430. rN$ F401430
+jM
+0l
+iN$ F401260. shN$ F401260. r
+gN$ F401260
+ka
+?1
+yk
+]N
+8* 
+tf
+XF7%
+{i
+7)
+j[L=+
+bD
+'S
+qbS6
+sd
+lZK
+<-
+k]
+1"
+@%!
+sigA
+handler
+qA
+sig
+handler
+@(x
+@x
+@d
+@(d
+A#d
+A#x
+@D
+@vd
+@l
+lx
+@(
+(X
+@x
+@(
+@X
+@x
+@X
+@q
+@d
+A#d
+A#
+MKeypatch filled range [0x401419:0x40141D] (5 bytes), replaced:
+  call _alarm
+seconds
+MKeypatch filled range [0x401391:0x401395] (5 bytes), replaced:
+  call _alarm
+-A
+RA
+,X
+@Mx
+@,
+MX
+@Bx
+@M
+BX
+@=
+=x
+@B
+GX
+@7
+7x
+@G
+/X
+@x
+@@
+!S
+AX
+@^
+@/
+@t
+@/x
+@p
+AX
+@/
+@x
+@/
+X
+@z
+zx
+@
+tx
+iX
+@d
+dx
+@i
+^x
+MX
+@/
+0S
+`ap
+seconds
+vS
+tS
+mS
+`D
+Ax
+@S
+ A
+status
+@@
+@@S
+@@
+Ap
+0S
+@Nhandler
+@`S
+p@`1
+A#
+@0
+@d
+A#S
+@}d
+A#
+}x
+@d
+A#
+eS
+A#X
+@p@
+`A
+QA
+PX
+@;
+NA
+A#
+GS
+Ex
+@P
+;x
+@Pd
+A#
+5S
+A#X
+0S
+"A
+ Nnullsub_1
+A$8d
+"d
+@#
+main
+@0
+initA
+fini
+stack_end
+ubp_av
+argc
+rtld_fini
+!rtld_finiS
+NstartD
+@ d
+A pX
+@")S
+0!
+cN.__ctype_b_loc
+@ d
+A hsecondsS
+0''N.sleep
+@ d
+A `X
+@ statusS
+0N.exit
+@ d
+A XT%X
+@destsrcn.
+@S
+A=size_t
+wY;
+.L
+\#M
+@G:4
+smga[UO
+B<60*$
+bh
+ntz\
+}wqMSY_ekp
+>/
+f%_pgfd`aTJB97200i
+0Vb`^\[Z
+=<:86400q
+1XY[]_aQp
+3q}{yx
+`acegYkjhfd`A
+ApAp
+@@
+ @ 
+N$ srareasV
+$6A$
+#6A#P
+7A 0
+x6A x
+ 6A 
+6A
+7A
+6A
+6A
+7A
+6A
+p7Ap
+7A
+6@
+6@
+9@
+ 7@ 
+6@
+6@
+7@
+N$ segsN$ upgrade 700
+$ idpflags
+N$ ignore microaT{zxvtqXVTRPO#HIHFDA@-)410
+@`d
+%pq
+q}{yx
+#4
+@Y
+03
+`L
+]+F,
+NZt7
+h#T@q,
+]Iz5
+|qZNB8-
+VPJD>8
++%
+u_
+{d
+8"
+i
+D,
+{uoic]WQKE
+82,& 
+Cs
+Cs
+@!
+2A
+@0
+2A
+@YP
+@0
+2A
+2A
+@W
+2A
+2A
+@Rp@
+Rp@
+Rp@
+Rp@
+2A
+@#
+2A
+@$
+2A
+@%
+2A
+@%!
+2A
+@%5
+2A
+@%Rp@
+2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto @
+2N$ auto t2N$ auto t2N$ auto t2N$ auto t2N$ auto t2N$ auto t2N$ auto aa@
+2N$ auto t2N$ auto t2N$ auto @
+2N$ auto type call2N$ auto 2N$ auto t2N$ auto type call2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto @
+2N$ auto t2N$ auto t2N$ auto t2N$ auto t2N$ auto t2N$ auto t2N$ auto aa@
+2N$ auto t2N$ auto t2N$ auto @
+2N$ auto type call2N$ auto t2N$ auto tA$pA
+2N$ auto type call2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ auto 2N$ aS
+n@
+ 0p0`
+`P
+p\hA$h
+2N$ auto type callees@!
+8@
+p`P@0 p`P@0 
+QD
+ApX@(
+MD
+@x`H0p
+FD
+@XTN$ segstringsS
+0%NElf64_Dyn.d_un
+SA
+0%NElf64_Dyn.d_tag
+RA
+NElf64_DynM
+0S
+0S
+0NElf64_Rela.r_addend
+PA
+0%NElf64_Rela.r_info
+OA
+0%NElf64_Rela.r_offset
+NA
+Elf64_RelaM
+%N
+0O
+0P
+0S
+0%NElf64_Sym.st_size
+LA
+0%S
+NElf64_Sym.st_value
+KA
+0#NElf64_Sym.st_shndx
+JA
+0"NElf64_Sym.st_other
+IA
+0"NElf64_Sym.st_info
+HA
+0$S
+)@NElf64_Sym.st_name
+GA
+NElf64_SymM
+@G
+ PH
+0PL
+0N$ got
+EA
+ A
+h__gmon_start__`__ctype_b_locXsleepPexitHmemcpy@signal8__libc_start_main0alarm(memset printfsystemstrlenputsS
+A$toupperDN$ IDALDR node for ids loading $@
+#A
+ A
+ A
+pA
+@}
+@w
+@q
+@f
+ @
+@k
+@a
+@W
+@H
+@;
+d@
+@3
+@+
+X@
+@%
+8Rtd
+8Qtd
+8Ptd
+pA
+pA
+3N$ auto tail parents
+)A
+@@
+@@
+VHELF
+@8@
+CN$ elfnode5N$ postponed lastinsn4N$ hindering addrsN$ AutoB
+ZA
+P@
+F?
+<>
+2=
+(<
+&;
+#:
+1A
+V0
+0N$ hidden_rangesV/
+/N$ sourcefiles.N$ enumsN$ structs
+-A
+,N
+$ libfuncs+N$ signature namesN
+$ funcords
+*A
+$ nullsubsV(
+`A$`
+XA$X
+PA$P
+(S
+A$HA$H
+U:
+G)\-
+tS0
+xW4
+=~]:"
+b?'
+hE-
+nK3
+qN6
+wT
+xU
+jP2
+qW
+_q
+jR8
+Fd
+Ad
+Ap
+@d
+@d
+Ad
+Ad
+@.
+@d
+NaLib64LdLinuxX8
+@d
+@D
+@Pd
+@@d
+Alignment
+Size in memory image
+Size in file image
+Physical address
+Virtual address
+xS
+File offset
+tS
+Flags
+pS
+Type: RO-AFTER; PHT Entry 10
+hS
+Alignment
+`S
+Size in memory image
+XS
+Size in file image
+PS
+Physical address
+HS
+Virtual address
+@S
+File offset
+<S
+Flags
+8S
+Type: STACK; PHT Entry 9
+0S
+AlignmentS
+; ELF Symbol Table
+XA
+TNelf_gnu_hash_chainPNelf_gnu_hash_bucketHNelf_gnu_hash_indexesDNelf_gnu_hash_shift@Nelf_gnu_hash_bitmask_nwords<Nelf_gnu_hash_symbiasS
+; ELF GNU Hash Table8Nelf_gnu_hash_nbucketsNelf_hash_chainNelf_hash_bucketNelf_hash_nchainS
+; ELF Hash TableNelf_hash_nbucket
+(S
+Size in memory image
+ S
+Size in file image
+Physical address
+Virtual address
+File offset
+Flags; PHT Entry 8S
+Type: EH_FRAME
+Alignment
+Size in memory image
+Size in file image
+Physical address
+Virtual address
+File offset
+Flags; PHT Entry 7
+Type: NOTE
+Alignment
+Size in memory image
+Size in file image
+Physical address
+Virtual address
+File offset
+Flags; PHT Entry 6
+Type: DYNAMIC
+Alignment
+Size in memory image
+xS
+Size in file image
+pS
+Physical address
+hS
+Virtual address
+`S
+File offset
+\S
+Flags; PHT Entry 5
+XS
+Type: LOAD
+PS
+Alignment
+HS
+Size in memory image
+@S
+Size in file image
+8S
+Physical address
+0S
+Virtual address
+(S
+File offset
+$S
+Flags; PHT Entry 4
+ S
+Type: LOAD
+Alignment
+Size in memory image
+Size in file imageS
+Physical address
+Virtual address
+File offset
+Flags; PHT Entry 3
+Type: LOAD
+Alignment
+Size in memory image
+Size in file image
+Physical address
+Virtual address
+File offset
+Flags; PHT Entry 2
+Type: LOAD
+Alignment
+Size in memory image
+Size in file image
+Physical address
+Virtual address
+File offset
+|S
+Flags; PHT Entry 1
+xS
+Type: INTERP
+pS
+Alignment
+hS
+Size in memory image
+`S
+Size in file image
+XS
+Physical address
+PS
+Virtual address
+HS
+File offset
+DS
+Flags; PHT Entry 0; ELF64 Program HeaderS
+Type: PHDR
+>S
+!SHT entry index for string table
+<S
+Number of entries in SHT
+:S
+SHT entry size
+8S
+Number of entries in PHT
+6S
+PHT entry size
+4S
+ELF header size
+0S
+Processor-specific flags
+(S
+SHT file offset
+ S
+PHT file offset
+Entry point
+File version
+Machine: x86-64
+File type: Executable
+Padding
+ABI Version
+OS/ABI: UNIX System V ABI
+File version
+Data encoding: little-endian
+File class: 64-bit; ; Needed Library 'libc.so.6',; Interpreter '/lib64/ld-linux-x86-64.so.2'; Imagebase   : 400000.; Format      : ELF64 for x86-64 (Executable)3; File Name   : D:\fatykrch\tmpworkspace\gift2.bakS
+File format: \x7FELFNET DESC(
+NODEn
+$ MAX LINK
+&q\
+*vgXI:+
+wYJ;,
+whY;,
+xiK<-
+\l
+|mX
+5&
+hJ
+49H2#
+xiZ<-
+wY
+<K
+/ 
+qb5DSK
+i^
+BP
+bN
+<3
+!!D
+@%?D
+@%?D
+@$D
+@$iD
+@#!!D
+A D
+A D
+A D
+A D
+A D
+A D
+A D
+A D
+A 
+NaEverMoreHacker
+QA
+NaWeLlKickOutTho
+-A
+NaAtOurCallHacke
+NaWhenWeHaveEnou
+NaThatSNotGoodHa
+NaButTheyCannotH
+NaThatIsTrueHack
+rA
+NaHoardersCanGet
+QA
+NaYouLlBeFreeHac
+(A
+,A
+$A
+LS
+<A
+?A
+EA
+0S
+#A
+'A
+@{A
+src
+destS
+02
+uA
+02
+oA
+cA
+02NcommandS
+02
+JA
+02
+,A
+02
+02NformatS
+02
+02
+02
+NsS
+02
+pA
+82
+pX
+@p
+@d
+dx
+\x
+@d
+A;d
+ANfini
+0!Ninit
+0A
+0!D
+@D
+@D
+@x
+@x
+@x
+@NaJoinUsNowAndSh
+A S
+rX
+@'x
+@r
+0S
+@01
+@'d
+A#
+{S
+A#
+sS
+Wx
+@GGx
+@'
+LX
+@d
+A#
+A#
+@'
+@'
+@``
+`x
+@'
+'X
+@?x
+@'
+?X
+@:
+:x
+@?
+@4
+4x
+#X
+@#
+eX
+@e
+@x
+@X
+@L
+DX
+@D
+Yx
+@x
+@c
+@`j
+jx
+@PdQ
+@d
+A#
+GS
+A#@S
+@d
+A#
+<S
+A#
+5S
+$x
+@x
+@`
+@`
+@|
+|x
+@p
+px
+@d
+A#S
+A#
+@`
+@d
+A#
+A#
+vx
+@]]x
+bX
+@d
+A#
+A#
+vvx
+{X
+@sd
+A#
+A#
+@x
+uX
+@u
+{X
+@{
+@}
+}x
+@w
+wx
+iX
+@d
+dx
+@i
+)X
+@^
+^x
+@)
+PX
+@K
+Kx
+@P
+@E
+Ex
+7X
+@2
+2x
+@7
+oX
+@,
+,x
+@o
+@x
+@b
+~X
+@y
+yx
+@~
+sx
+@{
+hX
+@c
+cx
+@h
+@]
+]x
+RX
+@M
+Mx
+@R
+@G
+Gx
+<X
+@7
+7x
+@<
+@1
+1x
+&X
+@!
+!x
+@&
+cX
+@x
+@%p{\g['
+@j
+@N
+aUsageSMsg
+NaKey
+NaMindWeSingThis
+NaSingingSongsIsA
+@#-NaFlagS
+@NaAaa4
+@tD
+@D
+NaPleaseContactY
+NaRunningThisPro
+@D
+@pD
+@D
+@hA
+@0
+CS
+;S
+.term_proc
+rc
+TE6'
+rcTE6'
+l]N
+|m^O@1"
+}n_PA2
+}n_PA2#
+n_PA2#
+~o
+?0!
+@%5X
+@$
+KS
+A#
+DS
+6X
+1x
+@#
+@x
+@#
+@#
+@#d
+A#
+A#
+ZX
+@Ux
+@#d
+A#
+A#
+@x
+@#
+@")
+@A
+a1a2smg0p
+4A
+x
+@!
+nX
+@i
+ix
+@n
+cx
+@"
+RX
+@M
+Mx
+@R
+Gx
+@!
+6X
+@1
+1x
+@6
++x
+@ 
+@x
+@#x
+@"
+@Z
+@#-
+rX
+@m
+mx
+@r
+gx
+@#Z
+VX
+@Q
+Qx
+@V
+Kx
+:X
+@5
+5x
+@:
+/x
+@#
+@6X
+@ 
+@!
+vX
+@q
+qx
+@v
+kx
+@"
+ZX
+@U
+Ux
+@Z
+Ox
+@"y
+>X
+@9
+9x
+@>
+3x
+@#i
+"X
+@"x
+@!)
+@#x
+src
+dest
+@px
+@X
+ox
+@`x
+@P
+VS
+LA
+=x
+@M
+@7
+@x
+@d
+A#
+A#
+tx
+dx
+@`x
+@P
+KS
+AA
+5x
+@!
+]X
+@x
+XX
+@S
+Sx
+@X
+Mx
+BX
+@=
+=x
+@B
+7x
+,X
+@'
+'x
+@,
+!x
+@X
+@]
+@d
+A#
+YS
+A#
+RS
+0PvQ.
+@/x
+@M
+ZM@
+]PC
+0#
+lK
+qaL
+E5
+Pw
+L;
+tcP<
+WG<
+vd typesn
+mm functions
+xref windowsm
+rings windowsl
+ea_sync_groupsj
+Ci
+aAaa4A
+ong A
+Bh
+int Viewe
+seudocode-Ad
+tkargs propagatedb
+EverMoreHackerQA
+WeLlKickOutTho-A
+tOurCallHacke
+henWeHaveEnouA
+SNotGoodHaA
+ButTheyCannotHA
+ThatIsTrueHackrA
+HoardersCanGetQA
+YouLlBeFreeHac(A
+cM
+44/
+s.
+nJ
+xit@
+commandJA
+N$ F40E560.var_5C
+ormatA
+handler@
+spA
+. ra
+830`
+fini@
+init0@
+main#@
+JoinUsNowAndShA
+C0[
+CZ
+8Y
+4X
+B0W
+CV
+8U
+4T
+A0S
+CR
+CQ
+8P
+var_30O
+98N
+8L
+C0K
+CI
+DH
+CG
+var_29F
+8E
+4D
+A0C
+CB
+8A
+4@
+90?
+C>
+8=
+4<
+80;
+C:
+89
+48
+707
+C6
+85
+44
+603
+C2
+81
+540
+38-
+8+
+4*
+90)
+C(
+8'
+4&
+80%
+C$
+8#
+4"
+70!
+C 
+60
+UsageSMsguA
+KeyoA
+indWeSingThis,A
+ngingSongsIsA
+FlagSA
+toupper
+$A
+ystem$A
+rlen$A
+tart@
+leepX$A
+ignal@$A
+uts$A
+printf $A
+nullsub_1 @
+set($A
+emcpyH$A
+xitP$A
+chain@
+nbucket@
+chain@
+hash_bucket@
+ymbias<@
+shiftD@
+nbuckets8@
+indexesH@
+chainT@
+ucketP@
+elf_gnu_hash_bitmask_nwords@@
+larm0$A
+oupper@
+ystem@
+trlen@
+leep@
+Signal@
+RunningThisProA
+uts@
+rintf@
+PleaseContactYA
+set@
+Memcpy@
+tartMain!@
+cSo6@
+Lib64LdLinuxX8@
+monStartT@
+33@
+25H@
+Glibc214=@
+CtypeBLoc
+larm@
+_ptrA
+libc_start_main8$A
+_ptrA
+gmon_start__h$A
+__ctype_b_loc`$A
+Root Node
+valueK
+izeL
+shndxJ
+otherI
+nameG
+.st_infoH
+SymF
+offsetN
+infoO
+.r_addendP
+RelaM
+unS
+.d_tagR
+Elf64_DynQ
+oupper0@
+term_proc@
+ystem`@
+trlenP@
+leep@
+signal@
+uts@@
+printfp@
+set@
+memcpy@
+init_proc
+exit@
+alarm@
+.__ctype_b_loc@
+ser1
+upgrade 700
+tryblks
+ucts-
+rareas
+ourcefiles/
+ignature names+
+tringsT
+gs
+types
+seen data formats
+refinfo handlers
+qregistry
+ostponed lastinsn5
+in tracer Z
+patches
+original user
+ullsubs)
+nmSerEA
+oader name
+libfuncs,
+os optionsY
+mports
+gnore micro
+idpflags
+ndering addrs4
+hidden_ranges0
+otE
+gdb optionsX
+s(
+uncords*
+xups
+fileregions
+ums.
+ntry points
+lfnodeC
+debugger application\
+curlocsW
+ype callees2
+auto tail parents3
+Structures^
+PE header[
+LDR node for ids loading $D
+IDA View-AV
+Hex View-1]
+. r
+. r
+A0
+. r
+F530
+. r
+CE0
+q<
+e/Z$
+UP
+8
+bC
+uP
+O(
+rK
+QB
+oZE0
+ma
+1*
+XL
+R%
+RX
+@R%
+#X
+@#X
+@ 
+@ 
+@ {
+{x
+@ k
+kx
+@ [
+[x
+@ K
+Kx
+@ X
+@;
+;x
+@ 
+&d
+A 
+ S
+A 
+,A
+@\X
+@L0#=X
+@VX
+@K!X
+@"d
+A Pd
+A Hd
+A @d
+A 8d
+A 0d
+A (d
+A  d
+A S
+A$h
+Ad
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+Md
+@D
+Fd
+@D
+Fxd
+@D
+@x
+F`d
+@D
+@`
+FHd
+@D
+@HT
+F0d
+@D
+@0
+Fd
+@D
+@!
+Fd
+@D
+Fd
+@D
+Fd
+@D
+Fd
+@D
+Fd
+@D
+Fd
+@D
+@pd
+@D
+@p
+FD
+sighandlerS
+0%=__sighandler_t=__sighandler_tN.signal
+secondsS
+0''N.alarm
+scnS
+=size_tN.memset
+formatS
+0A
+rN.printf
+pA
+commandS
+rN.system
+`A
+sS
+0=size_t
+rN.strlen
+PA
+sS
+rN.puts
+@A
+cS
+0N.toupper
+0A
+.init_procA
+!R_X86_64_JUMP_SLOT __ctype_b_loc
+R_X86_64_JUMP_SLOT sleep
+R_X86_64_JUMP_SLOT exit
+R_X86_64_JUMP_SLOT memcpy
+R_X86_64_JUMP_SLOT signal
+R_X86_64_JUMP_SLOT alarm
+R_X86_64_JUMP_SLOT memset
+pA
+R_X86_64_JUMP_SLOT printf
+XA
+R_X86_64_JUMP_SLOT system
+@A
+R_X86_64_JUMP_SLOT strlen
+(A
+R_X86_64_JUMP_SLOT puts
+; ELF JMPREL Relocation TableS
+R_X86_64_JUMP_SLOT toupper
+!R_X86_64_GLOB_DAT __gmon_start__
+; ELF RELA Relocation TableS
+$R_X86_64_GLOB_DAT __libc_start_main
+aGmonStart
+TA
+NaGlibc225
+HA
+NaGlibc214
+=A
+NaGlibc23
+3A
+NaLibcStartMain
+!A
+NaSleep
+NaSystem
+NaAlarm
+aCtypeBLocA
+NaMemcpy
+NaToupper
+NaMemset
+NaStrlen
+NaPrintf
+NaPuts
+NaSignal
+NaExit
+NaLibcSo6
+; ELF String Table
+xA
+`A
+HA
+0A
+@pA
+g`
+SL
+C5,
+WI>
+_Q;
+<.#
+?1
+vi
+\N
+k]H>
+M@3&
+^+Q*D)7(*'&%$#"! tgZM@3&
+x}p
+A#D
+@t
+^A
+\J
+ZH
+)A
+',
+$%H
+N$ nmSerN
+N$ nmSerEAV#D:\fatykrch\tmpworkspace\gift2.bakAIDAmetapc#X
+@@@
+A$p@
+A$p@
+A$p
+g@(FPt
+1H
+E o-c%W8K@UTF-8UTF-16LEUTF-32LE7.00x']^c(F
+(B@__GNUC__=4;__CHAR_BIT__=8;unix=1;__unix=1;__unix__=1;__ELF__=1;A/usr/includeM
+ELF64 for x86-64 (Executable)NRoot Node
+|[
+[0
+@N__gmon_start__D
+hA
+0!
+cN__ctype_b_locD
+A p
+`A
+secondsS
+0''NsleepD
+A h
+XA
+statusS
+0NexitD
+A `
+PA
+destsrcnS
+A=size_tNmemcpyD
+A X
+HA
+sighandlerS
+0%=__sighandler_t=__sighandler_tNsignalD
+A P
+@A
+@3mainargcubp_avinitfini
+rtld_fini
+stack_endS
+0#1
+N__libc_start_mainD
+8A
+secondsS
+0''NalarmD
+A H
+0A
+scnS
+=size_tNmemsetD
+A @
+(A
+formatS
+0A
+rNprintfD
+A 8
+ A
+commandS
+rNsystemD
+A 0
+sS
+0=size_t
+rNstrlenD
+A (
+sS
+rNputsD
+A  
+cS
+0NtoupperD
+A $A
+@G<
+@}
+@?s
+@@5
+@v
+@8!R D
+@Y
+hYC
+.n
+hYD/
+u2
+@XC
+S>
+yp
+G8
+jo
+4T
+,E'
+ rcE6'sdUF7(
+teV
+teG
+L=
+T.V6
+XI:
+a2
+a1
+smg
+sx
+@pd
+Au
+]X
+@%:
+:x
+@%]
+5x
+!x
+@0x
+@pd
+Ao$X
+@$
+@$
+@$
+@$x
+@$
+DX
+@$
+@$Dx
+@@d
+A d
+A d
+Ac
+@$T
+Tx
+@$d
+A 
+:X
+@$
+@$:X
+@$x
+@@x
+@d
+AX
+@#
+@%?
+NKeypatch filled range [0x40248A:0x40248E] (5 bytes), replaced:
+  call _printf
+iA
+format
+cseconds
+Keypatch filled range [0x4024C1:0x4024CA] (10 bytes), replaced:
+  mov edi, 2
+  call _sleep
+ZS
+iKeypatch filled range [0x40245A:0x402468] (15 bytes), replaced:
+  mov rdi, offset command
+  call _system
+%S
+oKeypatch filled range [0x402425:0x402433] (15 bytes), replaced:
+  mov rdi, offset aMindWeSingThis
+  call _puts
+-.
+@x
+@#A
+VA
+hA
+TS
+>A
+src
+OA
+QA
+dest
+src
+dest
+$!H
+dest
+src
+RS
+dS
+/S
+=S
+cNmain
+01
+2x
+@x
+@x
+@x
+@x
+@x
+@px
+@0Y
+`S
+@x
+@Ed
+A#
+A#
+{x
+@d
+A#
+A#S
+@d
+A#
+}S
+A#
+vS
+\x
+aX
+@d
+A#
+A#
+@%p
+gx
+[x
+@d
+A#
+A#S
+@%p
+@d
+A#
+?S
+A#
+8S
+'x
+,X
+@q
+@x
+jX
+@e
+ex
+@j
+lX
+@_
+_x
+@l
+QX
+@L
+Lx
+@Q
+@F
+Fx
+8X
+@3
+3x
+@8
+@-
+-x
+@i
+@x
+#X
+@#
+oX
+@o
+@a
+|X
+@w
+wx
+@|
+qx
+@,
+fX
+@a
+ax
+@f
+@[
+[x
+PX
+@K
+Kx
+@P
+Ex
+:X
+@5
+5x
+@:
+@/
+/x
+$X
+@$
+`X
+@`
+@x
+@S
+pS
+5@fAS
+?S
+zS
+KS
+@s
+sx
+@#d
+dx
+@#d
+-S
+#(
+(x
+@#
+@#
+@#
+@#
+@#t
+tx
+@#"$"$x
+@#
+)X
+@#
+@#
+@#d
+A#
+YS
+A#
+RS
+!$!$x
+@#
+)X
+@d
+A#
+A#
+@#  x
+@#
+@+
+@#
+@#d
+A#
+A#S
+1U
+@
+@c
+@G
+xX
+@X
+ZX
+@g
+@K#X
+@/
+@k
+yX
+@O
+iX
+@3o=X
+@dX
+@5D
+ +*)('&%$#"! ~xr
+lf`ZTNHB<
+xj\N@2$
+|m
+e(H(4(
+!#
+...
+..
+...
+q#^#J#
++q+
+L%
+~pbTF8
+pb
+z5\> 
+L<l f="IDA VieViewsrOutput window
+Graph overview
+IDA View-A
+Hex View-1
+Exports
+ImG
+Def-Default\DatabaWidthV
+ScreenHeight
+Maximized
+Geom2
+FHCu.HCurrent\Database Win4HCurrent\Database Windows\G+HCurrent\Database *HCurrent\Database Wind%HCu'HCurrent'HCurrent'HCurren'HCurrent'HCurrent'HCurrent\Database W%HCu0HCurrent\Database.HCurrent\Databa2HCurrent\Database Windows\IDA/HCurrent\Database Windows\I%HCurrent\Database&HCurrent\Database HCurrent\Database Windows\ViewssOutput window
+Graph overview
+IDA View-A
+Hex View-1
+Exports
+Imports
+Functions window
+Structures
+Enums
+PatchHCu"HCu&HCurrent\Main Windows\Main window\Geom2
++HCurrent\Main Windows\Main "HCurrent\Mai!HCurrent\Main Windows\ScreenWidthVHDefault\
+<l f="IDA View-A">
+<a>
+<v b="1" o="v" s="f201000045000000">
+<v b="1" o="h" s="1101000042040000">
+<v b="1" o="v" s="f201000000000000">
+<d n="Functions window" b="1" m="0" />
+<d n="GraphOverView" b="0" m="0" />
+</v>
+<t i="0">
+<d n="IDA View-A" b="1" m="t" />
+<d n="Patched bytes" b="1" m="0" />
+<d n="Hex View-1" b="1" m="0" />
+<d n="Structures" b="1" m="0" />
+<d n="Enums" b="1" m="0" />
+<d n="Imports" b="1" m="0" />
+<d n="Exports" b="1" m="0" />
+</t>
+</v>
+<d n="Output window" b="1" m="0" />
+</v>
+</a>
+<f>
+</f>
+</l>WidthV
+ScreenHeight
+Maximized
+Geom2
+VMain Windows\
+Main window\
+ViewssOutput window
+Graph overview
+IDA View-A
+Hex View-1
+Exports
+Imports
+Functions window
+Structures
+Enums
+Patched bytesStackPointer
+OpcodeBytes
+nstructionsIndention
+ProximityView
+GraphView
+ArrowsWidthK
+IDA View-A\
+ST
+NC
+IF
+EI
+DK
+Hex View-1\
+OpcodeBytes
+LinePrefixes
+InstructionsIndention
+GraphDisplayOverview
+Database Windows\
+<l f="IDA View-A">
+<a>
+<v b="1" o="v" s="f201000045000000">
+<v b="1" o="h" s="1101000042040000">
+<v b="1" o="v" s="f201000000000000">
+<d n="Functions window" b="1" m="0" />
+<d n="GraphOverView" b="0" m="0" />
+</v>
+<t i="0">
+<d n="IDA View-A" b="1" m="t" />
+<d n="Patched bytes" b="1" m="0" />
+<d n="Hex View-1" b="1" m="0" />
+<d n="Structures" b="1" m="0" />
+<d n="Enums" b="1" m="0" />
+<d n="Imports" b="1" m="0" />
+<d n="Exports" b="1" m="0" />
+</t>
+</v>
+<d n="Output window" b="1" m="0" />
+</v>
+</a>
+<f>
+</f>
+</l>#@
+@hgfedcba`_^]\[Z3210/.-,+*)('&$% 
+0e
+0!
+`|
+@$
+pV
+%p
+@`
+E 
+N$ vmm functions
+@i$A
+ELF64 for x86-64 (Executable)S
+elf64.dllN$ loader nameN$ qregistryS
+PN X<@0Ab,}.,8$RL \_F1Y3G8'u9i/%(S\l1
+N$ original userS
+gY
+[H?,Jiang Ying, Personal license
+k=6Qqd+!N$ user1N$ seen data formats8_words
+floats
+4_dwords
+qwords
+2_doubles
+XMM_16_bytes
+8_bytes
+4_words
+2_dwords
+HMMX_1_qword
+N$ seen data typesN$ refinfo handlersS
+N$ imports
+pA$`hA$X`A$PXA$HPA$@HA$0@A$(8A$ 0A$(A$ A$ A$
+A$hS
+AA$8N$ fixupsHPTPOFF
+bP
+%C
+<(
+k1
+|b
+cXG<
+eX
+?2%
+cVI
+eXK
+0#
+\O
+pcV
+yl_
+D7*
+view:IDA View-A;view:Hex View-1M
+L=size_t
+J=size_t
+G2
+=size_t
+u2
+o2
+c2
+J2
+,2
+A*2
+a1a2
+2'
+a1a2a3
+!a1
+%p
+Aa1a2
+#p
+a1a2a3
+p  
+@pa1a2smg0
+p  
+''seconds
+A=size_tdestsrcn
+5%=__sighandler_t=__sighandler_tsighandler
+''seconds
+=size_tscn
+pA
+rformat
+rcommand
+P=size_t
+rs
+@@
+rs
+nN
+$ vd types
+@$0mN$ xref windowslN$ strings windowsjN$ ea_sync_groups
+iA
+@#
+@hexrays_place_t
+N$ Pseudocode-CS
+@#
+hA
+hexrays_place_t
+N$ Pseudocode-B
+gv
+!ysmg
+l@asmg_1
+smg_1
+L@o
+ff
+dA
+eA
+hintplace_t
+N$ Hint ViewS
+@$hexrays_place_t
+N$ Pseudocode-AcN$ Auto ready readyc
+bN$ stkargs propagatedsrc
+A4
+dest
+rc
+14
+50
+40,
+30
+var_24
+s~
+. r}
+60|
+var_8
+s{
+var_124
+dest
+`M
+@a8aN$ F40F830. rN$ F40F830
+^M
+@_
+_N$ F4011A0. r. r_
+. rz
+E500y
+80
+70
+60
+54
+40
+30
+var_28
+sx
+. rw
+570v
+30
+20
+var_10
+su
+. rt
+23A0s
+40
+38
+29
+A0
+90
+80
+70
+60
+50
+40
+30
+sr
+. rq
+9A0p
+C0
+B0
+A0
+90
+80
+70
+60
+50
+40
+30
+var_20
+so
+. rn
+540m
+30
+20
+var_10
+sl
+. rk
+430j
+48
+38
+20
+var_11
+si
+. rh
+260g
+var_10
+sf
+. re
+E0d
+A0^
+. r]
+30\
+. rc
+120b
+. ra
+F401000`
+Enums_
+Bdsc $U
+N$ Auto1
+N$ F4011A0]N$ F401130. rN$ F401130
+\M
+@]
+[N$ F40F530.var_C0ZN$ F40F530.var_BCYN$ F40F530.var_B8XN$ F40F530.var_B4
+WN$ F40F530.var_B0
+43210t/^.H-2,+*)('&%$}#f"O!8 !
+iR;$lU?
+(v
+H1
+]zd
+GN
+'8"
+q[E
+/j
+T>(xbL6 
+pZD.
+h~hR<&
+v`J4
+2oYC-
+GA
+020
+)MN$ F40ECE0.cS
+0S
+0=size_t.N$ F40ECE0.s0
+)JN$ F40ECE0.nS
+0=size_tN$ F40E560.src0
+)N$ F402570.s0
+)N$ F402570.cS
+0N$ F402570.nS
+0=size_tN$ F402570.destN$ F402570.src0
+)0
+2S
+)N$ F4023A0.sN$ F4019A0.destUN$ F40F530.var_A8TN$ F40F530.var_A4SN$ F40F530.var_A0RN$ F40F530.var_9CQN$ F40F530.var_3CPN$ F40F530.var_38ON$ F40F530.var_30NN$ F40F530.var_98LN$ F40ECE0.var_C8KN$ F40ECE0.var_C0IN$ F40ECE0.var_ACHN$ F40ECE0.var_4DN$ F40ECE0.var_4CFN$ F40ECE0.var_29EN$ F40ECE0.var_A8DN$ F40ECE0.var_A4CN$ F40ECE0.var_A0BN$ F40ECE0.var_9CAN$ F40ECE0.var_98@N$ F40ECE0.var_94?N$ F40ECE0.var_90>N$ F40ECE0.var_8C=N$ F40ECE0.var_88<N$ F40ECE0.var_84;N$ F40ECE0.var_80:N$ F40ECE0.var_7C9N$ F40ECE0.var_788N$ F40ECE0.var_747N$ F40ECE0.var_706N$ F40ECE0.var_6C5N$ F40ECE0.var_684N$ F40ECE0.var_643N$ F40ECE0.var_602N$ F40ECE0.var_5C1N$ F40ECE0.var_580N$ F40ECE0.var_54/N$ F40ECE0.var_44-N$ F40ECE0.var_38,N$ F40E560.var_40+N$ F40E560.var_98*N$ F40E560.var_94)N$ F40E560.var_90(N$ F40E560.var_8C'N$ F40E560.var_88&N$ F40E560.var_84%N$ F40E560.var_80$N$ F40E560.var_7C#N$ F40E560.var_78"N$ F40E560.var_74!N$ F40E560.var_70 N$ F40E560.var_6CN$ F40E560.var_68N$ F40E560.var_64N$ F40E560.var_60N$ F40E560.var_5CN$ F40E560.var_58N$ F40E560.var_54N$ F40E560.var_50N$ F40E560.var_4CN$ F40E560.var_48N$ F40E560.var_24N$ F40E560.var_28N$ F40E560.var_44N$ F40E560.var_3CN$ F40E560.var_30N$ F40E500.var_8N$ F402570.var_54N$ F402570.var_58N$ F402570.var_5CN$ F402570.var_60N$ F402570.var_64
+N$ F402570.var_68N$ F402570.var_6CN$ F402570.var_70N$ F402570.var_74N$ F402570.var_78N$ F402570.var_7CN$ F402570.var_80N$ F402570.var_84N$ F402570.var_88N$ F402570.var_8CN$ F402570.var_44N$ F402570.var_40N$ F402570.var_3CN$ F402570.var_38N$ F402570.var_34N$ F402570.var_A4N$ F402570.var_30N$ F402570.var_28N$ F4023A0.var_43CN$ F4023A0.var_438N$ F4023A0.var_434N$ F4023A0.var_430N$ F4023A0.var_42CN$ F4023A0.var_418N$ F4023A0.var_428N$ F4023A0.var_424N$ F4023A0.var_414N$ F4023A0.var_420N$ F4023A0.var_10N$ F4023A0.var_8N$ F4023A0.var_4N$ F4019A0.var_1ACN$ F4019A0.var_1A8N$ F4019A0.var_1A0N$ F4019A0.var_29N$ F4019A0.var_130N$ F4019A0.var_129N$ F4019A0.var_2AN$ F4019A0.var_19CN$ F4019A0.var_198N$ F4019A0.var_194N$ F4019A0.var_190N$ F4019A0.var_18CN$ F4019A0.var_188N$ F4019A0.var_184N$ F4019A0.var_180N$ F4019A0.var_17CN$ F4019A0.var_178N$ F4019A0.var_174N$ F4019A0.var_170N$ F4019A0.var_16CN$ F4019A0.var_168N$ F4019A0.var_164N$ F4019A0.var_160N$ F4019A0.var_15CN$ F4019A0.var_158N$ F4019A0.var_154N$ F4019A0.var_150N$ F4019A0.var_14CN$ F4019A0.var_148N$ F4019A0.var_144N$ F4019A0.var_140N$ F4019A0.var_13CN$ F4019A0.var_138N$ F4019A0.var_134N$ F4019A0.var_128N$ F4019A0.var_124N$ F4019A0.var_40N$ F4019A0.var_38N$ F401540.var_C0N$ F401540.var_B8N$ F401540.var_B0N$ F401540.var_A8N$ F401540.var_A0N$ F401540.var_94N$ F401540.var_90N$ F401540.var_88N$ F401540.var_80
+N$ F401540.var_20
+@$
+W9
+v^
+S<
+v^
+T;
+s[
+aRC
+4&
+]O
+2$
+[M
+?-
+MGA;5/)
+Nson
+zD
+@$K
+@mNsong
+@R!Y K
+e`G5#D
+@0d
+A(
+A!S
+A(
+AQ
+A-
+Ar
+AQ
+A(
+A(
+AS
+xA
+A$`S
+pD
+@d
+A$XS
+hD
+@d
+A$PS
+`D
+@d
+A$HS
+XD
+@d
+A$@S
+PD
+@d
+A$0S
+HD
+@d
+A$(S
+@D
+@d
+A$ S
+8D
+@pd
+A$S
+0D
+@`d
+A$S
+(D
+@Pd
+A$S
+ D
+@@d
+A$S
+@0
+@&
+@ d
+A S
+A$hS
+N__gmon_start___ptr
+@d
+A$8S
+N__libc_start_main_ptr
+@d
+QS
+DT_NULL 
+QS
+DT_VERSYM 
+QS
+DT_VERNEEDNUM 
+pA
+QS
+DT_VERNEED 
+`A
+QS
+DT_RELAENT 
+PA
+QS
+DT_RELASZ 
+@A
+QS
+DT_RELA 
+0A
+QS
+DT_JMPREL 
+ A
+QS
+DT_PLTREL 
+QS
+DT_PLTRELSZ 
+QS
+DT_PLTGOT 
+QS
+DT_DEBUG 
+QS
+DT_SYMENT 
+QS
+DT_STRSZ 
+QS
+DT_SYMTAB 
+QS
+DT_STRTAB 
+QS
+DT_GNU_HASH 
+QS
+DT_HASH 
+QS
+DT_FINI_ARRAYSZ 
+pA
+QS
+DT_FINI_ARRAY 
+`A
+QS
+DT_INIT_ARRAYSZ 
+PA
+QS
+DT_INIT_ARRAY 
+@A
+QS
+DT_FINI 
+0A
+QS
+DT_INIT 
+ A
+Q; ELF Dynamic InformationS
+DT_NEEDED libc.so.6A D
+@!; ELF Termination Function TableS
+@Cd
+@`S
+Ad
+wdQ>+
+m8
+WJ=
+wt
+SMF=71$
+lT<$
+|dL4 t
+[I
+@$@$:@$
+@$Z@$P:@$Z"
+@$Z@$P:@$Z'
+@$%@$ :
+@$%!
+@@:
+@@:
+_A
+^A
+fN$ F4011E0. seN$ F4011E0. rN$ F4011E0
+dM
+7@ 
+ fe
+cN$ F401120. rN$ F401120
+bM
+@c
+aN$ F401000. rN$ F401000
+`M
+@aS
+N$ Enumsenumplace_t
+N$ Structuresstructplace_t
+@$Z@$P:
+@@
+@@
+@$3@$0
+@$@$
+@7@0
+@@
+@@
+@\@P
+@ @ 
+@@
+@#@#
+@@
+@$@$S
+@@
+N$ Hex View-1hexplace_t
+]A
+\N$ debugger application[N$ PE header
+@B
+ZN$ pin tracer YN$ ios options
+XN$ gdb optionsN$ curlocsi
+WA
+@$Z%
+@#
+@$3
+@$#
+@7F
+@F
+@\2@ @@#
+@$2S
+V@N$ IDA View-Aidaplace_t
+VA
+UN$ Bdsc $
+VA*
+HA
+#A
+ EL F0
+`> 
+0P0@`
+p@0
+p0`
+0@8@ 
+0 
+0@0
+p@P0@`
+p@0@`
+ph0
+ph0
+p0
+p- 
+0 
+00
+pP0@`
+p0@`
+p0
+p0
+p0
+p- 
+0 
+P0@`
+0@`
+p0
+p0
+p- 
+0 
+P0@`
+0@`
+p0
+p0
+p- 
+0 
+0`
+P0A`
+0A`
+pH0
+pH0
+p- 
+0 
+00`
+pP0A`
+p0A`
+p0
+p0
+p- 
+0 
+00`
+pP0A`
+p0A`
+p0
+p0
+p0
+p- 
+0 
+00
+pP0@`
+p0@`
+p 0
+p 0
+p0
+pP- t d0 
+0p0`
+ppP0A`
+pp0A`
+p0
+p0
+p0
+pQ- t d0 
+p0
+pR- t d0 
+00`
+pP0A`
+p0A`
+p0
+p0
+p0
+p/Plib064P/`lpd@-l inux-x86-064P.`spo@.2 
+e 
+0E 
+0E 
+0@
+p@
+E 
+p@
+0@
+P 
+p@
+0@
+P 
+p@
+0@
+P 
+p@
+e 
+0E 
+0E 
+E 
+E0
+E 
+E 
+%`
+`0
+@P
+ p
+0@
+P 
+p1`
+`0@P
+ p
+0@
+P 
+p`
+`0@P
+ p
+0@
+P 
+p#`
+`0@P
+ p
+0@
+P 
+pT`
+`0@P
+ p
+0@
+P 
+p`
+`0@P
+ p
+0@
+P 
+p*`
+`0@P
+ p
+0@
+P 
+pN`
+`0@P
+ p
+0@
+P 
+pa`
+`0@P
+ p
+0@
+P 
+p`
+`0@P
+ p
+0@
+P 
+p`
+`0 @P
+ p
+0@
+P 
+p9`
+`0@P
+ p
+0@
+P 
+p`
+`0@P
+ p
+0@
+P 
+p[`
+`0@P
+ p
+0@
+P 
+p@`
+`0@P
+ p
+0@
+P 
+lPib cp.@sPo`.06
+ePx@i t 
+@sPigPn0a0lP
+pPu@t s 
+@pPriPn0t0fP
+sPt`r l@e@n 
+`mPemPs0e0tP
+tPopu pPp@e0r`
+mPe`m c@p@y 
+`_P_ct0ypPe_pb`_l@oc 
+aPla@r0m 
+PsPysPt0e0mP
+sPlPe e0p@
+_P_l ib@c_`startp_mPai0nGPLI BpC@_P2`.03
+GPLI BC@_`2`.@14 
+GPLIB0C_P2`.p2@.5 
+_P_gm0onP_sptparPt_0_
+-`A`0
+@P
+ p
+0@
+P 
+p`A`0
+@P
+ p
+0@
+P 
+p-` A`0
+@P
+ p
+0@
+P 
+p ` A`0
+@P
+ p
+0@
+P 
+p(` A`0
+@P
+ p
+0@
+P 
+p0` A`0
+@P
+ p
+0@
+P 
+p8` A`0
+@P
+ p
+0@
+P 
+p@` A`0
+@P
+ p
+0@
+P 
+pH` A`0
+@P
+ p
+0@
+P 
+pP` A`0
+@P
+ p
+0@
+P 
+pX` A`0
+@P
+ p
+0@
+P 
+p`` A`0
+@P
+ p
+0@
+P 
+ph` A`0
+@P
+ p
+0@
+P 
+pp` A`0
+@P
+ p
+0@
+P 
+pHWQ 0HP00P
+H  tHA 0
+5@0 
+P%@0 
+P@
+0W%@0 
+Ph@
+@  @W%@0 
+Ph@
+@  @W%@0 
+Ph@
+@  @G%@0 
+Ph@
+@  @W%@0 
+Ph@
+@  @W%@0 
+Ph@
+@  @G%@0 
+Ph@
+@  @W%@0 
+Ph@
+p@  @W%@0 
+Ph@
+`@  @W%@0 
+Ph@
+P@  @G%@0 
+Ph@
+@@  @W%@0 
+Ph@
+0@  @1WI^HHA0 PTIE` @@@ 
+`HEP000@P
+HE` @#@@ 
+`@0 
+PD 
+@f.0
+U#0A0
+HE=P #0A@
+t@@
+@HtE@# A 
+@f
+ff. @
+E#0A0
+HE` @#@A 
+`HA 0HHA0 ?H  HAt@@
+@HtE@# A 
+ff. @
+P=P00
+uUH~@  @@P00
+P]D 
+ff. @
+f.0
+UH  HA  0HEp0A`
+I00HE pA@
+@E  700HE pA@
+@E  %001@E  00@E` h@@# (`@E-@h@ # (@@EP
+HA0  ]
+@  @fff0f0f.Pp
+UH  AVSHA0 @1E`% @#@A 
+`E%P0#0AP
+@  A  @
+@0 @A0 @@0} @ 
+ @ 0@A 0@@} 0@EP00PKE  @@0 P@E@M  L@
+KE  -@!00@E  @0
+KE  -@r00@E  @
+KE  -@00M@E  @
+@ 
+@@00M@r@  @@@Ku 0@K} 0AAA0 A  AA 0A
+E  AA 
+0@ E  AA 
+0@ A  AE0  EAA0 A 
+ A E  AA 0E@E  
+@@
+@HE0@`
+H@  @@
+H@0E @00M@!@  @1DE`%0@#PA 
+pDE`%0@#PA 
+p@E  AE0 AA0 A@0 
+A0 A@0 
+  EA   A0E  AA 0E@}  @E8@
+@HA @0[A^]@@
+@HE0@`
+H@  @@
+H@0E @EPr00P@E  00
+ UH  HA 00H@} 0@u@E` 
+`@EP00PKE  @@t0 P@E@M  @
+KE  -@J040@E  |@
+KE  -@00@E   @
+KE  -@00@E  %@
+@
+@@t00@@  @KU;KU  L@E  d
+HE pA@
+HK0E HKc0M 4  @00@E` @J@4 `@E9@
+@1
+KM)@  )@E@E` @@ `
+HE pA@
+@  @@EHA0 0]
+@  @fff.0P
+UH  AWAVSHA` @
+`1E%P0#0AP
+DEp %P@#0A`
+@  AA  A 0A@ 
+ A 0AA 0D@U 0A@ 
+0A 0AA 0D@U 0@EP00aPH@0u H@0} @U  KE@P 0@@E  @MP 0
+@KE-@&@ ` @@EP? 0
+@KE-@=@n C @@EP 0
+@KE-@@ a @@EPb 
+@KE-@@D  @@EP 0
+@KE-@C@  I@@EP 
+@KE-@@  _@@EP^ 0
+@KE-@_@  h@@EPo 0
+>0
+@@  @@C00I@@K0u @K0} A  AA 0AAA0 A 
+ EAA0 
+@   EAA0 
+@   AA  E0E  AA 0A
+A   EAA0 E  @E@ 
+@H
+H@0 H  HH@0 H  H@M 0HH@0 H  H@M 0HH@0 H  HH@0 H  H@U 0HH@0 H  H@U 0HKU 0HHK0u HK0} H > HKu 0DKE 0DH  H@E 0H@Px00P@ 
+@HKE 0H0H 8 H@Pp00P
+@  @AHK` x@@ `HKPp00PD  0
+HK0} HK` x@@ `g0
+@@  @A@@D0 PHKE 0@
+PDE`%0@#PA 
+pDE`%0@#PA 
+pEA@` 6@@ `A@ 0A@P600PE0 AA0 A@0 
+  A@ 
+0A 0AE   D0A  AA 0AE 0@U@ 
+@@EP=0n0CP@ 
+@@_00h@&@ ` @HKU 0@:L  @E@ 
+@@00@@ 
+@1HKu 0Hc6HK0} D@  7@HKu 0H6HK0} D  HK} 0DD)  A)@Pl 0@D  Hc  A  AU@70 PDKPl00PAA` U@7@ `D!E  AA 0AAPU070PE!  ED1  @E` @@ _`
+HK0M )@  )HKM 0@EP=0n0CP@
+@H@e 0[A^A_]H
+  H@ 0HH  H@ 0HH  H@ 0HH  H@ 0HH  H@ 0HI  I@ 0LLK0M L  LKU 0LDK0] D  H@P`00PH  H@PX00PH@` P@@ `L@PH00P@ 
+@HKPX00PH 0 H8H@` @@@ `00A  HKPP00PHK` @@@ `D@ 
+@HKP`00PHK` P@@ `Y0
+HK` H@@ `@
+P@EPC00PI@  @UH  AWAVAUATSHA` @@
+`HE0A`
+LK` @@ `H@} 0H@u 0LH  00@ p@P
+@ p@P
+@ p@P`0KP 0@@P 0@@P 0@@P 0@P 0
+@K@0 P-@00@P 0@P0 0
+@K@0 P-@00@P 0@P$ 0
+@K@0 P-@0P0@P 0@P 0
+@K@0 P-@0y0@P 0@P2 0
+@K@0 P-@60`0@P 0@PN 0
+@K@0 P-@:-00@P 0@P8 0
+@K@0 P-@00@P 0@P 0
+@K@0 P-@00@P 0@P 0
+@K@0 P-@k{00@P 0@P 0
+@K@0 P-@o00@P 0@P 0
+@K@0 P-@00@P 0@PZ 0
+@K@0 P-@e0A0@P 0@P 0
+@K@0 P-@0i0@P 0@P 0
+@K@0 P-@00@P 0@P 0
+@K@0 P-@00@P 0@P 0
+@K@0 P-@00@P 0@P} 0
+@K@0 P-@0E0@P 0@P 0
+@K@0 P-@F&008@P| 0@Pc 0
+@K@0 P-@+s00B@Px 0@PV 0
+@K@0 P-@T600M@Pt 0@P 0
+@K@0 P-@00_@Pp 0@Pm 0
+@K@0 P-@m00i@Pl 0@PH 0
+@K@0 P-@W070q@Ph 0@P 0
+@K@0 P-@g00|@Pd 0@Pl 0
+@e@ A @@00@E4`% @#@A 
+`E<%P0#0AP
+A  A@P0w0HPBA@0 A@` @w@H B`A 0A@ 
+ A 0@
+A0 E  AA 0DA  A
+E  AA 
+0A A  AA 
+0A E  EE0  AAA0 A 
+ A E  AA 0E@P 0@;@ 
+@@e0A0@@  @HKU 0HKcP00P0< 2@ 
+ A 0AA 0D@E 0E<%P0#0AP
+DEp %P@#0A`
+A  A@P>0S0JPLA@0 A@` >@S@J L`A 0A@ 
+ A 0A@ 
+0A 0DD   E0D  AE  @@0 P0
+@@  @@60`0KU  AE  @@0 P0
+@` @@ 
+`@0`P
+@0`P@pi ~0
+@T@6  M@@k{00@` @@ `L@P 0@_@ 
+@@00@@ y @@1E<%P0#0AP
+DEp %P@#0A`
+@  AA  A 0A@ 
+ A 0A@ 
+0A 0DA  EAA0 A 
+ AAA0 
+A   EAA0 
+A   EE  E0D  AA 
+  AAA0 E  @@0 P0
+@@  @@W070q@HK` @@ `HK} 0LKcP00PF@  @HKcP00PHA0 H  D 0E9A0 AA0 D@0] DEp %P@#0A`
+DEp %P@#0A`
+D  @H@Y0= P@@PH Y0=@D0 AA0 A@0 
+A0 A@0 
+A0 E  AA 0EAA0 A  EAA0 A   D@A0 A   ED  A0E  AA 0AA   EAA0 E  @@0 P0
+@+@s  B@@00KU  AE  @@0 P0
+@@
+@1HKP00PHKc` @@ `HA 0HH  HKu 0LKcP00PF0 HK0u DK` @@ `AA@0 E)  @`@0 PDH@` X@@ `DK` `@@ `ALc  B 0EAA0 D!  AA!  DHKc` @@ `HA 0LKPX00PI  1A@p 0D@t070HK0u HKc` @@ `D4 >0K@0 P@)A@P 0@@` @@ `@0`PT@6p M0
+@ p@P`0@ 
+@@F&008@@  @@E4%P0#0AP
+E<`% @#@A 
+`AA@` @@ s`A@ 0A@P00PsA0 A  @
+A0 @ 
+ A 0EAA0 D  AA 
+ EAA0 
+A   AAA0 
+A   EE  E0A  AA 0A
+A   EAA0 E  @@0 Pl0
+@F@&  8@@m00i@1KP 0@@P W0I@@  @@W0I P@@0 PE<%P0#0AP
+DEp %P@#0A`
+@  AA  A 0A@ 
+ A 0A@ 
+0A 0DA  EAA0 A 
+ AAA0 
+A   EAA0 
+A   EE  E0D  AA 
+  AAA0 E  @@0 P0
+@ p@P`0i@ 
+@@:-00@@ E @K@0 PAE  @@0 P0
+@@ E @@g00|HK0U HKc` @@ `<A  @
+D  @@0 Pl0
+@  @@0E0@@  @@00H 
+ HK} 0LKcP00PF@  @IcD@  x@A
+@0
+PEA1  E!A@0 
+E  @@0 P0
+HK0E HKc` @@ `< 000HK0M HKc` @@ `1@ p@P`0E@
+@@0P0@@  _@HKU 0HKcP00P0< 2@   D@P 0@@
+@HKE 0HKcP00P@0 _@ p@P`0P@
+@@0`Po@p 
+KP 0@)@  )@@0 P@0`P@p h
+HE pA@
+HK0u @.@  @@T@0 PHAP00
+[A\A]A^A_]@0`P@p ,
+@ p@P`0y@
+@1
+K@0 P@)@P 0@@ p@P`0c@  @fD0
+PUH  HAP@00
+@E` 
+`@}H@0u @}0 P| 0
+HE pA@
+1@@ 
+@HKP00PH@` @@ `H@  @HKP00PH@  @@0`P
+@@0 P@0`Pu@p 
+P@P00P
+P 
+E@@0 P@0`P
+HKcP00PHQ@< `@ @A`
+PEHEc pA@
+HKc` @@ `HE4`0@ PA 
+p@@0 P@HK` @@ `HKcP00PHEp< P@ 0A`
+KP 0@DKkp P@0`D  @@0 P00@@P 0@KP 0@@  @@0 P_00
+@K@0 P@@P 0@
+@  @HEo0A`
+@a00@@ 
+@HKP00P@P 0@
+@  @HKP00PHK0M H@0q f@  @
+HEu pA@
+HK0E H 0 @00@P 0@1HA` @@@
+`]
+pUH  AWAVATSHA` @
+`1@@
+LK` p@@ `@00H@0} H@0u L  HK} 0H@Ph00PH  HKPh00PH@` `@@ `@\@0 PL@PP00P@PL 0@@  @HKU 0@EHK0U @B  @EHK0U @B  @EHK0U @B  @EHK0U @B  @EKE  KMDK0M A  AA 0AAP0+0sPDK` \@@ `AAP0+0sPD!  DA  A@+0s PE!A  DA1  AA 0D1!KE  AAA0 A  E!A  !AKPp 0@A  Kp@0 PAA  AA 0AAA0 KP\ 0@APv 0@BE  AAPv00PB!E  AAPv00PB!A  AE1  EAA0 APv 0@BA!  EKP\ 0@5A@ 
+ @D1D!  Kp@0 PADK` p@@ `AA 0AAA0 D  ADK` \@@ `AAPF00XP5E  AAPF00XP5D!  AAA` F@@X 5`E!A  EE1  AAA0 AA` F@@X 5`E!E  K\@0 P5A
+00
+E  A1E!  D!D1  @p@0 PKL@0 PD)DK` L@@ `A)D  KL@0 P)KL@0 P@@y0 ZP)KMA  DKM 0AA 0AE!  D1A  KL@0 P)KL@0 PD)KPL 0@)KM  @@'0 P@@'0 P@MKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00-PD  A@0- PD!E  AAP00-PD!  AD1  EAA0 AA` @@- `E!D  @]KE  KMDK0M A  AA 0EE!  AA 0D!A  AA 0D1!KE  AAA0 A  E!A  !AKPt 0@A  Kt@0 PAA  AA 0AAA0 KP\ 0@AP 0@^E  AAP00P^!E  AAP00P^!A  AE1  EAA0 AP 0@^A!  EKP\ 0@5A@ 
+ @D1D!  Kt@0 PADK` t@@ `AA 0AE!  D1A  AA 0K\@0 P5A
+00
+DK` \@@ `AAP00PA  AAP00PAA0 E!  D!D1  @t@0 PKL@0 P)A)KPL 0@D)  KL@0 P@@y0 ZPKL@0 P)KEA  DKM 0AA 0AAA0 E  AA 0K\@0 PAV@o0 PEAA` V@o@ `!EAA` V@o@ `A!A  EE1  EAA0 APV o0@A!  EKPL 0@)KPL 0@D)  KL@0 P)KEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AA!  1AD@0M KE  KMDK0M A  AA 0EE!  AA 0D!A  AA 0D1!KE  AAA0 A  E!A  !AKPx 0@A  Kx@0 PAA  AA 0AAA0 KP\ 0@AP W0@E  AAP0W0P!E  AAP0W0P!A  AE1  EAA0 AP W0@A!  EAA0 KP\ 0@5A@ 
+ @K\@0 PA}@(0 xPAAP} (0@xAA0 A!  Kx@0 PAKPx 0@A  AA!  1AAA0 KP\ 0@5A@
+  
+@K\@0 PA@0r PAAP 0r@AA0 A!  DA  DA  DKP\00PAA` @X@[ Q`A@X0[ QPE!A  AAP0X0[PQE!  DE  D1A  AAP0X0[PQD!  @x@0 PA@P900ePA  A@P900ePKPL 0@-@@y  Z@A)KE  AKM  AA  A!1A  KL@0 PD)A)  KEKPL 0@D)  )@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0{0}PD  A@{0} PD!E  AAP0{0}PD!  AD1  EAA0 AA` @{@} `E!D  @]KE  KMDK0M A  AA 0AAPi00PDK` \@@ `AAPi00PD!  DA  Ai@0 PE!A  DA1  AAA0 KP\ 0@AP 0@(D  A@0 (PA!KM  AAA0 AA` [@r@L [`DKP\00PAA` [@r@L [`D!A  AA 0AAP[0r0LP[D!  AA  E1KP| 0@A  K|@0 PAA  AA 0AAA0 KP\ 0@AP# %0@xE  AAP#0%0Px!E  AAP#0%0Px!A  AE1  EAA0 AP# %0@xA!  EKP\ 0@5A@ 
+ @D1D!  K|@0 PADK` |@@ `AA 0AE!  D1A  AA 0K\@0 P5A
+00
+DK` \@@ `AAP0&0{PA  AAP0&0{PAA0 E!  AE  AA 0K\@0 PA@0x PAAA` @@x `!EAA` @@x `A!A  EE1  DA  A@0x P!AD@` |@@ `A@Pw00\PE  A@Pw00\PKPL 0@D)  KL@0 P@@y0 ZPKL@0 P)KEA  DKM 0AA 0AE!  D1A  KL@0 P)KL@0 PD)KPL 0@)KE  DKPL00PA)  KL@0 P)AKPL 0@D)  @EKE  AKM  AA  A!1A  D@M 0KEKM  DKM 0AAA0 AA` ;@@  `DKP\00PAA` ;@@  `D!D  AAP; 0 @E!  AD  A1AA0 D1  !KEA  AA 0AE!  A!A  KEA  KMA  AAA0 A  AA 0K\@0 PA@0 PEAA` @@ `!EAA` @@ `!AA  E1E  AA 0A@0 PA!E  K\@0 P5A0
+0D  1D!KE  ADK0M AA0 A  AA 0DA  DKP\00PAA` G@,@ 8`EAA` G@,@ 8`D!A  AAPG0,0P8E!  AE  E1A  AA 0AAPG0,0P8E!  EAA0 KP\ 0@5A@
+  
+@DKP\00PAA` @@% `AAA` @@% `AA 0E!A  EAA0 DK` \@@ `AAP0H0PAP H0@D!  EAA` @H@ `E!E  D1D  AAA` @H@ `D!@]  A@P00PA  A@P00PA@` @@ U`A@P0y0PZA@` @@ U`KEA  KMA  AA!  1AA@` @@ `EA@` @@ `KE@@s  @D-@@s  @@EKE  AKM  AA  A!1A  D@M 0KEKM  DKM 0AAA0 E  E!AA0 D!  AA  AA 0K\@0 PAE@00 3PDAPE 00@3A  !KMA  AA 0AAP
+00FP?DK` \@@ `AAP
+00FP?D!  AAA0 AA` 
+@@F ?`D!A  AE1  KEA  KMA  AA!  1AKP\ 0@5A@ 
+ @D1D!  KEA  DKU 0AA 0AE!  D1A  AA 0K\@0 P5A
+00
+DK` \@@ `AAP0C0PA  AAP0C0PAA0 E!  D!D1  @EA@` @@ `AA@` @@ `KL@0 P-@y00ZA)  KEA  KMA  AAA0 A  AA 0K\@0 PAd@d0` PEAA` d@d@` `!EAA` d@d@` `!AA  E1E  AA 0Ad@d0` PA!E  KL@0 PD)A)  KEKPL 0@)KPL 0@D)  KL@0 P)@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00SPnD  A@0S nPD!E  AAP00SPnD!  AD1  EAA0 AA` @@S n`E!D  @]KE  KMDK0M A  AA 0AAP0B0wP$DK` \@@ `AAP0B0wP$D!  DA  A@B0w $PE!A  DA1  AAA0 KP\ 0@APc n0@D  Ac@n0 PA!KM  AAA0 AA` @@ `DKP\00PAA` @@ `D!A  AA 0AAP00PD!  AA  E1KE  AKM  AA  A!1A  K\@0 P5A0
+0D  1D!KE  ADK0U AA0 A  AA 0DA  DKP\00PAA` @@" h`EAA` @@" h`D!A  AAP00"PhE!  AE  E1A  AA 0AAP00"PhE!  EAA0 KP\ 0@5A@
+  
+@DKP\00PAA` @A@ I`AAA` @A@ I`AA 0E!D!  D1@E  A@P00LP|A  A@P00LP|KPL 0@D)  KL@0 P@@y0 ZPKL@0 P)KEA  DKM 0AA 0AAA0 E  AA 0K\@0 PA@0 <PEAA` @@ <`!EAA` @@ <`A!A  EE1  EAA0 AP 0@<A!  EKPL 0@)KPL 0@D)  KL@0 P)KE-@@ [ @@0[0@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` 6@@f `DAP6 0f@D!  EAA` 6@@f `D!A  D1E  AA 0AAP600fPE!  D@]  KEKM  DKM 0AAA0 AA` @@ `DKP\00PAA` @@ `D!D  AAP 0@E!  AD  A1A  AA 0K\@0 PA@0 PDAP 0@A  !KMA  AA 0AE!  A!A  KEA  KMA  AAA0 A  AA 0K\@0 PA]@L0 ~PEAA` ]@L@ ~`!EAA` ]@L@ ~`!AA  E1E  AA 0A]@L0 ~PA!E  AA 0K\@0 P5A0
+0KP\ 0@AP 06@A  A@06 PAA 0A!KE  AKM  AA  A!1A  AA 0K\@0 P5A
+00
+KP\ 0@AP 0@=A  A@0 =PAA 0A!D  D!E1  D@E  A@P00PxA  A@P00PxA@` y@d@Q }`A@P0y0PZA@` y@d@Q }`KEA  KMA  AA!  1AKPL 0@D)  A)KE  KL@0 PD))@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ `DAP 0@D!  EAA` @@ `D!A  D1E  AA 0AAP00PE!  D@]  KEKM  DKM 0AAA0 E  E!AA0 D!  AAA0 D1  !KEA  AA 0AAP002PDK` \@@ `AAP002PD!  AAA0 AA` @@2 `D!A  AE1  KEA  KMA  AAA0 A  AA 0K\@0 PAh@40 PEAA` h@4@ `!EAA` h@4@ `!AA  E1E  AA 0Ah@40 PA!E  K\@0 P5A0
+0D  1D!KE  ADK0U AA0 A  AA 0DA  DKP\00PAA` @@ `EAA` @@ `D!A  AAP00PE!  AE  E1A  AA 0AAP00PE!  EKP\ 0@5A@
+  
+@EA1  E!A  EAA0 KP\ 0@APx 0Q@A  AAPx00QP!E  AAPx00QPA!  AE  E1D  AAPx 0Q@!A  D@u 0KL@0 PD)A)  A@P0>0PA@` @y@ Z`A@P0>0PKE  AKM  AA  AA 0AAA0 KP\ 0@AP 0@hE  AAP00Ph!E  AAP00Ph!A  AE1  EAA0 AP 0@hA!  EKPL 0@D)  A)KE  KL@0 P)KL@0 PD)KPL 0@)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ `DAP 0@D!  EAA` @@ `D!A  D1E  AA 0AAP00PE!  D@]  KEKM  DKM 0AAA0 AA` @U@ `DKP\00PAA` @U@ `D!D  AAP U0@E!  AD  A1A  AA 0K\@0 PAP@-0s 5PDAPP -0s@5A  !KMA  AA 0AE!  A!A  KEA  KMA  AA!  1AAA0 KP\ 0@5A@ 
+ @K\@0 PA@p0 PAAP p0@AA0 A!  KEA  KMA  AA!  1AKP\ 0@5A@
+  
+@D1D!  DA  AAA0 KP\ 0@AP 0@A  AAP00PA!  EAA` @@ `!EA  E1D  AAP 0@!A  D@u 0A@P00BP1E  A@P00BP1KPL 0@D)  KL@0 P@@y0 ZPKL@0 P)KEA  DKM 0AA 0AE!  D1A  @c@0Z PD@Pc 0Z@KE  -@00@@  @@EKE  AKM  AA  A!1A  D@M 0KEKM  DKM 0AAA0 E  E!AA0 D!  AAA0 D1  !KEA  AA 0AE!  A!A  KEA  KMA  AAA0 A  AA 0K\@0 PAh@0 PEAA` h@@ `!EAA` h@@ `!AA  E1E  AA 0Ah@0 PA!E  AA 0K\@0 P5A0
+0KP\ 0@AP a0:@A  A@a0: PAA 0A!KE  AKM  AA  AA 0AAA0 KP\ 0@AP _0o@E  AAP0_0oP!E  AAP0_0oP!A  AE1  EAA0 AP _0o@A!  EAA0 KP\ 0@5A@
+  
+@K\@0 PAu@0 PAAPu 0@AA0 A!  DA  DA  DKP\00PAA` h@@{ `AAA` h@@{ `E!APh 0{@E!  ED  A1A  AAPh00{PD!  AD@0] A@` @@I `EA@` @@I `KL@0 P-@y00ZA)  KEA  KMA  AA!  1AKPL 0@D)  A)KE  @)0B0D  -@)0B0@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` G@@ 5`DAPG 0@5D!  EAA` G@@ 5`D!A  D1E  AA 0AAPG00P5E!  D@]  KEKM  DKM 0AAA0 AA` @@ `DKP\00PAA` @@ `D!D  AAP 0@E!  AD  A1A  AA 0K\@0 PAE@V0% jPDAPE V0%@jA  !KMA  AA 0AE!  A!A  KEA  KMA  AA!  1AKP\ 0@5A@ 
+ @D1D!  KEA  DKM 0AA 0AE!  D1A  AA 0K\@0 P5A
+00
+DK` \@@ `AAP00PkA  AAP00PkAA0 E!  D!D1  @EA@` L@@$ c`AA@` L@@$ c`A@P0h0%PeA@` @y@ Z`A@P0h0%PeKE  AKM  AA  A!1A  KL@0 PD)A)  KE@@  _@D-@@  _@@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00PD  A@0 PD!E  AAP00PD!  AD1  EAA0 AA` @@ `E!D  @]KE  KMDK0M A  AA 0AAP00{PDK` \@@ `AAP00{PD!  DA  A@0{ PE!A  DA1  AAA0 KP\ 0@AP
+ J0@0D  A
+@J0 0PA!KM  AAA0 AA` @@ `DKP\00PAA` @@ `D!A  AA 0AAP00PD!  AA  E1KE  AKM  AA  A!1A  AA 0K\@0 P5A0
+0KP\ 0@AP 0@A  A@0 PAA 0A!KE  AKM  AA  A!1A  AA 0K\@0 P5A
+00
+KP\ 0@AP 0@cA  A@0 cPAA 0A!D  AD  AKP\ 0@APV o0@A  AAPV0o0PA!  AAA` V@o@ `A!E  EE1  AAPV o0@!A  D@u 0A@PB00P&E  A@PB00P&KPL 0@D)  KL@0 P@@y0 ZPKL@0 P)KEA  DKM 0AA 0AE!  D1A  @@0 PD@P 0@KE  DKPL00PA)  KL@0 P)AKPL 0@D)  @EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00NPD  A@0N PD!E  AAP00NPD!  AD1  EAA0 AA` @@N `E!D  @]KE  KMDK0M A  AA 0AAP00fPDK` \@@ `AAP00fPD!  DA  A@0f PE!A  DA1  AAA0 KP\ 0@AP -0-@LD  A@-0- LPA!KM  AAA0 AA` @@3 
+`DKP\00PAA` @@3 
+`D!A  AA 0AAP003P
+D!  AA  E1KE  AKM  AA  A!1A  AA 0K\@0 P5A0
+0KP\ 0@AP_ 0W@A  A_@0W PAA 0A!KE  AKM  AA  A!1A  AA 0K\@0 P5A
+00
+KP\ 0@AP  0@A  A@ 0 PAA 0A!D  D!E1  D@E  KL@0 P)A)A@` @l@ `A@P0y0PZA@` @l@ `KEA  KMA  AA!  1AA@` -@@ F`EA@` -@@ F`KE-@@;  @D@@;  @@EKE  AKM  AA  A!1A  D@M 0KEKM  DKM 0AAA0 E  E!AA0 D!  AA  AA 0K\@0 PA~@0C APDAP~ 0C@AA  !KMA  AA 0AE!  A!A  KEA  KMA  AA!  1AAA0 KP\ 0@5A@ 
+ @K\@0 PAv@0 PAAPv 0@AA0 A!  KEA  KMA  AA!  1AKP\ 0@5A@
+  
+@D1D!  DA  AAA0 KP\ 0@AP 0G@<A  AAP00GP<A!  EAA` @@G <`!EA  E1D  AAP 0G@<!A  D@u 0A@P0A0PE  A@P0A0PKPL 0@-@@y  Z@A)KE  AKM  AA  AA 0AAA0 KP\ 0@AP 0K@)E  AAP00KP)!E  AAP00KP)!A  AE1  EAA0 AP 0K@)A!  EKPL 0@D)  KL@0 PD)KPL 0@)KE  -@(006@@(  6@@EKE  AKM  AA  A!1A  D@M 0KEKM  DKM 0AAA0 E  E!AA0 D!  AA  AA 0K\@0 PA`@0 "PDAP` 0@"A  !KMA  AA 0AE!  A!A  KEA  KMA  AAA0 A  AA 0K\@0 PA@0_ PEAA` @@_ `!EAA` @@_ `!AA  E1E  AA 0A@0_ PA!E  AA 0K\@0 P5A0
+0KP\ 0@AP 0@A  A@0 PAA 0A!KE  AKM  AA  A!1A  AA 0K\@0 P5A
+00
+KP\ 0@AP9 ~0b@A  A9@~0b PAA 0A!D  AD  ADK` \@@ `AAPW0T0P+APW T0@+E!  AAA` W@T@ +`E!D  ED1  AAA` W@T@ +`D!@]  A@PW0y0ZPA  A@PW0y0ZPA@` E@@ `A@P0y0PZA@` E@@ `KEA  KMA  AAA0 A  AA 0K\@0 PA@0 PEAA` @@ `!EAA` @@ `!AA  E1E  AA 0A@0 PA!E  KL@0 PD)A)  KEKPL 0@D)  )@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00PD  A@0 PD!E  AAP00PD!  AD1  EAA0 AA` @@ `E!D  @]KE  KMDK0M A  AA 0AAP00P)DK` \@@ `AAP00P)D!  DA  A@0 )PE!A  DA1  AAA0 KP\ 0@AP 0A@
+D  A@0A 
+PA!KM  AAA0 AA` @@ =`DKP\00PAA` @@ =`D!A  AA 0AAP00P=D!  AA  E1KE  KMA  AA 0AAPm00PDK` \@@ `AAPm00PD!  AAPm 0@D!  AA1  Kx@0 PDA  A@0 PDKP\00PAA` @@ `E!A  A@0 PD!D  1Kp@0 PAAA0 AA` "@@ r`DKP\00PAA` "@@ r`D!A  A"@0 rPD!A  A1AA0 KE  KMA  AA 0D!A  !Kx@0 PAAPv 0W@DK` \@@ `AAPv00WPD!  AAA0 AA` v@@W `D!A  D1KPp 0@A  AA 0AAPi00PKP\ 0@APi 0@!A  AA 0AAPi00P!A  AE1  AA 0DA  DA  K\@0 PA@0n PAAA` @@n `A!A  AAP00nPA!  EE  E1A  A@0n P!AD@` p@@ `KL@0 PD)KPL 0@D)  KL@0 P)KL@0 P)KL@0 P@@y0 ZPKL@0 P)KEA  DKM 0AA 0AE!  D1A  @;@
+0 PD@P; 
+0@KE  @Z0p0-@Z@ p @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP&00PD  A&@0 PD!E  AAP&00PD!  AD1  EAA0 AA` &@@ `E!D  @]KE  KMDK0M A  AA 0EE!  AA 0D!A  AAA0 KP\ 0@AP 0@D  A@0 PA!KM  AAA0 A  E!A  !AKE  KMA  AA 0AAP00kPDK` \@@ `AAP00kPD!  AAP 0k@D!  AA1  K|@0 PDA  A@0 PDKP\00PAA` @@ `E!A  A@0 PD!D  1Kt@0 PAAA0 AA` @@ `DKP\00PAA` @@ `D!A  A@0 PD!A  A1AA0 KE  KMA  AA 0AAP0v0eP*KP\ 0@AP v0e@*!A  AA 0AAP0v0eP*!A  AE1  K|@0 PDA  A@
+0s PK\@0 PA@
+0s PA!A  AA 0AAP0
+0sP!D  AD1  Kt@0 PAAA0 AA` @@ `K\@0 PA@0 P!AAA0 AA` @@ `!AA  E1AA0 D  D!E1  D@Pt 0@A@` @O@ `AA@` @O@ `KL@0 PD)KPL 0@@P y0@ZKPL 0@)KE  ADK0M AA0 A  AA 0EAA0 KP\ 0@AP )0@VE  AAP0)0PV!E  AAP0)0PVA!  AE  E1E  AA 0A@)0 VPA!E  KL@0 PD))KE  -@00@@  @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0g0PD  A@g0 PD!E  AAP0g0PD!  AD1  EAA0 AA` @g@ `E!D  @]KE  KMDK0M A  AA 0EE!  AA 0D!A  AA 0D1!KE  AAA0 AA` `@@F /`DKP\00PAA` `@@F /`D!A  AA 0AAP`00FP/D!  AA  E1KE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  Kx@0 PDA  AA!  AA!  EAA0 KE  KMA  AA 0AAP"00PKP\ 0@AP" 0@!A  AA 0AAP"00P!A  AE1  KED  AAP >0K@uKP\ 0@AP >0K@uA!  AAA0 AA` @>@K u`!DA  D1KPx 0@A  AA 0D!A  !AD  !A1D  @x@0 PA@P00PUA  A@P00PUKPL 0@-@@y  Z@A)KE  AKM  AA  A!1A  KL@0 PD)KPL 0@D)  KL@0 P)KE-@@  1@@001@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @t@y W`DAP t0y@WD!  EAA` @t@y W`D!A  D1E  AA 0AAP0t0yPWE!  D@]  KEKM  DKM 0AAA0 E  E!AA0 D!  AAA0 D1  !KEA  AA 0AAP00P4DK` \@@ `AAP00P4D!  AAA0 AA` @@ 4`D!A  AE1  Kp@0 PKMA  AA 0AE!  A!A  KED  AAP 90@cDK` \@@ `AAP090PcE!  AAP 90@cD!  D1KP| 0@A  AA 0AAP0P0PDK` \@@ `AAP0P0PD!  AAP P0@D!  AA1  AA 0Kp@0 PKMA  AA 0AAP00PhKP\ 0@AP 0@h!A  AA 0AAP00Ph!A  AE1  KED  AAP 0G@uKP\ 0@AP 0G@uA!  AAA0 AA` @@G u`!DA  D1KP| 0@A  AA 0D!A  !AD  AA  DKP\00PAA` )@=@ A`AAA` )@=@ A`E!A  AAP)0=0PAD!  EA  E1A  AAP)0=0PAD!  AD@` |@@ `KL@0 PD)A)  A@P@060sP(A@` @y@ Z`A@P@060sP(KE  AKM  AA  AA 0AAA0 KP\ 0@AP 0l@E  AAP00lP!E  AAP00lP!A  AE1  EAA0 AP 0l@A!  EA@` @@ ;`EA@` @@ ;`KE-@@B ; @D@@B ; @@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` @@ `DKP\00PAA` @@ `D!A  AA 0AAP00PD!  AA  E1KE  DA  AA!  AA!  EKPt 0@KM  AAA0 AA` }@O@q E`DKP\00PAA` }@O@q E`D!A  A}@O0q EPD!A  A1KE  DA  AA!  AA!  EKE  DA  A^@0H >PDKP\00PAA` ^@@H >`E!A  A^@0H >PD!D  1AKPt 0@DK0M A  AA 0DD!  AA 0D!KE  AAA0 A  E!A  !AKE  EAA0 AA` @@G e`K\@0 PA@0G ePA!A  AA 0AAP00GPe!E  AE1  AA 0AE  AA 0K\@0 PA@0q TPAAA` @@q T`!EAA` @@q T`A!A  EE1  DA  A@0q TP!AD@0u A@` @$@0 `EA@` @$@0 `A@PL0l0P.A@` @@ n`A@PL0l0P.KE  AKM  AA  A!1A  KL@0 PD)KPL 0@D)  KL@0 P)KEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AE!  A!A  KED  AAP 0@DK` \@@ `AAP00PE!  AAA0 AA` @@ `D!D  AD1  Kx@0 PDKM 0AAA0 AA` _@@w `DKP\00PAA` _@@w `D!D  AAP_ 0w@E!  AD  A1KE  EAA0 AA` @@v e`DKP\00PAA` @@v e`E!A  A@0v ePD!E  A1KE  EAA0 AA` L@g@V `DKP\00PAA` L@g@V `E!A  AL@g0V PD!E  A1AA0 KPx 0@DK0M A  AA 0DD!  AA 0D!KE  AAA0 AA` @@ P`DKP\00PAA` @@ P`D!A  AA 0AAP00PPD!  AA  E1KE  EAA0 D!  AA!  DA  DA  AAA0 DK` \@@ `AAP)00PA  AAP)00PE!  EAA` )@@ `D!E  AE1  DA  AAP)00PD!  AD@0u @P 0@D  @@0 PKL@0 P-@00n)KE  ADK0M AA0 A  AA 0EAA0 KP\ 0@AP$ d0@]E  AAP$0d0P]!E  AAP$0d0P]A!  AE  E1E  AA 0A$@d0 ]PA!E  @@V0 PD@P V0@KE  DKPL00PA)  D)@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AAP,00PRDK` \@@ `AAP,00PRD!  AAA0 AA` ,@@ R`D!A  AE1  KED  AA  A!A  A!E  K|@0 PKMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KED  AA  A!A  A!E  AA 0K|@0 PKMA  AA 0D!A  !KEA  AA!  A!A  KED  A!A  A!D  AD  !A1D  @EA@` @@ `AA@` @@ `A@PT00PA@` @@ n`A@PT00PKE  AKM  AA  A!1A  KL@0 PD)A)  KE-@O@  !@D@O@  !@@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` L@\@E `DKP\00PAA` L@\@E `D!A  AA 0AAPL0\0EPD!  AA  E1KE  DA  AA!  AA!  EKE  KMA  AA 0AAP00PDK` \@@ `AAP00PD!  AAP 0@D!  AA1  KED  AAP 80@JDK` \@@ `AAP080PJE!  AAP 80@JD!  D1KE  AAA0 A  E!A  !AAA0 KE  KMA  AA 0AAP0M0PKP\ 0@AP M0@!A  AA 0AAP0M0P!A  AE1  KED  AAPp j0@sKP\ 0@APp j0@sA!  AAA0 AA` p@j@ s`!DA  D1KE  AAA0 D!  A!A  DA  ADK` \@@ `AAPA00APA  AAPA00APE!  AAA` A@@A `D!E  AE1  AAA` A@@A `D!A  D@u 0KL@0 PD)KPL 0@D)  KL@0 P)@@D0D P@@0 nP@@D0D PKEA  DKM 0AA 0AAA0 E  AA 0K\@0 PA@0< PEAA` @@< `!EAA` @@< `A!A  EE1  EAA0 AP 0<@A!  EKPL 0@D)  )KEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` d@@J `DAPd 0J@D!  EAA` d@@J `D!A  D1E  AA 0AAPd00JPE!  D@]  KEKM  AAA0 AA` }@@ V`DKP\00PAA` }@@ V`D!A  AA 0AAP}00PVD!  AA  E1KE  DA  A@0c PDKP\00PAA` @@c `E!A  AA 0AAP00cPD!  DA  D1KE  DKPp00PA  AA 0AAP0B0PhDK` \@@ `AAP0B0PhD!  DA  A@B0 hPE!A  DA1  KEE  AA 0AAP00zPsDK` \@@ `AAP00zPsE!  AAP 0z@sD!  EA1  KEE  AA 0AAP00PDK` \@@ `AAP00PE!  AAP 0@D!  EA1  AA 0KEDK` p@@ `AAA0 D  D!AA0 D!  KEA  AA 0AE!  A!A  KEE  AA 0AAP0F0P8KP\ 0@AP F0@8A!  AAA0 AA` @F@ 8`!EA  E1AA0 D  AE  AA 0K\@0 PA@I0 PAAA` @I@ `A!E  AAP0I0PA!  EE  E1D  AAP I0@!A  D@u 0KL@0 PD))@P, N0@@P 0@n@P, N0@KE  ADK0M AA0 A  E!D1  A@P '0@3D  @@'0 3PKEDK` L@@ `A)D)  @EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAPS00
+PAD  AS@0
+ APD!E  AAPS00
+PAD!  AD1  EAA0 AA` S@@
+ A`E!D  @]KE  KMA  AA 0AE!  A!A  KED  AAP 0e@DK` \@@ `AAP00ePE!  AAA0 AA` @@e `D!D  AD1  KEDK` t@@ `AAA0 AA` @@v x`DKP\00PAA` @@v x`D!D  AAP 0v@xE!  AD  A1KE  EAA0 AA` J@?@U `DKP\00PAA` J@?@U `E!A  AJ@?0U PD!E  A1KE  EAA0 AA` 7@3@ =`DKP\00PAA` 7@3@ =`E!A  A7@30 =PD!E  A1AA0 KE  DKPt00PA  AA 0AAPV00PKP\ 0@APV 0@!E  AA 0AAPV00PA!  AE  E1KE  EAA0 AA` @@ [`K\@0 PA@0 [PA!A  AA 0AAP00P[!E  AE1  KEE  AA 0D!A  A!D  AD  !A1D  @EDK` L@@ `A)D)  KL@0 P)KL@0 P@@0 nPKL@0 P)KEA  DKM 0AA 0AAA0 E  AA 0K\@0 PA)@0 -PEAA` )@@ -`!EAA` )@@ -`A!A  EE1  EAA0 AP) 0@-A!  E@P 0@D  @@0 PKEDK` L@@ `A)D)  @EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` @@@ 2`DKP\00PAA` @@@ 2`D!A  AA 0AAP00@P2D!  AA  E1KE  DA  AA!  AA!  EKE  Kx@0 PAAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  DA  AA!  AA!  EAA0 KE  Kx@0 PAAA0 AA` @ @] `K\@0 PA@ 0] P!AAA0 AA` @ @] `!AA  E1KE  DA  A@0a PK\@0 PA@0a PA!A  AA 0AAP00aP!D  AD1  KEA  AA 0D!A  !AD  AA  DKP\00PAA` @@y `AAA` @@y `E!A  AAP00yPD!  EA  E1A  AAP00yPD!  AD@0u A@` @@ '`EA@` @@ '`A@P^00@PA@` @@ n`A@P^00@PKE  AKM  AA  AA 0AAA0 KP\ 0@AP W0J@E  AAP0W0JP!E  AAP0W0JP!A  AE1  EAA0 AP W0J@A!  EKPL 0@D)  KL@0 PD)KPL 0@)KE  DKPL00PA)  D)@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AAP%010PDK` \@@ `AAP%010PD!  AAA0 AA` %@1@ `D!A  AE1  KED  AA  A!A  A!E  KEKP| 0@A  AA 0AE!  A!A  KED  AAPL i0@9DK` \@@ `AAPL0i0P9E!  AAPL i0@9D!  D1KE  AAA0 A  E!A  !AAA0 KE  K|@0 PAAA0 AA`  @@  `K\@0 PA @0  P!AAA0 AA`  @@  `!AA  E1KE  DA  !AA!  DKE  AAPJ 0}@=DK` \@@ `AAPJ00}P=D!  AAA0 AA` J@@} =`D!A  D1A  DA  AAA0 KP\ 0@AP" (0@A  AAP"0(0PA!  EAA` "@(@ `!EA  E1D  AAP" (0@!A  D@u 0A@P00PE  A@P00PA@` @@7 `A@P00PnA@` @@7 `KEA  KMA  AAA0 A  AA 0K\@0 PA@f0G PEAA` @f@G `!EAA` @f@G `!AA  E1E  AA 0A@f0G PA!E  KL@0 PD)KPL 0@D)  KL@0 P)KEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ `DAP 0@D!  EAA` @@ `D!A  D1E  AA 0AAP00PE!  D@]  KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KED  AA  A!A  A!E  AA 0KEKM  AAA0 D!  A!KE  AA  A!A  !AKE  DA  !AA!  DA  DA  ADK` \@@ `AAP00PA  AAP00PE!  AAA` @@ `D!E  AE1  AAA` @@ `D!A  D@u 0KL@0 PD)A)  A@P0w0 PA@` @@ n`A@P0w0 PKE  AKM  AA  AA 0AAA0 KP\ 0@AP 0@E  AAP00P!E  AAP00P!A  AE1  EAA0 AP 0@A!  EA@` @}@I `EA@` @}@I `KE@@ 6 @D-@@ 6 @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0-03PD  A@-03 PD!E  AAP0-03PD!  AD1  EAA0 AA` @-@3 `E!D  @]KE  KMA  AA 0AAP0]0PDK` \@@ `AAP0]0PD!  AAA0 AA` @]@ `D!A  AE1  KED  AAP] 0@DK` \@@ `AAP]00PE!  AAA0 AA` ]@@ `D!D  AD1  KEDK0M A  AA 0EE!  AA 0D!A  KEE  AA 0AAP00PDK` \@@ `AAP00PE!  AAP 0@D!  EA1  KEE  AA 0AAP00MPTDK` \@@ `AAP00MPTE!  AAP 0M@TD!  EA1  AA 0KEDK0M A  AA 0DD!  AA 0D!KE  AAA0 A  E!A  !AKE  EAA0 AA` @@ `K\@0 PA@0 PA!A  AA 0AAP00P!E  AE1  AA 0DA  EAA0 KP\ 0@AP L0+@A  AAP0L0+PA!  EAA` @L@+ `A!E  EE1  DA  A@L0+ P!AD@0u KPL 0@D)  )KL@0 P-@00n)KE  ADK0M AA0 A  E!D1  AKPL 0@D)  )KEDK` L@@ `A)D)  @EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` ,@@3 _`DKP\00PAA` ,@@3 _`D!A  AA 0AAP,003P_D!  AA  E1KE  DA  AA!  AA!  EKE  KMA  AA 0AE!  A!A  Kp@0 PDA  A@0= VPDKP\00PAA` @@= V`E!A  A@0= VPD!D  1KEA  AA 0AAP0R0PSDK` \@@ `AAP0R0PSD!  AAP R0@SD!  AA1  AA 0KEKM  AAA0 AA` %@X@ k`K\@0 PA%@X0 kP!AAA0 AA` %@X@ k`!AA  E1KPp 0@D  A!A  A!D  KEA  AG@P0x lPDKP\00PAA` G@P@x l`D!A  AA 0AAPG0P0xPlD!  AD1  AD  !A1D  @EA@` @@ >`AA@` @@ >`A@P00PA@` @@ n`A@P00PKE  AKM  AA  A!1A  A@P00PKE  A@P00PKKE  -@800LD  @800L@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AAP 00PDK` \@@ `AAP 00PD!  AAA0 AA`  @@ `D!A  AE1  KED  AAP 0@DK` \@@ `AAP00PE!  AAA0 AA` @@ `D!D  AD1  KEDK0M A  AA 0EE!  AA 0D!A  Kt@0 PEAA0 A  E!A  A!E  KEE  AA 0AAP0Q0RPDK` \@@ `AAP0Q0RPE!  AAP Q0R@D!  EA1  AA 0KEDK0U A  AA 0DD!  AA 0D!KPt 0@A  AA 0AE!  A!A  KEE  AA 0D!A  A!D  AD  AA  AA 0DKP\00PAA` @@ B`AAA` @@ B`E!E  AAP00PBD!  EA  E1D  AAA` @@ B`D!A  D@u 0@H@0 PD@PH 0@KPL 0@-@@  n@)KEA  DKM 0AA 0AAA0 E  AA 0K\@0 PA@0 >PEAA` @@ >`!EAA` @@ >`A!A  EE1  EAA0 AP 0@>A!  EKPL 0@D)  )KE@@%  9@-@%009@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AE!  A!A  KED  AAP/ `0@QDK` \@@ `AAP/0`0PQE!  AAA0 AA` /@`@ Q`D!D  AD1  KEDK0M A  AA 0EE!  AA 0D!A  Kx@0 PEAA0 A  E!A  A!E  Kp@0 PEAA0 AA` @@4 `DKP\00PAA` @@4 `E!A  A@04 PD!E  A1AA0 KE  DKU 0AAA0 D  D!AA0 D!  Kx@0 PAAA0 A  E!A  !AKPp 0@E  AA 0D!A  A!D  AD  !A1D  @p@0 PDKPL00PA)  KL@0 P)AKPL 0@D)  @-00@@  n@-@-00KM  ADK0M AA0 A  E!D1  A-@+@  @D@+@  @KM@P p0@@P p0@@M  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ x`DAP 0@xD!  EAA` @@ x`D!A  D1E  AA 0AAP00PxE!  D@]  KEKM  AAA0 AA` @@H "`DKP\00PAA` @@H "`D!A  AA 0AAP00HP"D!  AA  E1KE  DA  A@0 IPDKP\00PAA` @@ I`E!A  AA 0AAP00PID!  DA  D1KE  DKM 0AAA0 AA` (@@' `DKP\00PAA` (@@' `D!D  AAP( 0'@E!  AD  A1KP| 0@E  AA 0AAPY00PDK` \@@ `AAPY00PE!  AAPY 0@D!  EA1  Kt@0 PEAA0 AA` @@{ |`DKP\00PAA` @@{ |`E!A  A@0{ |PD!E  A1AA0 KE  DKM 0AAA0 D  D!AA0 D!  K|@0 PAAA0 AA` @@ `DKP\00PAA` @@ `D!A  AA 0AAP00PD!  AA  E1KPt 0@E  AA 0AAP%0"0[PKP\ 0@AP% "0[@A!  AAA0 AA` %@"@[ `!EA  E1AA0 D  D!E1  D@Pt 0@DK` L@@ `A)D)  KL@0 P-@00n)KE  ADK0M AA0 A  E!D1  AKPL 0@)KPL 0@D)  KL@0 P)KEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @6@ `DAP 60@D!  EAA` @6@ `D!A  D1E  AA 0AAP060PE!  D@]  KEKM  AAA0 AA`  @@z 9`DKP\00PAA`  @@z 9`D!A  AA 0AAP 00zP9D!  AA  E1KE  DA  A"@30 hPDKP\00PAA` "@3@ h`E!A  AA 0AAP"030PhD!  DA  D1KE  DKM 0AAA0 AA` I@@H n`DKP\00PAA` I@@H n`D!D  AAPI 0H@nE!  AD  A1KE  EAA0 A  E!A  A!E  Kx@0 PEAA0 A  E!A  A!E  AA 0KEDK0M A  AA 0AAP0d0PQKP\ 0@AP d0@Q!E  AA 0AAP0d0PQA!  AE  E1KE  EAA0 D!  AA!  DKPx 0@A  AA 0AAP}0K0PDK` \@@ `AAP}0K0PD!  AAA0 AA` }@K@ `D!A  AE1  AA 0DA  EAA0 KP\ 0@AP 0@A  AAP00PA!  EAA` @@ `A!E  EE1  DA  A@0 P!AD@` x@@ `@@r0 PD@P r0@@Pc T0@@P 0@n@Pc T0@KE  ADK0M AA0 A  E!D1  A@P 0@aD  @@0 aPKEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @^@ g`DAP ^0@gD!  EAA` @^@ g`D!A  D1E  AA 0AAP0^0PgE!  D@]  KEKM  AAA0 AA` @v@ V`DKP\00PAA` @v@ V`D!A  AA 0AAP0v0PVD!  AA  E1KE  DA  A@0 MPDKP\00PAA` @@ M`E!A  AA 0AAP00PMD!  DA  D1KPp 0@DK0M A  AA 0AAPd00P=DK` \@@ `AAPd00P=D!  DA  Ad@0 =PE!A  DA1  KEE  AA 0AE!  AA!  EKP| 0@E  AA 0AAPG00eP^DK` \@@ `AAPG00eP^E!  AAPG 0e@^D!  EA1  AA 0Kp@0 PDKU 0AAA0 AA` @@r `K\@0 PA@0r P!EAA0 AA` @@r `A!A  EE1  KEE  AA 0D!A  A!D  K|@0 PAAA0 A  E!A  !AAA0 D  AE  AA 0K\@0 PA=@0F pPAAA` =@@F p`A!E  AAP=00FPpA!  EE  E1D  AAP= 0F@p!A  D@P|00PKPL 0@)KPL 0@D)  KL@0 P)KL@0 P-@00n)KE  ADK0M AA0 A  E!D1  AKPL 0@)KPL 0@D)  KL@0 P)KE@@  @-@00@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ (`DAP 0@(D!  EAA` @@ (`D!A  D1E  AA 0AAP00P(E!  D@]  KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKPt 0@KM  AAA0 AA` H@@8 0`DKP\00PAA` H@@8 0`D!A  AH@08 0PD!A  A1KE  DA  AA!  AA!  EKE  DA  A@s0M UPDKP\00PAA` @s@M U`E!A  A@s0M UPD!D  1AKPt 0@DK0U A  AA 0DD!  AA 0D!KE  AAA0 AA` @'@. `DKP\00PAA` @'@. `D!A  AA 0AAP0'0.PD!  AA  E1KE  EAA0 D!  AA!  DA  AA  AA 0DKP\00PAA` :@@ `AAA` :@@ `D!E  AAP:00PD!  AA  E1D  AAA` :@@ `D!A  D@u 0A@P00(0PE  A@P00(0PA@` @
+@{ `A@P00PnA@` @
+@{ `KEA  KMA  AAA0 A  AA 0K\@0 PA@0 PEAA` @@ `!EAA` @@ `!AA  E1E  AA 0A@0 PA!E  A@P~006PE  A@P~006PKE  KL@0 P)KL@0 PD)KPL 0@)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` Z@@ 6`DAPZ 0@6D!  EAA` Z@@ 6`D!A  D1E  AA 0AAPZ00P6E!  D@]  KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKPx 0@KM  AAA0 AA` j@@ F`DKP\00PAA` j@@ F`D!A  Aj@0 FPD!A  A1KE  DA  AA!  AA!  EKE  DA  AK@0 ^PDKP\00PAA` K@@ ^`E!A  AK@0 ^PD!D  1AKPx 0@DK0U A  AA 0DD!  AA 0D!KE  AAA0 A  E!A  !AKE  EAA0 D!  AA!  DA  !1@EA@` n@@ `AA@` n@@ `KL@0 PD)KPL 0@@P 0@nKPL 0@)KE  ADK0M AA0 A  AA 0EAA0 KP\ 0@AP\ 0@E  AAP\00P!E  AAP\00PA!  AE  E1E  AA 0A\@0 PA!E  KL@0 P)KL@0 PD)KPL 0@)KE  @$001-@@$  1@@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP"00bPOD  A"@0b OPD!E  AAP"00bPOD!  AD1  EAA0 AA` "@@b O`E!D  @]KE  KMA  AA 0AAP00PDK` \@@ `AAP00PD!  AAA0 AA` @@ `D!A  AE1  KED  AA  A!A  A!E  K|@0 PKMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KED  AA  A!A  A!E  AA 0K|@0 PKMA  AA 0AAP008PKP\ 0@AP 08@!A  AA 0AAP008P!A  AE1  KED  A!A  A!D  KEA  A_@0w cPDKP\00PAA` _@@w c`D!A  AA 0AAP_00wPcD!  AD1  AD  AA  AA 0K\@0 PA@09 PAAA` @@9 `A!E  AAP009P!E  AE1  DA  A@09 P!AD@0u A@` @%@ `EA@` @%@ `A@Ph0(0PA@` @@ n`A@Ph0(0PKE  AKM  AA  A!1A  A@P*0h0P;E  A@P*0h0P;KE  KL@0 PD))@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @J@ P`DAP J0@PD!  EAA` @J@ P`D!A  D1E  AA 0AAP0J0PPE!  D@]  KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KED  AAPk 0*@cDK` \@@ `AAPk00*PcE!  AAPk 0*@cD!  D1A  KEDK0U A  AA 0AAP0.0+P
+KP\ 0@AP .0+@
+!E  AA 0AAP0.0+P
+A!  AE  E1KE  EAA0 AA` Y@@! `K\@0 PAY@0! PA!A  AA 0AAPY00!P!E  AE1  KEE  AA 0AAPk00PKP\ 0@APk 0@A!  AAA0 AA` k@@ `!EA  E1AA0 A  EAA0 KP\ 0@AP 0@oA  AAP00Po!E  AAP00PoA!  AE  E1D  AAP 0@o!A  D@u 0KL@0 PD)A)  A@P00wPzA@` @@ n`A@P00wPzKE  AKM  AA  A!1A  A@PI00kPBE  A@PI00kPBKE  KL@0 PD))@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ K`DAP 0@KD!  EAA` @@ K`D!A  D1E  AA 0AAP00PKE!  D@]  KEKM  AA!  1AKE  AA 0AKP\ 0@AP8 W0T@BA  A8@W0T BPAA 0A!KE  KMA  AA1  A!D  AD  ADK` \@@ `AAPi0f0$PAPi f0$@E!  AAA` i@f@$ `E!D  ED1  AAA` i@f@$ `D!KE  Kp@0 PAAA0 A  E!A  !AKE  DA  A@07 dPDKP\00PAA` @@7 d`E!A  AA 0AAP007PdD!  DA  D1KE  AAA0 AA` @g@T `DKP\00PAA` @g@T `D!A  AA 0AAP0g0TPD!  AA  E1AA0 KE  Kp@0 PAAA0 AA` k@^@3 `DKP\00PAA` k@^@3 `D!A  AA 0AAPk0^03PD!  AA  E1KE  DA  AA!  AA!  EKE  DA  Ao@0 PDKP\00PAA` o@@ `E!A  AA 0AAPo00PD!  DA  D1A  DA  AAA0 DK` \@@ `AAP00PA  AAP00PE!  EAA` @@ `D!E  AE1  DA  AAP00PD!  AD@0u @P
+ 0@D  @
+@0 P@@0 XP@@0 P@@0 XPKEA  KMA  AA!  1A@P 0@D  @@0 PKEKPL 0@)KPL 0@)KPL 0@)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @*@ d`DAP *0@dD!  EAA` @*@ d`D!A  D1E  AA 0AAP0*0PdE!  D@]  KEKM  AAA0 A  AA 0DKP\00PAA` =@@ `DAP= 0@D!  EAA` =@@ `D!A  D1E  AA 0AAP=00PE!  DKE  AA  K\@0 PA@0 ]PA@0 ]PA!KE  KMA  AA1  A!D!  D1KM  DKPt00PA  AA 0AAP00PDK` \@@ `AAP00PD!  DA  A@0 PE!A  DA1  KME  AA 0AAP0c0PDK` \@@ `AAP0c0PE!  AAP c0@D!  EA1  KME  AA 0AE!  AA!  EAA0 KM  DKPt00PA  AA 0DD!  AA 0D!KM  AAA0 A  E!A  !AKM  EAA0 AA` @@_ =`K\@0 PA@0_ =PA!A  AA 0AAP00_P=!E  AE1  AA 0DD!  E1D  @M-@#@  Q@@#00QKPL 0@)KPL 0@-@@  @KL@0 P)KMA  DKM 0AA 0AAA0 E  AA 0K\@0 PA@0 jPEAA` @@ j`!EAA` @@ j`A!A  EE1  EAA0 AP 0@jA!  E@@2 7 @D-@@2 7 @KM@P 40j@@P 40j@@M  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ p`DAP 0@pD!  EAA` @@ p`D!A  D1E  AA 0AAP00PpE!  D@]  KEKM  AAA0 A  AA 0DKP\00PAA` @@ `DAP 0@D!  EAA` @@ `D!A  D1E  AA 0AAP00PE!  DKE  A1!KE  DKM 0AA 0AE1  A!D!  D1KM  DKPx00PA  AA 0EE!  AA 0D!A  KME  AA 0AAPq0\0PDK` \@@ `AAPq0\0PE!  AAPq \0@D!  EA1  KME  AA 0AAP00KPrDK` \@@ `AAP00KPrE!  AAP 0K@rD!  EA1  AA 0KMDK` x@@ `AAA0 AA` @U@ `K\@0 PA@U0 P!EAA0 AA` @U@ `A!A  EE1  KME  AA 0AAP0n0PKP\ 0@AP n0@A!  AAA0 AA` @n@ `!EA  E1KM  EAA0 D!  AA!  DA  DA  AAA0 DK` \@@ `AAP200$PA  AAP200$PE!  EAA` 2@@$ `D!E  AE1  DA  AAP200$PD!  AD@0u KPL 0@)KPL 0@D)  KL@0 P)KL@0 P)KL@0 P-@00KPL 0@)KM  ADK0M AA0 A  E!D1  A-@@ C @D@@ C @KMDK` L@@ `A)D)  @MKE  AKM  AA  A!1A  D@M 0KEKM  AA!  1AKE  AD  1D!KE  DKM 0AAA0 DK` \@@ `AAP0a0P)D  AAP0a0P)A  D!A  A!1A  KEKP| 0@A  AA 0AAP0B0HPDK` \@@ `AAP0B0HPD!  AAP B0H@D!  AA1  KED  AA  A!A  A!E  KED  AA  A!A  A!E  AA 0KEKP| 0@A  AA 0AAP00lPKP\ 0@AP 0l@!A  AA 0AAP00lP!A  AE1  KED  AAP 0@KP\ 0@AP 0@A!  AAA0 AA` @@ `!DA  D1KE  AAA0 D!  A!A  DA  ADK` \@@ `AAPG00~PA  AAPG00~PE!  AAA` G@@~ `D!E  AE1  AAA` G@@~ `D!A  D@u 0A@P>00mPE  A@P>00mPA@` R@@B `A@P00PA@` R@@B `KEA  KMA  AAA0 A  AA 0K\@0 PA@0 PEAA` @@ `!EAA` @@ `!AA  E1E  AA 0A@0 PA!E  KL@0 PD)A)  KEKPL 0@D)  )@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAPx00PLD  Ax@0 LPD!E  AAPx00PLD!  AD1  EAA0 AA` x@@ L`E!D  @]KE  KMA  AA 0AAA0 DK` \@@ `AAP700
+PD  A7@0
+ PD!E  AAP700
+PD!  AD1  EAA0 AA` 7@@
+ `E!D  KEA  1!KEDK0M AA0 A  E1A!  AE  AA 0DKP\00PAA` @@ `A@0 PD!E  AAP00PE!  ED1  DA  AAP00PD!  KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  DA  A(@0 PDKP\00PAA` (@@ `E!A  AA 0AAP(00PD!  DA  D1A  KEDK0M A  AA 0EE!  AA 0D!A  KEE  AA 0AE!  AA!  EKE  EAA0 A  E!A  A!E  AA 0AE  AA 0DKP\00PAA` w@@d ``AAA` w@@d ``D!E  AAPw00dP`E!  AE  E1D  AAA` w@@d ``D!A  D@u 0@N@06 <PD@PN 06@<KPL 0@)KPL 0@@P 0@KPL 0@)KE  ADK0M AA0 A  E!D1  A@P l0@D  @@l0 PKEDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@S V`DAP 0S@VD!  EAA` @@S V`D!A  D1E  AA 0AAP00SPVE!  D@]  KEKM  AAA0 A  AA 0DKP\00PAA` @@ u`DAP 0@uD!  EAA` @@ u`D!A  D1E  AA 0AAP00PuE!  DKE  A1!KE  DKM 0AAA0 DK` \@@ `AAPK00PD  AAPK00PA  D!A  AA 0AAA0 DK` \@@ `AAP0-06P}D  A@-06 }PD!E  AAP0-06P}D!  AD1  EAA0 AA` @-@6 }`E!D  KEKM  AAA0 A  E!A  !AKE  DA  A@Z0+ KPDKP\00PAA` @Z@+ K`E!A  AA 0AAP0Z0+PKD!  DA  D1KE  AAA0 A  E!A  !AAA0 KE  KMA  AA 0AE!  A!A  KED  AAPb ?0T@DK` \@@ `AAPb0?0TPE!  AAA0 AA` b@?@T `D!D  AD1  KEA  AA 0AAPQ00IPDK` \@@ `AAPQ00IPD!  AAA0 AA` Q@@I `D!A  AE1  AA 0DA  DA  DKP\00PAA` N@@} `AAA` N@@} `E!A  AAPN00}PE!  EE  E1A  AAPN00}PD!  AD@0u KPL 0@)KPL 0@D)  KL@0 P)KL@0 P-@00)KE  ADK0M AA0 A  E!D1  A@P> &0@D  @>@&0 PKE-@@/  @@/00@E  KEA  KMA  AA!  1AD@0M KE  KMA  A!1A  KEA  D1D!  KEDK0M AA0 A  E1A!  D!D1  KMDK0M A  AA 0EE!  AA 0D!A  Kp@0 PEAA0 AA` @v@ `DKP\00PAA` @v@ `E!A  A@v0 PD!E  A1KM  EAA0 AA` @@w `DKP\00PAA` @@w `E!A  A@0w PD!E  A1AA0 KM  DKM 0AAA0 AA` @@ `K\@0 PA@0 P!EAA0 AA` @@ `A!A  EE1  Kp@0 PEAA0 AA` 9@@ z`K\@0 PA9@0 zPA!A  AA 0AAP900Pz!E  AE1  KME  AA 0D!A  A!D  AD  AA  AA 0DKP\00PAA` M@@ `AAA` M@@ `E!E  AAPM00PD!  EA  E1D  AAA` M@@ `D!A  D@u 0KL@0 P)KL@0 PD)KPL 0@)KPL 0@)KPL 0@-@@  @KL@0 P)KMA  DKM 0AA 0AE!  D1A  @T00D  -@T00KM  @@0 wP@@0 wP@MKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  AA 0DKP\00PAA` @@ `DAP 0@D!  EAA` @@ `D!A  D1E  AA 0AAP00PE!  DKE  AA  K\@0 PA@ 0 yPA@ 0 yPA!KE  KMA  ADK` \@@ `AAP0a0PsAA` @a@ s`AD!  !1KEDK0M A  AA 0EE!  AA 0D!A  Kt@0 PEAA0 AA` @#@ `DKP\00PAA` @#@ `E!A  A@#0 PD!E  A1KE  EAA0 A  E!A  A!E  AA 0KEDK0M A  AA 0AAP 0|0P)KP\ 0@AP  |0@)!E  AA 0AAP 0|0P)A!  AE  E1KPt 0@E  AA 0D!A  A!D  KEA  AA 0AAP00*PtDK` \@@ `AAP00*PtD!  AAA0 AA` @@* t`D!A  AE1  AA 0DA  EAA0 KP\ 0@AP, '0G@]A  AAP,0'0GP]A!  EAA` ,@'@G ]`A!E  EE1  DA  A,@'0G ]P!AD@0u KPL 0@D)  )KL@0 P)KL@0 P@@0 PKL@0 P)KEA  DKM 0AA 0AE!  D1A  KL@0 PD))KE  -@0&0@@ & @@EKE  AKM  AA  A!1A  D@M 0KEKM  AA!  1AKE  AD  1D!KE  DKM 0AAA0 DK` \@@ `AAP0'0FPD  AAP0'0FPA  D!A  A!1A  KEKM  AAA0 AA` J@@e 
+`DKP\00PAA` J@@e 
+`D!A  AJ@0e 
+PD!A  A1KPx 0@D  AAP 0@DK` \@@ `AAP00PE!  AAP 0@D!  D1KPp 0@A  AA 0AE!  A!A  AA 0KEKM  AAA0 AA` @8@v `K\@0 PA@80v P!AAA0 AA` @8@v `!AA  E1KPx 0@D  A!A  A!D  Kp@0 PAA  A!A  !AAA0 D  AD  AKP\ 0@AP 0@A  AAP00PA!  AAA` @@ `A!E  EE1  AAP 0@!A  D@Pp00PA@` *@@ `EA@` *@@ `A@P00PgA@` @@ `A@P00PgKE  AKM  AA  A!1A  KL@0 PD)KPL 0@D)  KL@0 P)KEDK` L@@ `A)D)  @EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  AA 0DKP\00PAA` @@G G`DAP 0G@GD!  EAA` @@G G`D!A  D1E  AA 0AAP00GPGE!  DKE  AA  K\@0 PAI@0 PAI@0 PA!KE  KMA  ADK` \@@ `AAP%0^0PAA` %@^@ `AD!  !1KEDK0M A  AA 0AAP0^0[PrDK` \@@ `AAP0^0[PrD!  DA  A@^0[ rPE!A  DA1  K|@0 PEAA0 AA` "@@ `DKP\00PAA` "@@ `E!A  A"@0 PD!E  A1KPt 0@E  AA 0AE!  AA!  EAA0 KE  DKM 0AAA0 D  D!AA0 D!  K|@0 PAAA0 AA` @7@ $`DKP\00PAA` @7@ $`D!A  AA 0AAP070P$D!  AA  E1KPt 0@E  AA 0AAPS0?0PGKP\ 0@APS ?0@GA!  AAA0 AA` S@?@ G`!EA  E1AA0 D  AE  AA 0K\@0 PA1@0 PAAA` 1@@ `A!E  AAP100PA!  EE  E1D  AAP1 0@!A  D@Pt00PKPL 0@)KPL 0@D)  KL@0 P)KL@0 P-@00)KE  ADK0M AA0 A  E!D1  AKPL 0@)KPL 0@D)  KL@0 P)KE@i@  O@-@i00O@E  KEA  KMA  AA!  1AD@0M KE  KMA  A!1A  KEAA0 A  K\@0 PA@0m PAAP 0m@AA0 A!  KEKM  AA  DKP\00PAA` @@8 A`AAP008PAA  D!D  AA  AA 0DKP\00PAA` @@ `A@0 PE!E  AAP00PD!  DA  D1D  AAA` @@ `D!KE  KMA  AA 0AE!  A!A  KED  AAP; 0@DK` \@@ `AAP;00PE!  AAA0 AA` ;@@ `D!D  AD1  Kx@0 PAAA0 AA` @@b h`DKP\00PAA` @@b h`D!A  AA 0AAP00bPhD!  AA  E1AA0 KE  KMA  AA 0AE!  A!A  KED  AAP ~0V@(DK` \@@ `AAP0~0VP(E!  AAA0 AA` @~@V (`D!D  AD1  Kx@0 PAAA0 AA` @@ R`DKP\00PAA` @@ R`D!A  AA 0AAP00PRD!  AA  E1AA0 D  AD  ADK` \@@ `AAP00dPGA  AAP00dPGE!  AAA` @@d G`E!E  EE1  AAA` @@d G`D!A  D@Px00P@PC 0@\D  @C@0 \P@~@0 !P@@0 P@~@0 !PKEA  KMA  AAA0 A  AA 0DKP\00PAA` B@5@x 0`EAA` B@5@x 0`D!E  AAPB050xP0D!  AA  E1E  AA 0AAPB050xP0E!  E@P O0@D  @@O0 PKEKPL 0@))@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @@ _`DAP 0@_D!  EAA` @@ _`D!A  D1E  AA 0AAP00P_E!  D@]  KEKM  AAA0 A  AA 0DKP\00PAA` '@@ `DAP' 0@D!  EAA` '@@ `D!A  D1E  AA 0AAP'00PE!  DKE  A1!KE  DKM 0AAA0 DK` \@@ `AAP00PD  AAP00PA  D!A  AA 0AAA0 DK` \@@ `AAP00UPD  A@0U PD!E  AAP00UPD!  AD1  EAA0 AA` @@U `E!D  Kp@0 PKMA  AA 0AAP00hPyDK` \@@ `AAP00hPyD!  AAA0 AA` @@h y`D!A  AE1  KED  AAPl 0@DK` \@@ `AAPl00PE!  AAA0 AA` l@@ `D!D  AD1  K|@0 PAAA0 AA` Q@a@ :`DKP\00PAA` Q@a@ :`D!A  AA 0AAPQ0a0P:D!  AA  E1AA0 KPp 0@KM  AAA0 AA` L@H@ !`DKP\00PAA` L@H@ !`D!A  AA 0AAPL0H0P!D!  AA  E1KE  DA  AA!  AA!  EKP| 0@D  AAP) R0@DK` \@@ `AAP)0R0PE!  AAA0 AA` )@R@ `D!D  AD1  AD  AA  AA 0DKP\00PAA` @@ `AAA` @@ `E!E  AAP00PD!  EA  E1D  AAA` @@ `D!A  D@P|00P@P 0@D  @@0 PKL@0 P-@00)KE  AKM  AA  AA 0AAA0 DK` \@@ `AAP:0A0PE  AAP:0A0PD!  EAA` :@A@ `D!A  AE1  EAA0 AA` :@A@ `E!E  @N@0 PD@PN 0@KE  KL@0 P)KL@0 P)KL@0 P)@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP600PFD  A6@0 FPD!E  AAP600PFD!  AD1  EAA0 AA` 6@@ F`E!D  @]KE  KMA  A!1A  KEAA0 A  K\@0 PA@90 PAAP 90@AA0 A!  KEKM  AA  A1A!  DD!  E1D  Kt@0 PDKM 0AAA0 AA` "@@ {`DKP\00PAA` "@@ {`D!D  AAP" 0@{E!  AD  A1KM  EAA0 AA` @@ `DKP\00PAA` @@ `E!A  A@0 PD!E  A1KM  EAA0 A  E!A  A!E  AA 0Kt@0 PDKM 0AAA0 D  D!AA0 D!  KMA  AA 0AE!  A!A  KME  AA 0AAP200PKP\ 0@AP2 0@A!  AAA0 AA` 2@@ `!EA  E1AA0 D  D!E1  D@M  DKPL00PA)  KL@0 P)AKPL 0@D)  KL@0 P)KL@0 P-@00KPL 0@)KM  ADK0M AA0 A  E!D1  AKPL 0@)KPL 0@D)  KL@0 P)KM@PI 00@@PI 00@@M  KEA  KMA  AA!  1AD@0M KE  KMA  A!1A  KEA  D1D!  KEDK0M A  AA 0DKP\00PAA` 2@@ `DAA` 2@@ `AD!  AAA0 A  AA 0DKP\00PAA` @@ `DAP 0@D!  EAA` @@ `D!A  D1E  AA 0AAP00PE!  DKPx 0@KM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  DA  A@0S 3PDKP\00PAA` @@S 3`E!A  AA 0AAP00SP3D!  DA  D1A  Kx@0 PDKM 0AAA0 E  E!AA0 D!  AKE  EAA0 A  E!A  A!E  KEE  AA 0AE!  AA!  EAA0 A  EAA0 DK` \@@ `AAP00PA  AAP00PD!  EAA` @@ `E!A  EE1  DA  AAP00PD!  AD@0u @P 0@D  @@0 PKL@0 P)KL@0 P@@0 PKL@0 P)KEA  DKM 0AA 0AE!  D1A  @@0 MPD@P 0@MKE  -@020@@ 2 @@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  AA 0DKP\00PAA` p@@
+ `DAPp 0
+@D!  EAA` p@@
+ `D!A  D1E  AA 0AAPp00
+PE!  DKE  AA  K\@0 PA@)0 RPA@)0 RPA!KE  KMA  ADK` \@@ `AAP0G0gP
+AA` @G@g 
+`AD!  AA  AA 0DKP\00PAA` @Z@ R`AAA` @Z@ R`D!E  AAP0Z0PRD!  AA  E1D  AAA` @Z@ R`D!A  K|@0 PKMA  AA 0AAP00P|DK` \@@ `AAP00P|D!  AAP 0@|D!  AA1  KED  AA  A!A  A!E  KED  AA  A!A  A!E  AA 0K|@0 PKMA  AA 0AAP0-0PjKP\ 0@AP -0@j!A  AA 0AAP0-0Pj!A  AE1  KED  AAPW 0@qKP\ 0@APW 0@qA!  AAA0 AA` W@@ q`!DA  D1KE  AAA0 AA` @@ `K\@0 PA@0 P!AAA0 AA` @@ `!AA  E1AA0 D  D!E1  D@E  KL@0 P)A)KPL 0@D)  KL@0 P@@0 PKL@0 P)KEA  DKM 0AA 0AE!  D1A  @@0 }PD@P 0@}KE  -@AK0!0@A@K ! @@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  AA 0DKP\00PAA` @8@ `DAP 80@D!  EAA` @8@ `D!A  D1E  AA 0AAP080PE!  DKE  A1!KE  DKM 0AAA0 DK` \@@ `AAP00PD  AAP00PA  D!A  AA 0AAA0 DK` \@@ `AAP0l0P{D  A@l0 {PD!E  AAP0l0P{D!  AD1  EAA0 AA` @l@ {`E!D  KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  DA  A@F0 PDKP\00PAA` @F@ `E!A  AA 0AAP0F0PD!  DA  D1A  KEDK0M A  AA 0AAPc00PIDK` \@@ `AAPc00PID!  EAA0 AA` c@@ I`E!A  EE1  KEE  AA 0AAP0[0PDK` \@@ `AAP0[0PE!  AAA0 AA` @[@ `D!E  AE1  KEE  AA 0AE!  AA!  EAA0 A  EAA0 DK` \@@ `AAP0j0NPA  AAP0j0NPD!  EAA` @j@N `E!A  EE1  DA  AAP0j0NPD!  AD@0u KPL 0@D)  )KL@0 P-@00)KE  AKM  AA  A!1A  KL@0 P)KL@0 PD)KPL 0@)KE  @
+05-@@
+ 5@@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP000PD  A@00 PD!E  AAP000PD!  AD1  EAA0 AA` @0@ `E!D  @]KE  KMA  A!1A  KEAA0 A  K\@0 PA@0 PAAP 0@AA0 A!  KEKM  AA  A1A!  DD!  E1D  KMDK` p@@ `AAA0 E  E!AA0 D!  AKM  EAA0 AA` <@D@ n`DKP\00PAA` <@D@ n`E!A  A<@D0 nPD!E  A1KM  EAA0 AA` T@E@ `DKP\00PAA` T@E@ `E!A  AT@E0 PD!E  A1AA0 KM  DKPp00PA  AA 0DD!  AA 0D!KM  AAA0 AA` R@U@o u`DKP\00PAA` R@U@o u`D!A  AA 0AAPR0U0oPuD!  AA  E1KM  EAA0 D!  AA!  DA  D!A1  D@M  DKPL00PA)  KL@0 P)AKPL 0@D)  KL@0 P@@0 P)KMA  DKM 0AA 0AE!  D1A  -@T0r0D  @T0r0KM  @^@0 LP@^@0 LP@MKE  AKM  AA  A!1A  D@M 0KEKM  AA!  1AKE  AD  1D!KE  DKM 0AA 0AE1  A!A  EAA0 DK` \@@ `AAPo00P2APo 0@2D!  EAA` o@@ 2`E!E  D1D  AAA` o@@ 2`D!KE  Kt@0 PAAA0 AA` @@ `DKP\00PAA` @@ `D!A  AA 0AAP00PD!  AA  E1KE  DA  A@0 PDKP\00PAA` @@ `E!A  AA 0AAP00PD!  DA  D1KE  AAA0 AA` )@f@ `DKP\00PAA` )@f@ `D!A  AA 0AAP)0f0PD!  AA  E1AA0 KE  Kt@0 PAAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  DA  Ay@0 hPDKP\00PAA` y@@ h`E!A  AA 0AAPy00PhD!  DA  D1A  DA  AAA0 DK` \@@ `AAP$0!0P$A  AAP$0!0P$E!  EAA` $@!@ $`D!E  AE1  DA  AAP$0!0P$D!  AD@0u KPL 0@D)  )KL@0 P-@00)KE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0n0PE  AAP0n0PD!  EAA` @n@ `D!A  AE1  EAA0 AA` @n@ `E!E  @S@0 sPD@PS 0@sKE  @Ja00-@J@a  @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAPy00hPD  Ay@0h PD!E  AAPy00hPD!  AD1  EAA0 AA` y@@h `E!D  @]KE  KMA  AA 0AAA0 DK` \@@ `AAP00%PD  A@0% PD!E  AAP00%PD!  AD1  EAA0 AA` @@% `E!D  KEA  1!KEDK0M AA0 A  E1A!  D!D1  KMDK` x@@ `AAA0 E  E!AA0 D!  AKM  EAA0 A  E!A  A!E  KME  AA 0AE!  AA!  EAA0 KM  DKPx00PA  AA 0DD!  AA 0D!KM  AAA0 A  E!A  !AKM  EAA0 D!  AA!  DA  DA  AAA0 DK` \@@ `AAP!0Q0WPsA  AAP!0Q0WPsE!  EAA` !@Q@W s`D!E  AE1  DA  AAP!0Q0WPsD!  AD@0u @n@  @D-@n@  @KL@0 P)KL@0 P-@00KPL 0@)KM  ADK0M AA0 A  E!D1  A-@D@ m @D@D@ m @KMDK` L@@ `A)D)  @MKE  AKM  AA  A!1A  D@M 0KEKM  AA!  1AKE  AD  1D!KE  DKM 0AAA0 DK` \@@ `AAP000PD  AAP000PA  D!A  A!1A  KEKP| 0@A  AA 0AAP00PgDK` \@@ `AAP00PgD!  AAP 0@gD!  AA1  KED  AA  A!A  A!E  KED  AA  A!A  A!E  AA 0KEKP| 0@A  AA 0D!A  !KEA  AA!  A!A  KED  A!A  A!D  AD  !A1D  @EA@` q@@ `AA@` q@@ `KL@0 PD)KPL 0@@P 0@KPL 0@)KE  ADK0M AA0 A  E!D1  AKPL 0@)KPL 0@D)  KL@0 P)KEDK` L@@ `A)D)  @EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0B0;PD  A@B0; PD!E  AAP0B0;PD!  AD1  EAA0 AA` @B@; `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AAP/ 0@DK` \@@ `AAP/00PE!  AAA0 AA` /@@ `D!D  AD1  KEDK0M A  AA 0AAP00PDK` \@@ `AAP00PD!  DA  A@0 PE!A  DA1  KEE  AA 0AE!  AA!  EKE  EAA0 A  E!A  A!E  AA 0KEDK0M A  AA 0DD!  AA 0D!KE  AAA0 AA` ]@U@ `DKP\00PAA` ]@U@ `D!A  AA 0AAP]0U0PD!  AA  E1KE  EAA0 AA` h@@< e`K\@0 PAh@0< ePA!A  AA 0AAPh00<Pe!E  AE1  AA 0DD!  E1D  @E@P4 0n@@P4 0n@@P= 0@V@P 0b@@P= 0@VKE  ADK0M AA0 A  AA 0EAA0 KP\ 0@APe 0D@2E  AAPe00DP2!E  AAPe00DP2A!  AE  E1E  AA 0Ae@0D 2PA!E  @P@0 WPD@PP 0@WKE  @0n0t-@@ n t@@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAPw00cPD  Aw@0c PD!E  AAPw00cPD!  AD1  EAA0 AA` w@@c `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AAP +06@VDK` \@@ `AAP0+06PVE!  AAA0 AA` @+@6 V`D!D  AD1  KEDK0M A  AA 0AAP00P{DK` \@@ `AAP00P{D!  DA  A@0 {PE!A  DA1  KEE  AA 0AE!  AA!  EKE  EAA0 A  E!A  A!E  AA 0KEDK0M A  AA 0DD!  AA 0D!KE  AAA0 AA` @}@ Z`DKP\00PAA` @}@ Z`D!A  AA 0AAP0}0PZD!  AA  E1KE  EAA0 D!  AA!  DA  D!A1  D@E  DKPL00PA)  D)@P e0@@P 0b@@P e0@KE  ADK0M AA0 A  AA 0EAA0 KP\ 0@AP 0@OE  AAP00PO!E  AAP00POA!  AE  E1E  AA 0A@0 OPA!E  @@0 PD@P 0@KE  DKPL00PA)  KL@0 P)AKPL 0@D)  @EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAPB00PPD  AB@0P PD!E  AAPB00PPD!  AD1  EAA0 AA` B@@P `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KEKM  AAA0 AA` @@ `DKP\00PAA` @@ `D!A  A@0 PD!A  A1KPp 0@D  AA  A!A  A!E  KED  AAP J0@DK` \@@ `AAP0J0PE!  AAP J0@D!  D1A  KEDK0U A  AA 0AAP00PHKP\ 0@AP 0@H!E  AA 0AAP00PHA!  AE  E1KPp 0@E  AA 0D!A  A!D  KEA  AA 0AE!  A!A  AA 0AE  AA 0K\@0 PA@0 lPAAA` @@ l`!EAA` @@ l`A!A  EE1  DA  A@0 lP!AD@0u A@` @@ `EA@` @@ `KL@0 PD)KPL 0@@P 0b@KPL 0@)KE  ADK0M AA0 A  E!D1  A@P 0:@wD  @@0: wPKEDK` L@@ `A)D)  @EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` /@@ `DKP\00PAA` /@@ `D!A  AA 0AAP/00PD!  AA  E1KE  DA  A@0 zPDKP\00PAA` @@ z`E!A  AA 0AAP00PzD!  DA  D1KE  DKM 0AAA0 AA` @@ `DKP\00PAA` @@ `D!D  AAP 0@E!  AD  A1KPt 0@E  AA 0AAP0L0^PDK` \@@ `AAP0L0^PE!  AAP L0^@D!  EA1  KEE  AA 0AAP0j09PDK` \@@ `AAP0j09PE!  AAP j09@D!  EA1  AA 0KEDK0M A  AA 0DD!  AA 0D!KPt 0@A  AA 0AAP00P|DK` \@@ `AAP00P|D!  AAA0 AA` @@ |`D!A  AE1  KEE  AA 0D!A  A!D  AD  AA  AA 0DKP\00PAA` @@: x`AAA` @@: x`E!E  AAP00:PxD!  EA  E1D  AAA` @@: x`D!A  D@u 0@L@20 jPD@PL 20@jKPL 0@-@@ b @)KEA  DKM 0AA 0AE!  D1A  @q@0 PD@Pq 0@KE  @00-@@  @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAPv00PD  Av@0 PD!E  AAPv00PD!  AD1  EAA0 AA` v@@ `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KEKM  AAA0 AA` i@@ ~`DKP\00PAA` i@@ ~`D!A  Ai@0 ~PD!A  A1KPx 0@D  AA  A!A  A!E  Kp@0 PDA  Al@0a QPDKP\00PAA` l@@a Q`E!A  Al@0a QPD!D  1AKE  DKU 0AAA0 D  D!AA0 D!  Kx@0 PAAA0 AA` @/@ `DKP\00PAA` @/@ `D!A  AA 0AAP0/0PD!  AA  E1KPp 0@E  AA 0D!A  A!D  AA  AAA0 DK` \@@ `AAP00>P]A  AAP00>P]D!  EAA` @@> ]`D!A  AE1  DA  AAP00>P]D!  AD@` p@@ `A@P00PuE  A@P00PuKPL 0@D)  KL@0 P@@0b PKL@0 P)KEA  DKM 0AA 0AE!  D1A  KL@0 P)KL@0 PD)KPL 0@)KE  -@00@@  @@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  E!A  !AKE  DA  Ab@0 PDKP\00PAA` b@@ `E!A  AA 0AAPb00PD!  DA  D1KE  DKM 0AAA0 E  E!AA0 D!  AKP| 0@E  AA 0AAP0*0PDK` \@@ `AAP0*0PE!  AAP *0@D!  EA1  Kt@0 PEAA0 A  E!A  A!E  AA 0KEDK0M A  AA 0DD!  AA 0D!KP| 0@A  AA 0AAP0M0PDK` \@@ `AAP0M0PD!  AAA0 AA` @M@ `D!A  AE1  Kt@0 PEAA0 D!  AA!  DA  D!A1  D@Pt 0@DK` L@@ `A)KPL 0@)A  KL@0 PD)@x@   @@0b0-@x@   @KMA  DKM 0AA 0AAA0 E  AA 0K\@0 PA@0? PEAA` @@? `!EAA` @@? `A!A  EE1  EAA0 AP 0?@A!  EKPL 0@)KPL 0@D)  KL@0 P)KMDK` L@@ `A)KPL 0@)A  KL@0 PD)@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AAP0?0PDK` \@@ `AAP0?0PD!  AAA0 AA` @?@ `D!A  AE1  KED  AA  A!A  A!E  KEKM  AAA0 A  E!A  !AKE  DA  A@05 PDKP\00PAA` @@5 `E!A  A@05 PD!D  1Kx@0 PAAA0 AA` v@@= `DKP\00PAA` v@@= `D!A  Av@0= PD!A  A1AA0 KE  KMA  AA 0D!A  !KEA  AK@0 kPDKP\00PAA` K@@ k`D!A  AA 0AAPK00PkD!  AD1  Kx@0 PAAA0 AA` _@@ `K\@0 PA_@0 P!AAA0 AA` _@@ `!AA  E1AA0 D  AD  AKP\ 0@APK 0@8A  AAPK00P8A!  AAA` K@@ 8`A!E  EE1  AAPK 0@8!A  D@Px00PA@` @@@ `EA@` @@@ `A@P00P~A@` @@b `A@P00P~KE  AKM  AA  A!1A  A@P00PE  A@P00PKE  KL@0 P)KL@0 PD)KPL 0@)@E  KEA  KMA  AA!  1AD@0M KE  KMA  AA 0AAP00PDK` \@@ `AAP00PD!  AAA0 AA` @@ `D!A  AE1  KED  AAP 0@~DK` \@@ `AAP00P~E!  AAA0 AA` @@ ~`D!D  AD1  Kp@0 PDKM 0AAA0 E  E!AA0 D!  AKE  EAA0 A  E!A  A!E  K|@0 PEAA0 A  E!A  A!E  AA 0Kp@0 PDKM 0AAA0 D  D!AA0 D!  KEA  AA 0AAPm00APDK` \@@ `AAPm00APD!  AAA0 AA` m@@A `D!A  AE1  K|@0 PEAA0 AA` @@ `K\@0 PA@0 PA!A  AA 0AAP00P!E  AE1  AA 0DA  EAA0 KP\ 0@APr 0@A  AAPr00PA!  EAA` r@@ `A!E  EE1  DA  Ar@0 P!AD@` |@@ `KL@0 PD))@P X0@@@P 0b@@P X0@@KE  ADK0M AA0 A  AA 0EAA0 KP\ 0@APE 0d@E  AAPE00dP!E  AAPE00dPA!  AE  E1E  AA 0AE@0d PA!E  KL@0 PD))KE  -@$>006@$@>  6@@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP]0[0P
+D  A]@[0 
+PD!E  AAP]0[0P
+D!  AD1  EAA0 AA` ]@[@ 
+`E!D  @]KE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  Kt@0 PKMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KED  AAP r0@vDK` \@@ `AAP0r0PvE!  AAP r0@vD!  D1A  Kt@0 PDKU 0AAA0 D  D!AA0 D!  KEA  AA 0AE!  A!A  KEE  AA 0AAP<00PKP\ 0@AP< 0@A!  AAA0 AA` <@@ `!EA  E1AA0 D!  D1@E  A@P.0D0:PRA  A@P.0D0:PRA@` @7@o 
+`A@P00bPA@` @7@o 
+`KEA  KMA  AA!  1AKPL 0@D)  KL@0 PD)KPL 0@)KE  DKPL00PA)  KL@0 P)AKPL 0@D)  @EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0l0PD  A@l0 PD!E  AAP0l0PD!  AD1  EAA0 AA` @l@ `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AAP =0k@DK` \@@ `AAP0=0kPE!  AAA0 AA` @=@k `D!D  AD1  Kx@0 PDKM 0AAA0 E  E!AA0 D!  AKE  EAA0 AA` @@ `DKP\00PAA` @@ `E!A  A@0 PD!E  A1KE  EAA0 A  E!A  A!E  AA 0Kx@0 PDKM 0AAA0 D  D!AA0 D!  KEA  AA 0AE!  A!A  KEE  AA 0AAP00P;KP\ 0@AP 0@;A!  AAA0 AA` @@ ;`!EA  E1AA0 D  AE  AA 0K\@0 PA@)0$ PAAA` @)@$ `A!E  AAP0)0$PA!  EE  E1D  AAP )0$@!A  D@u 0@@0 PD@P 0@@P '0J@J@P 0b@@P '0J@JKE  ADK0M AA0 A  AA 0EAA0 KP\ 0@AP: 60@E  AAP:060P!E  AAP:060PA!  AE  E1E  AA 0A:@60 PA!E  @@0 ,PD@P 0@,KE  -@00`@@  `@@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` @@@ `DKP\00PAA` @@@ `D!A  AA 0AAP@00PD!  AA  E1KE  DA  Am@@0 [PDKP\00PAA` m@@@ [`E!A  AA 0AAPm0@0P[D!  DA  D1KP| 0@DK0M A  AA 0EE!  AA 0D!A  KEE  AA 0AAPW0Q0yPyDK` \@@ `AAPW0Q0yPyE!  AAPW Q0y@yD!  EA1  KEE  AA 0AE!  AA!  EAA0 KP| 0@DK0M A  AA 0AAP?00P"KP\ 0@AP? 0@"!E  AA 0AAP?00P"A!  AE  E1KE  EAA0 AA` @D@ `K\@0 PA@D0 PA!A  AA 0AAP0D0P!E  AE1  KEE  AA 0AAP0Z0PKP\ 0@AP Z0@A!  AAA0 AA` @Z@ `!EA  E1AA0 D  D!E1  D@E  DKPL00PA)  D)@P 0@@P 0b@@P 0@KE  ADK0M AA0 A  E!D1  A@P 0@D  @@0 PKEDK` L@@ `A)D)  @EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  E!A  !AKE  DA  AA!  AA!  EKE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KED  AAP" :0p@DK` \@@ `AAP"0:0pPE!  AAP" :0p@D!  D1A  KEDK0U A  AA 0AAP0E0PKP\ 0@AP E0@!E  AA 0AAP0E0PA!  AE  E1KE  EAA0 AA` @Q@_ R`K\@0 PA@Q0_ RPA!A  AA 0AAP0Q0_PR!E  AE1  KEE  AA 0AAP00.PKP\ 0@AP 0.@A!  AAA0 AA` @@. `!EA  E1AA0 A  EAA0 KP\ 0@APd 0@A  AAPd00P!E  AAPd00PA!  AE  E1D  AAPd 0@!A  D@u 0A@P00ePE  A@P00ePA@` ?@@r .`A@P00bPA@` ?@@r .`KEA  KMA  AA!  1AA@`  @@ `EA@`  @@ `KE-@F@ U |@D@F@ U |@@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00PD  A@0 PD!E  AAP00PD!  AD1  EAA0 AA` @@ `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KEKPp 0@A  AA 0AAP0?0PgDK` \@@ `AAP0?0PgD!  AAP ?0@gD!  AA1  KED  AA  A!A  A!E  KED  AAP! 0p@DK` \@@ `AAP!00pPE!  AAP! 0p@D!  D1A  KEDK` p@@ `AAA0 D  D!AA0 D!  KEA  AA 0AAP0l0PDK` \@@ `AAP0l0PD!  AAA0 AA` @l@ `D!A  AE1  KEE  AA 0D!A  A!D  A!1@E  KL@0 P)A)A@` @L@w `A@P00bPA@` @L@w `KEA  KMA  AA!  1AA@` @)@1 `EA@` @)@1 `KE-@@ l @D@@ l @@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` @@ `DKP\00PAA` @@ `D!A  AA 0AAP00PD!  AA  E1KE  DA  AA!  AA!  EKE  Kt@0 PAAA0 AA` @@ k`DKP\00PAA` @@ k`D!A  A@0 kPD!A  A1KE  DA  A@e0 :PDKP\00PAA` @e@ :`E!A  A@e0 :PD!D  1KEA  AA 0AAP=00PDK` \@@ `AAP=00PD!  AAP= 0@D!  AA1  AA 0KEKPt 0@A  AA 0D!A  !KEA  A@30 PDKP\00PAA` @3@ `D!A  AA 0AAP030PD!  AD1  KEA  AA 0AAPE00mP;KP\ 0@APE 0m@;!A  AA 0AAPE00mP;!A  AE1  AA 0DD!  E1D  @EA@` @@R `AA@` @@R `A@P0Y0?P3A@` @@b `A@P0Y0?P3KE  AKM  AA  AA 0AAA0 KP\ 0@APX =0@GE  AAPX0=0PG!E  AAPX0=0PG!A  AE1  EAA0 APX =0@GA!  EA@` @@ `EA@` @@ `KE@@  @D-@@  @@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 A  E!A  !AKE  DA  A`@G0 
+PDKP\00PAA` `@G@ 
+`E!A  AA 0AAP`0G0P
+D!  DA  D1KE  DKPx00PA  AA 0EE!  AA 0D!A  KEE  AA 0AE!  AA!  EKE  EAA0 A  E!A  A!E  AA 0KEDK` x@@ `AAA0 AA` @@ `K\@0 PA@0 P!EAA0 AA` @@ `A!A  EE1  KEE  AA 0AAP00PKP\ 0@AP 0@A!  AAA0 AA` @@ `!EA  E1KE  EAA0 AA` @@ `K\@0 PA@0 PA!A  AA 0AAP00P!E  AE1  AA 0DA  EAA0 KP\ 0@AP 0@WA  AAP00PWA!  EAA` @@ W`A!E  EE1  DA  A@0 WP!AD@0u @P '0@D  @@'0 P@@e0 P@@0b P@@e0 PKEA  DKM 0AA 0AE!  D1A  KL@0 PD))KE  @$00-@@$  @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP0c0&PD  A@c0& PD!E  AAP0c0&PD!  AD1  EAA0 AA` @c@& `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AAPE d07@BDK` \@@ `AAPE0d07PBE!  AAA0 AA` E@d@7 B`D!D  AD1  KEDK` |@@ `AAA0 AA` @@P `DKP\00PAA` @@P `D!D  AAP 0P@E!  AD  A1KE  EAA0 AA` @@r :`DKP\00PAA` @@r :`E!A  A@0r :PD!E  A1KE  EAA0 A  E!A  A!E  AA 0KEDK` |@@ `AAA0 D  D!AA0 D!  KEA  AA 0AAP00dPDK` \@@ `AAP00dPD!  AAA0 AA` @@d `D!A  AE1  KEE  AA 0D!A  A!D  AD  !A1D  @EDK` L@@ `A)D)  @@90 
+P@@0b P@@90 
+PKEA  DKM 0AA 0AE!  D1A  @@#0 PD@P #0@KE  @,0s0-@@, s @@EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00IPD  A@0I PD!E  AAP00IPD!  AD1  EAA0 AA` @@I `E!D  @]KE  KMA  AA 0AAP00PDK` \@@ `AAP00PD!  AAA0 AA` @@ `D!A  AE1  KED  AA  A!A  A!E  KEKM  AAA0 AA` @@ `DKP\00PAA` @@ `D!A  A@0 PD!A  A1KE  DA  A@0 PDKP\00PAA` @@ `E!A  A@0 PD!D  1KEA  AA 0AE!  A!A  AA 0KEKM  AAA0 AA` @@ `K\@0 PA@0 P!AAA0 AA` @@ `!AA  E1KE  DA  A@0= PK\@0 PA@0= PA!A  AA 0AAP00=P!D  AD1  KEA  AA 0D!A  !AD  !A1D  @EA@` N@@ ?`AA@` N@@ ?`A@P00rPA@` @@b `A@P00rPKE  AKM  AA  AA 0AAA0 KP\ 0@AP# R0,@E  AAP#0R0,P!E  AAP#0R0,P!A  AE1  EAA0 AP# R0,@A!  EKPL 0@D)  KL@0 PD)KPL 0@)KE  @CM00^-@C@M  ^@@EKE  AKM  AA  A!1A  D@M 0KEKM  AAA0 AA` @3@ `DKP\00PAA` @3@ `D!A  AA 0AAP030PD!  AA  E1KE  DA  A@M0p KPDKP\00PAA` @M@p K`E!A  AA 0AAP0M0pPKD!  DA  D1KE  DKM 0AAA0 AA` p@@ `DKP\00PAA` p@@ `D!D  AAPp 0@E!  AD  A1KE  EAA0 AA` &@@+ 5`DKP\00PAA` &@@+ 5`E!A  A&@0+ 5PD!E  A1KE  EAA0 A  E!A  A!E  AA 0KEDK0M A  AA 0AAPg0N0PKP\ 0@APg N0@!E  AA 0AAPg0N0PA!  AE  E1KE  EAA0 AA` ]@@ 4`K\@0 PA]@0 4PA!A  AA 0AAP]00P4!E  AE1  KEE  AA 0AAP"0
+0PYKP\ 0@AP" 
+0@YA!  AAA0 AA` "@
+@ Y`!EA  E1AA0 D  D!E1  D@E  @m@0 P@m@0 P@@0
+ YP@@0b P@@0
+ YPKEA  DKM 0AA 0AE!  D1A  @,@0 PD@P, 0@KE  DKPL00PA)  D)@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @3@ `DAP 30@D!  EAA` @3@ `D!A  D1E  AA 0AAP030PE!  D@]  KEKM  AAA0 A  E!A  !AKE  DA  A]@0 FPDKP\00PAA` ]@@ F`E!A  AA 0AAP]00PFD!  DA  D1KE  DKM 0AAA0 AA` c@@ .`DKP\00PAA` c@@ .`D!D  AAPc 0@.E!  AD  A1KPp 0@E  AA 0AAP$00PDK` \@@ `AAP$00PE!  AAP$ 0@D!  EA1  KEE  AA 0AE!  AA!  EAA0 KE  DKM 0AAA0 AA` @@ `K\@0 PA@0 P!EAA0 AA` @@ `A!A  EE1  Kp@0 PEAA0 D!  AA!  DKE  AAA0 AA` f@@& `DKP\00PAA` f@@& `D!A  AA 0AAPf00&PD!  AA  E1AA0 D  AE  AA 0K\@0 PAz@0 PAAA` z@@ `A!E  AAPz00PA!  EE  E1D  AAPz 0@!A  D@u 0@@0g 1PD@P 0g@1@P, 0q@@P 0b@@P, 0q@KE  ADK0M AA0 A  AA 0EAA0 KP\ 0@AP H0@;E  AAP0H0P;!E  AAP0H0P;A!  AE  E1E  AA 0A@H0 ;PA!E  KL@0 P)KL@0 PD)KPL 0@)KE  DKPL00PA)  KL@0 P)AKPL 0@D)  @EKE  AKM  AA  AA 0AAA0 DK` \@@ `AAP00#PD  A@0# PD!E  AAP00#PD!  AD1  EAA0 AA` @@# `E!D  @]KE  KMA  AA 0AE!  A!A  KED  AA  A!A  A!E  KEKM  AAA0 AA` @@5 `DKP\00PAA` @@5 `D!A  A@05 PD!A  A1KPt 0@D  AAP 0 @"DK` \@@ `AAP00 P"E!  AAP 0 @"D!  D1KE  AAA0 A  E!A  !AAA0 KE  KMA  AA 0AAP00PKP\ 0@AP 0@!A  AA 0AAP00P!A  AE1  Kt@0 PDA  Aw@0Z 8PK\@0 PAw@0Z 8PA!A  AA 0AAPw00ZP8!D  AD1  KEA  AA 0AAP0
+0PKP\ 0@AP 
+0@!A  AA 0AAP0
+0P!A  AE1  AA 0DD!  E1D  @EA@` =@@ L`AA@` =@@ L`KL@0 PD)KPL 0@@P 0b@KPL 0@)KE  ADK0M AA0 A  E!D1  AKPL 0@D)  )KE-@@/  @@/00@E  KEA  KMA  AAA0 A  AA 0DKP\00PAA` @;@ h`DAP ;0@hD!  EAA` @;@ h`D!A  D1E  AA 0AAP0;0PhE!  D@]  KEHK0U 
+DK` L@@ `A)KPL 0@)A  KL@0 PD)KE  HKU 0@J@P "0m@@P "0m@@J  KEHK0U @J  DKPL00PA)  D)@J  KEHK0U @J  @/@|0 P@/@|0 P@JKE  HKU 0@J@P .0@@@P .0@@@J  @EP
+@E` 
+`@EP
+@E` 
+`@EP
+HK` P@@ `HKPL 0@HK` `@@ `+00HA` @
+`[A\A^A_]ffPf f0f@f.`
+UH  H@} 0HK} 0@@#0E gPHK} 0@GP00PHK0} @G` @@ `HK} 0@GPv0T02PHK0} @G` @@ `HK} 0@GP
+HK0} @G` 
+`]f.0
+UH  AWAVATSHA` @
+`1H@} 0H@u 0@UHK0u @V  @UKU  AHK0u @N  ))@MKE  @FKE  @E@E` 1@@ =`KE@Pk 0@@E  @MP 0
+@KE-@@&  @@EP 0
+@KE-@@ c @@EP 0
+@KE-@@ m @@EP 0
+@KE-@?@  @@EPA 0
+@KE-@v@  @@EP 0
+@KE-@@ G @@EP 0
+@KE-@@~ C @@EPp 0
+@KE-@@  @@EP 0
+@KE-@@H  
+@@EP 0
+@KE-@@  @@EP 0
+@KE-@1@  =@@EP 
+@KE-@@  >@@EP 0
+@KE-@@ 4 B@@|@0 P@0
+KE  -@0F0C@Px 0@P" 0
+@KE-@(@ _ N@@t@0 PO@0
+KE  -@700X@Pp 0@PY 
+@KE-@@
+ B n@@l@0 Pe@
+KE  -@R00|@Ph 0@P 0
+h0
+@@
+ B n@@700XKU  Ku9B  @EK@ 
+@HKE 0@H@PA 0@@  @A@0 P@H@E` @
+@B n`&0
+@@ m @@00@@  @1K}A  LKE 0E@H 0AE)  AA)  ED)  A@p 0KuA  AA ? A@0 3PA@0 3PA!@u  KUKu  @@0 P@@0 P@?G  @E@ 
+@@(0_0N@@  >@@E4%P0#0AP
+E<`% @#@A 
+`AA@` D@x@ W`A@ 0A@PD0x0PWA0 A  @
+A0 @ 
+ A 0EAA0 D  AA 
+ EAA0 
+A   AAA0 
+A   EE  E0A  AA 0A
+A   EAA0 E  @E@ 
+@1
+HKM 0H@ 0KUH  HKu 0KU)@ @ @EH  '00HK0} HK0M H@0 H  s<00@(@ _ N@A@?@0 PDE`%0@#PA 
+pDE`%0@#PA 
+pEA@` f@@9 (`A@ 0A@Pf009P(E0 AA0 A@0 
+  A@ 
+0A 0AE   D0A  AA 0AE 0@Ew@ 
+@@EP0R0P|k@ 
+@@~0C0@@  @1Ku@ ? );KuB  @EI@ 
+@HK} 0HKE 0KMH  H@;  @@EPk00P%@ 
+@KE-@@  2@@@@@  2@@E@E` @R@ |`0
+@@&  @@H00
+@E4`% @#@A 
+`E<%P0#0AP
+A  A@P600PA@0 A@` 6@@ `A 0A@ 
+ A 0@
+A0 E  AA 0DA  A
+E  AA 
+0A A  AA 
+0A E  EE0  AAA0 A 
+ A E  AA 0E@E  v0
+@@&  @@v00@1@E` 
+`E<%P0#0AP
+DEp %P@#0A`
+@  AA  A 0A@ 
+ A 0A@ 
+0A 0DA  EAA0 A  AAA0 A   EAA0 A   EE  E0D  AA   AAA0 E  @E@ 
+@@EP00FPC@ 
+@@040B@@ c @@1E<%P0#0AP
+DEp %P@#0A`
+@  AA  A 0A@ 
+ A 0A@ 
+0A 0DA  EAA0 A  AAA0 A   EAA0 A   EE  E0D  AA   AAA0 E  @EW@ 
+@@040B@@ G @@@EP
+E4`% @#@A 
+`E<%P0#0AP
+A  A@PF0I0vPwA@0 A@` F@I@v w`A 0A@ 
+ A 0@
+A0 E  AA 0DA  A
+E  AA 
+0A A  AA 
+0A E  EE0  AAA0 A 
+ A E  AA 0E@E  
+@E` @@F C`
+HK0M H@0 KU  HHK0u KU  HKU  DKE 0D)H  W$00HA` @
+`[A\A^A_]1
+HK0M H@0 KU  HHK0u KU  )@@@E  H@$  @HK} 0HKM 0H@ 0H@8  @@EP00P>!@
+@@EP
+@E` @H@ 
+@E` 
+`@EP00cP@  @@
+0UH  AWAVAUATSHA` @
+`H@} 0H@u 0@EP
+@E` @@ `KE@P M0@@E  @MPB 0
+@KE-@@  @@EP 0
+@KE-@@b  @@EPl 0
+@KE-@@]  @@EPf 0
+@KE-@@  @@EP 0
+@KE-@@s A @@EP 0
+@KE-@\@R  @@EPF 0
+@KE-@w@  @@EP 0
+@KE-@@  @@EP 0
+@KE-@@ & @@EP{ 0
+@KE-@K@G  @@|@0 P@0
+KE  -@}w00@Px 0@P 0
+@KE-@@  @@t@0 P=@0
+KE  -@B0[0@Pp 0@P 0
+@KE-@@ M @@l@0 P@0
+KE  -@00@Ph 0@Pg 0
+@KE-@@ X H@@d@0 Pi@0
+KE  -@Y00I@P` 0@P 0
+@KE-@@2 q M@@\@0 PH@0
+KE  -@O00N@PX 0@P 0
+40
+@@M  @@00@E4`% @#@A 
+`E<%P0#0AP
+A  A@P00PA@0 A@` @@ `A 0A@ 
+ A 0@
+A0 E  AA 0DA  AE  AA 0A A  AA 0A E  EE0  AAA0 A  A E  AA 0E@E  0
+@@M  @@00@}0   A@U  E4%P0#0AP
+E<`% @#@A 
+`AA@` @p@ `A@ 0A@P0p0PA0 A  @
+  @
+A0 A  E D0  AAA0 E  @E;@ 
+@@Y00I@@ X H@KUA  E@E   0
+@@  @1@
+HK0u @}0 C  Hc@T0 DK0E A  AA 0EE1  E!D)  @A  5A
+A  A1A!  DKE  @L5 0@EP00&P@ 
+@1
+KM@  )@M@E` @@ `0
+@@  @@KG00E`% @#@A 
+`E4%P0#0AP
+@P 0z@@  @@0z PA  @
+A0 @ 
+ A 0EE   E0E  AA 0E@E  L0
+HK0u @@
+@@E 0HK} 0w00@@  @@O00N@E1  DE`%0@#PA 
+pDE`%0@#PA 
+pA@ 0EE  E 0AA 0A@ 
+0A@0 
+A0 A  AA 0EAA0 A 
+ EAA0 
+ D  @A 
+0A A  DA0  EAA0 A 
+ A E  AA 0E@U  0
+@E` w@@ `0
+@\@R  @@]00@@  @HKu 0@~A  AAA` @@
+`A@0 iPDAP 0@iA  !@@0
+PE@E  V0
+HK0u @@
+@@E 
+0HK} 000@E` w@@ `40
+@@
+@HKu 0HK} 0c00@E` 
+`@EP020qPM@ 
+@@}w00@@ M @@} 0B@E  0
+@@s A @@b00@E4`% @#@A 
+`E<%P0#0AP
+A  A@P0[0PA@0 A@` @[@ `A 0A@ 
+ A 0@
+A0 E  AA 0DA  A
+E  AA 
+0A A  AA 
+0A E  EE0  AAA0 A 
+ A E  AA 0E@E  f0
+@@s A @@00@1@@  @LKE 0DKM 0AA 0EE  G 0DK] 0AA 0AA  AAPj00MPA  AAPj00MPAA0 E!  D)@  A@PT 0@A  A@
+PEA1  E!D  LKE 0K}A  C 0E<%P0#0AP
+DEp %P@#0A`
+@  AA  A 0A@ 
+ A@0 
+A0 A  AA 0EAA0 A 
+ D@A0 
+ D  @A 
+0A @  D@0  EAA0 A 
+ A D  @A 0DKPT00PA0E @E  ^0
+@E` B@@[ `R0
+KM  )@)@E  @EP020qPM1@ 
+@1
+HK0u @\@
+@LKE 0H@PH00PL  H@P@00PLK` H@@ `H@P800PL  @4@0 PK00HK` @@@ `HKP4 0@HK` 8@@ `/00HA` @
+`[A\A]A^A_]@E` @@ `
+HK0u @@
+@@E 0HK} 000@E` K@G@ `
+@@  @@
+HK0U Ku  A4  DKE 0AA 0AAA0 A  AAP0!0PDE  AAP0!0PDAA0 E!  @^@02 xPD)@P^ 02@xA  AA  AAP0
+5At@2  $@DAt@2  $@A!@  HKU 0KE : @EP0b0P@  @fff.0P
+UH  AWAVAUATSHA` @
+`HKPh00PH@0} H@0u @U  H@  @@d0`P
+@`0`P@p K`@0 P@z@0 P@\@0 P@X@0 P@0
+KP\ 0@-@@  @@T@0 P@
+KP\ 0@-@@x  @@P@0 P@
+KP\ 0@-@v@  @@L@0 Pf@0
+KP\ 0@-@r@  D@@H@0 P@0
+KP\ 0@-@@"  e@@D@0 PG@
+KP\ 0@-@r@ e g@@@@0 P@0
+@ 
+@@x00@@"  e@Kd@0 P;KUB  @`@0 P0
+HK` h@@ `@
+HK0E KPd 0@H  H@  @@`0`Pz@p 0
+KPd 0@@  )@d@0 P@`0`P@p n0
+@r@  D@@v00@E4`% @#@A 
+`E<%P0#0AP
+A  A@PO00P<A@0 A@` O@@ <`A 0A@ 
+ A 0@
+A0 E  AA 0DA  A
+E  AA 
+0A A  AA 
+0A E  EE0  AAA0 A 
+ A E  AA 0E@P` 0@@
+@HKPh00PHK0} @  @@r00D@r@ e g@@E1HK0u @F0 
+DEp %P@#0A`
+DEp %P@#0A`
+A@0 E  EE0 AA0 A@0 
+  A@ 
+0A 0AAA0 E  AA 0A
+E  AA 
+0 D@A0 
+A   AD  A0E  AA 0A
+A   EAA0 E  @`@0 P4
+HA` @
+`[A\A]A^A_]HK` h@@ `HK} 000HK0u @F0 
+@` p@Pv`0F@  @@
+0AWAVIAUATL`% @%@
+`UH`- @%@
+`SA  IL)  HA 0HA 000H  t 1`
+pLL  DA0 H@0 H9  uHA 0[]A\A]A^A_ff. @
+HGQ 0HA 0
+JPoi n0 uPs pnow and` s@ha r0e Pthpe softw`ar@e; 
+0YPoup'0lPlP 0bpe free, hacpk0ePrPs0,p you'll be pf0rPePe0.pHPoa rd@er`s can` g@et  pi le@s `of mo`ne@y, 
+TPha0t0 iPs ptrue, hpacPke0r0s,P tphat is ptrPue0.0BPuPt  0t@he`y cannot phePl p0 @th`eir neighpboPr s0;@TPha t'@s` `n@ot  good, ha ck@e`r`s@,  that's no t @g`o`o@d. 
+WPhen0 wPe phave `en@ou gh 0frPeep soft`wa@re 
+APt o0urP cpall, phaPck0ers0, Patp our pcaPll0,WPe0' ll@ k`ick outp tPho0s e @di`rty licpenPse0s EPve r @mo`re,` h@ac kers,  e@ve`r m`or@e. 
+EPrro0r Pcopde [2`33@3] 
+RPunn0inPg pthis `pr@og ram0 fPorp too `lo@ng  is0 uPnhpealth`y @fo r y0ouPr pcompu`te@r. 
+PPlea0seP cpopntPac0t your 0adPmipnpisPtr0ator fo0r PdeptpaiPls0.%P0P2 x0 @
+fPla gp{@%Ps`}0
+SPin g`i@n@g`  songs is go o`d@ @f`o r mental he a`l@t@h`. 
+MPind0 wPe ps`in@g  this so0ngP apg`ai@n? 
+ePchpo0 P-Pe0np '' > /devp/0tPtPy05p
+KPePy :0 @
+UPsa ge@: `%s [m`sg@]
+aPaA040
+P0@`
+p`P0@`
+pP0@`
+p`
+@`
+p@`
+pA`
+pA`
+p@`
+`o0
+p8@`
+p@`
+pX@`
+ A`
+p 
+p@`
+p@`
+p0
+`o0
+p@`
+`o0
+`o0
+pd@`
+8P0$A`
+phP0$A`
+pP0A`
+P0$A`
+pP0$A`
+pP0$A`
+pP0$A`
+p P0$A`
+p(P0$A`
+p0P0$A`
+p@P0$A`
+pHP0$A`
+pPP0$A`
+pXP0$A`
+p`P0$A`
+UP0A`
+p(P0A`
+pP0A`
+p(P0A`
+pQP0A`
+prP0A`
+pP0A`
+pP0A`
+pP0A`
+P0A`
+p-P0A`
+pQP0A`
+pP0A`
+p(P0A`
+pP0A`
+p(P0A`
+VA*
+8@
+<@
+@@
+D@
+H@
+P@
+T@
+!@
+3@
+=@
+H@
+T@
+0@
+@@
+P@
+`@
+p@
+ @
+#@
+0@
+(A
+QA
+rA
+-A
+QA
+pA
+,A
+JA
+oA
+uA
+ A
+$A
+$A
+$A
+$A
+ $A
+($A
+0$A
+8$A
+@$A
+H$A
+P$A
+X$A
+`$A
+IDATIL
+Local type definitions
+gnulnx_x64
+Elf64_Sym
+1$""#%%
+st_namest_infost_otherst_shndxst_valuest_size
+Elf64_Rela
+%%
+r_offsetr_infor_addend
+Elf64_Dyn
+%%
+d_tagd_un
+__va_list_tag
+!''
+gp_offset
+fp_offsetoverflow_arg_areareg_save_area
+gcc_va_list
+=__va_list_tag
+IDASUUA#
+A#            W
