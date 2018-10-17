@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Z-Pool</title>
+    <style>
+        div {
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <h1>Mining pool of Z</h1>
+</div>
+<div>
+    大家好，我是 Z 同学。本周起，我的矿池正式上线，在此隆重推出三种全新电子货币：SHA1 coin、MD5 coin 和 SHA256 coin，
+    未来还可能推出 CRC32 coin（大雾）。为了方便同学们帮我挖矿，我还开发了浏览器挖矿功能，点击下面的开始按钮即可挖矿。
+    想获得 flag？先帮我挖出来一个块再说吧~ 哦对了，三种币分别对应三个 flag 哦~
+</div>
+<div>
+    <select id="coin">
+        <option value="1">SHA1 coin</option>
+        <option value="0">MD5 coin</option>
+        <option value="2">SHA256 coin</option>
+    </select>
+    <button type="button" onclick="start()" id="startbutton">开始挖矿</button>
+    <button type="button" onclick="stop()" id="stopbutton" disabled>停止挖矿</button>
+</div>
+<div>
+    <textarea id="status" readonly rows="20" style="width: 100%; font-family: monospace;"></textarea>
+</div>
+<script type="text/javascript" src="/static/hashes.js"></script>
+<script type="text/javascript" src="/static/jquery-3.3.1.min.js"></script>
+<script>
+    job = {'suffix': null, 'timer1': null, 'timer2': null};
+
+    function log(msg) {
+        var textarea = $('#status');
+        textarea.val(textarea.val() + (new Date()).toLocaleString() + " " + msg + '\n');
+        textarea.scrollTop(textarea[0].scrollHeight);
+    }
+
+    function getjob() {
+        job['timer1'] = setTimeout(getjob, 10000);
+        log("Requesting for new job...");
+        $.ajax({
+            url: "/getjob",
+            method: "POST",
+            data: {},
+            success: function (result) {
+                job['suffix'] = result['suffix'];
+                log("New job received, suffix = " + job['suffix'])
+            }
+        });
+    }
+
+    function hash() {
+        job['timer2'] = setTimeout(hash, 200);
+        if (job['suffix'] === null)
+            return;
+        var nonce1 = Math.random().toString();
+        var nonce2 = Math.random().toString();
+        var algo = $("#coin").val();
+        var hashobj = new [Hashes.MD5, Hashes.SHA1, Hashes.SHA256][algo]();
+        var hash1 = hashobj.hex(nonce1 + job['suffix'].substring(0, [16, 4, 1][algo]));
+        var hash2 = hashobj.hex(nonce2 + job['suffix'].substring(0, [16, 4, 1][algo]));
+        var d = 0;
+        for (var i = 0; i < hash1.length; i++) {
+            var digit = parseInt(hash1[i], 16) ^ parseInt(hash2[i], 16);
+            for (var j = 0; j < 4; j++) {
+                if (((digit >> j) & 1) === 0) {
+                    d++;
+                }
+            }
+        }
+        log('Mining ' + ["MD5", "SHA1", "SHA256"][algo] + " coin, result = " + d.toString());
+        if (d > [73, 90, 141][algo]) {
+            log('Submitting result(' + d.toString() + ') to pool...');
+            $.ajax({
+                url: "/submitjob",
+                method: "POST",
+                data: {
+                    'nonce1': btoa(nonce1),
+                    'nonce2': btoa(nonce2),
+                    'coin': algo
+                },
+                success: function (result) {
+                    log('Success: ' + result['success'] + ', server info: ' + result['info']);
+                }
+            });
+        }
+    }
+
+    function start() {
+        $("#startbutton").attr("disabled", "disabled");
+        $("#stopbutton").removeAttr("disabled");
+        job['suffix'] = null;
+        getjob();
+        hash();
+    }
+
+    function stop() {
+        clearTimeout(job['timer1']);
+        clearTimeout(job['timer2']);
+        $("#stopbutton").attr("disabled", true);
+        $("#startbutton").removeAttr("disabled");
+    }
+</script>
+</body>
+</html>

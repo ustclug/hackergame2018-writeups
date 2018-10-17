@@ -1,0 +1,6 @@
+version: '3'
+services:
+  pysim:
+    build: .
+    ports:
+     - "12009:9999"
