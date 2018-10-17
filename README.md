@@ -25,7 +25,7 @@
 | [黑曜石浏览器 (heicore)](official/heicore/README.md) | [文件、源代码](official/heicore/src) |
 | [回到过去 (back_in_time)](official/back_in_time/README.md) | [文件、源代码](official/back_in_time/src) |
 | [我是谁 (who_am_i)](official/who_am_i/README.md) | [文件、源代码](official/who_am_i/src) |
-| [家里有矿 (mining_pool_of_Z)](official/mining_pool_of_Z/README.md) | [文件、源代码](official/mining_pool_of_Z/src) |
+| [家里有矿 (mining_pool_of_Z)](official/mining_pool_of_Z/README.md)(待补充) | [文件、源代码](official/mining_pool_of_Z/src) |
 | [秘籍残篇 (true_flxger)](official/true_flxger/README.md) | [文件、源代码](official/true_flxger/src) |
 | [猫咪遥控器 (catremote)](official/catremote/README.md) | [文件、源代码](official/catremote/src) |
 | [她的诗 (her_poem)](official/her_poem/README.md) | [文件、源代码](official/her_poem/src) |
@@ -41,7 +41,7 @@
 | [Z 同学的 RSA (RSA_of_Z)](official/RSA_of_Z/README.md) | [文件、源代码](official/RSA_of_Z/src) |
 | [数理基础扎实的发烧友 (audiophile)](official/audiophile/README.md) | [文件、源代码](official/audiophile/src) |
 | [一些宇宙真理 (gop_snark)](official/gop_snark/README.md) | [文件、源代码](official/gop_snark/src) |
-| [对抗深渊 (adversarial)](official/adversarial/README.md) | [文件、源代码](official/adversarial/src) |
+| [对抗深渊 (adversarial)](official/adversarial/README.md) | [文件、源代码](official/adversarial/src)(暂缺) |
 
 ### 来自选手
 
