@@ -4,7 +4,7 @@
 
 该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up （players 目录）。
 
-若大家对官方题解有任何疑问或改进建议，欢迎 [提 issue](https://github.com/ustclug/hackergame2018-writeups/issues/new)
+若大家对本题解有任何疑问或改进建议，欢迎 [提 issue](https://github.com/ustclug/hackergame2018-writeups/issues/new)
 
 **还没有详细题解的题目会在这几天陆续补充，请耐心等待！**
 
@@ -84,7 +84,7 @@
 
 - [Ciel](players/Ciel/README.md) **（总榜第 36）**（签到题、猫咪问答、游园会的集章卡片、猫咪和键盘、Word 文档、猫咪银行、黑曜石浏览器、回到过去、我是谁、秘籍残篇 - 滑稽 Art、猫咪遥控器、她的诗、猫咪克星、猫咪电路、C 语言作业、加密算法和解密算法、她的礼物）
 
-## 尾声
+## 花絮
 - [搞笑 flag 合集](misc/funny_flags.md)
 - [其他花絮](misc/others.md)
 
