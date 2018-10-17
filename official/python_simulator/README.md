@@ -134,4 +134,4 @@ while True:
     print(ans)
 ```
 
-但是要注意，即使把所有内置对象都替换掉，也不意味这 `eval` 任意的输入就是安全的，详见 [Python 沙箱逃逸](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/sandbox/python-sandbox-escape/)
+但是要注意，即使把所有内置对象都替换掉，也不意味着 `eval` 任意的输入就是安全的，详见 [Python 沙箱逃逸](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/sandbox/python-sandbox-escape/)
