@@ -37,4 +37,4 @@ typed_printf.py:
 
 得到flag{FfQ47if9Zxw9jXE68VtGAJDk6Y6Xc88UrUtpK3iF8p7BMs4y2gzdG8Ao2gv6aiJ125typed_printf95}
 
-[返回](../readme.md)
+[返回](../)
