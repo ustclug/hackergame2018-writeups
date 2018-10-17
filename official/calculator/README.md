@@ -22,6 +22,8 @@ SIGILL、SIGABRT、SIGFPE、SIGSEGV 几个信号被注册到了 `__err` 函数�
 
 然后，我们需要找到一个程序，不带参数地运行可以帮我们拿到 shell，我能想到的是 vim，当然也可能有其他解法。
 
+_注：我本想模拟一个新安装的 Ubuntu 环境，但是 Ubuntu 的 docker 镜像里面什么都没有，`ed`、`vi` 等命令也应该安装一下的，我对此表示抱歉。（有人提到 python，emmmm）_
+
 第二步输入 `vim` ，然后进入了一个没有 tty 的 vim，很难受，不过也可以执行命令。我们在 vim 内输入 `!cat flag` 即可读取 flag。
 
 然而 flag 告诉我们这个是假的，真的 flag 在一个叫 `-` 的文件里，我们执行 `!cat -` 就可以了。然后什么都没看到！
