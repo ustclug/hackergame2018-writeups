@@ -84,6 +84,10 @@
 
 - [Ciel](players/Ciel/README.md) **（总榜第 36）**（签到题、猫咪问答、游园会的集章卡片、猫咪和键盘、Word 文档、猫咪银行、黑曜石浏览器、回到过去、我是谁、秘籍残篇 - 滑稽 Art、猫咪遥控器、她的诗、猫咪克星、猫咪电路、C 语言作业、加密算法和解密算法、她的礼物）
 
+## 尾声
+- [搞笑 flag 合集](misc/funny_flags.md)
+- [其他花絮](misc/others.md)
+
 ## 其他资源
 
 - [中国科学技术大学第四届信息安全大赛题解](https://volltin.gitbooks.io/hackergame2017-writeup/)
