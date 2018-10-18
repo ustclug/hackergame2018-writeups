@@ -55,6 +55,7 @@
 | [ProfFan](players/ProfFan/README.md) | 总榜第 5 | 游园会的集章卡片、数理基础扎实的发烧友、对抗深渊、<br/>加密算法和解密算法 |
 | [cvhc](players/cvhc/README.md) | 总榜第 6 | 猫咪遥控器、猫咪电路、家里有矿、C 语言作业、<br/>加密算法和解密算法、王的特权、对抗深渊 |
 | [Ciel](players/Ciel/README.md) | 总榜第 36 | 签到题、猫咪问答、游园会的集章卡片、猫咪和键盘、Word 文档、<br/>猫咪银行、黑曜石浏览器、回到过去、我是谁、秘籍残篇 - 滑稽 Art、<br/>猫咪遥控器、她的诗、猫咪克星、猫咪电路、C 语言作业、<br/>加密算法和解密算法、她的礼物 |
+| [Fatykrch](players/fatykrch/README.md) | 总榜第 4 | 猫咪和键盘、猫咪银行、秘籍残篇-滑稽Art、猫咪遥控器、猫咪克星、加密算法和解密算法、她的礼物、困惑的 flxg 小程序、CWK 的试炼、一些宇宙真理、对抗深渊 |
 
 ## 花絮
 - [搞笑 flag 合集](misc/funny_flags.md)
