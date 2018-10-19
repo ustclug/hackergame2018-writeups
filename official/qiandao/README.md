@@ -10,7 +10,7 @@
 
 ## 解法一：观察地址栏
 
-CTF 需要视力！只需要观察到地址栏中 `?key=hackergame201` ，将其改为 `?key=hackergame2018` 并回车就可以得到 flag。
+Hackergame 需要视力！只需要观察到地址栏中 `?key=hackergame201` ，将其改为 `?key=hackergame2018` 并回车就可以得到 flag。
 
 ![image-20181016015820553](images/image-20181016015820553.png)
 
@@ -21,3 +21,5 @@ CTF 需要视力！只需要观察到地址栏中 `?key=hackergame201` ，将其
 ![image-20181016020015148](images/image-20181016020015148.png)
 
 一个叫做 `maxlength="13"` 的东西，我们双击它，修改为大于等于 14 的数字或删除即可。
+
+最后得到 flag：`flag{Hackergame2018_Have_Fun!}`

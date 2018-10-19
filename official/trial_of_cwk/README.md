@@ -22,7 +22,7 @@ Tor，nc with proxy，LSB，抠图
 脚本得到的是一个 Base64 的字符串。解码后是一个 ELF 文件。在远程输入 Base64 字符串或者 ELF 的 CRC32 均可得到第一个 flxg。
 ### 此小技耳
 ##### TL;DR
-https://gist.github.com/pzread/2ae0bb3aa5fe0dc69fcf3257c41db944，bit flipping attack
+https://gist.github.com/pzread/2ae0bb3aa5fe0dc69fcf3257c41db944 ，bit flipping attack
 ##### 详解
 这道题其实是出题人学习去年 HTICON 里一个技巧的成果 (话说马上又要 HITCON 了)。有两个人做出来有点出人意料(可能有非预期了)，不过因为控制好了 SECCOMP，再怎么非预期也不会造成预期之外的危害 23333333
 
