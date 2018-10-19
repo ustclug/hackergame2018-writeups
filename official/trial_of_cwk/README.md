@@ -44,3 +44,6 @@ exp 见 poc.py，代码见 trial.c
 关于如何做到将 memcmp 偷天换日到 strcmp，可以看 HITCON 的那篇 gist。基本原理就是内核计算 PHDR 的偏移错误，所以可以放上两个 PHDR，真 PHDR 中的 PT_DYNAMIC 中 DT_SYMTAB 被修改了。所以 ld.so 解析函数的时候会使用后面的 DT_SYMTAB，而一般的反汇编工具会使用 ELF Spec 下的 DT_SYMTAB。
 
 更详细一点的介绍在这里，http://h3ysatan.blogspot.com/2018/02/quick-notes-hitcon-ctf-2017-qual-elf.html。
+###### 翻车
+果然翻车了, 有个特别简单的非预期解... 排查后发现是 UB 导致的编译器优化把一个边界检查给优化没了... 辣鸡 GCC (╯‵□′)╯︵┻━┻
+换成 clang 编译就没这么多事了...
