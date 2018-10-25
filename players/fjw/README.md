@@ -9,6 +9,8 @@ by fjw
 ```python
 import subprocess as sp
 
+CMD = "nc 202.38.95.46 12009".split()
+
 p = sp.Popen(CMD, stdin=sp.PIPE, stdout=sp.PIPE, stderr=sp.PIPE)
 
 print(p.stdout.readline())  # 过滤掉第一行
