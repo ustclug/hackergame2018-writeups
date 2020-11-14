@@ -8,7 +8,7 @@
 
 **还没有详细题解的题目会在这几天陆续补充，请耐心等待！**
 
-**比赛平台存档地址：[https://hack2018.lug.ustc.edu.cn/](https://hack2018.lug.ustc.edu.cn/)**
+**比赛平台存档地址：[https://hack2018.lug.ustc.edu.cn/](https://hack2018.lug.ustc.edu.cn/)**（已关闭）
 
 ## 目录
 
