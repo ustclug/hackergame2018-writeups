@@ -1,4 +1,24 @@
 # 回到过去
+
+那些发明Unix操作系统的大叔们怎么编辑文本文件呢？
+
+据记载，他们使用一种叫做ed的神奇编辑器，而Unix Hater's Handbook对此有生动的描述：
+
+Ken Thompson has an automobile which he helped design. Unlike most automobiles, it has neither speedometer, nor gas gauge, nor any of the other numerous idiot lights which plague the modern driver. Rather, if the driver makes a mistake, a giant “?” lights up in the center of the dashboard. “The experienced driver,” says Thompson, “will usually know what’s wrong.”
+
+也许是八十年代的某天，调皮的Lawrence正在使用他的DEC VT终端连接到一台大型Unix主机编辑文件——他是个机灵的家伙，使用ed的时候从不需要看屏幕的输出。只看他正在用ed写本题的flag。写了半天，兴高采烈的Lawrence接了个电话，关上ed才发现自己没有保存。
+
+聪明的你能根据对他键盘的记录，还原出你要找的flag吗？
+
+**info ed** 命令对于没有使用过ed的你是十分有用的。
+
+Hint1：有多个字符串的话，就从上到下连成一行提交就好啦。
+
+Hint2：flag只接受数字和字母。
+
+[打开题目](src/input_sequence)
+
+---
 ## 背景和题目设定
 一道简单题目，考察选手对 Unix 环境基本操作的熟悉程度，和对输入输出重定向等的基本理解。
 灵感来源于 *Unix Hater's Handbook*，这也是小 L 同学第一次知道还有 ed 这个~~鬼畜~~编辑器。事实上，当你把环境变量 `$TERM` 设置为一个 `terminfo` 中没有的终端类型时，比如
