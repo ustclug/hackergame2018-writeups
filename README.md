@@ -2,11 +2,9 @@
 
 本文档收集整理了中国科学技术大学第五届信息安全大赛的官方与非官方题解。
 
-该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up （players 目录）。
+欢迎各位选手以 Pull Request 的形式提交自己的 write-up（players 目录）。
 
 若大家对本题解有任何疑问或改进建议，欢迎 [提 issue](https://github.com/ustclug/hackergame2018-writeups/issues/new)
-
-**还没有详细题解的题目会在这几天陆续补充，请耐心等待！**
 
 **比赛平台存档地址：[https://hack2018.lug.ustc.edu.cn/](https://hack2018.lug.ustc.edu.cn/)**（已关闭）
 
